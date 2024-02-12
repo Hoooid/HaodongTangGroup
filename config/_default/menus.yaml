@@ -10,7 +10,7 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: People
+  - name: 人员
     url: people
     weight: 30
   - name: Events
