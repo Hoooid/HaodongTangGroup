@@ -7,7 +7,7 @@ main:
   #- name: 历程
   #  url: tour
    # weight: 10
-  - name:学术新闻
+  - name: 学术新闻
     url: post
     weight: 20
   - name: 人员
