@@ -48,10 +48,10 @@ education:
 social:
   - icon: link
     icon_pack: fas
-    link: https://chensztu.github.io/index.html
+    link: https://eee.sustech.edu.cn/?view=%E7%8E%8B%E6%81%BA&jsid=18
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=QMUDB68AAAAJ
+    link: https://scholar.google.com/citations?user=GIFaWXMAAAAJ&hl=en
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
