@@ -1,5 +1,6 @@
 ---
-title: "An example journal article"
+title: "A full high-definition quantum dot light-emitting diode-on-silicon
+   microdisplay"
 authors:
 - admin
 - Robert Ford
