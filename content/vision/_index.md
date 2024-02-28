@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Vision
 date: 2022-10-24
 
 type: landing
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the Nano Photonics Group
+        content: We're working on nano particles and their optoelectronic applications
         align: center
         background:
           image:
