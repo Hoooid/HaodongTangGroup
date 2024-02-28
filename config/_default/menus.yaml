@@ -5,8 +5,8 @@
 
 main:
   - name: Vision
-   url: vision
-   weight: 10
+    url: vision
+    weight: 10
   - name: Post
     url: post
     weight: 20
