@@ -28,5 +28,5 @@ tags:
 - color converter film polypropylene quantum dots stability thermal processed
 links:
 - name: URL
-  url: https://doi.org/10.1021%2Facsami.2c08669 https://pubs.acs.org/doi/10.1021/acsami.2c08669
+  url: https://doi.org/10.1021%2Facsami.2c08669
 ---

@@ -25,5 +25,5 @@ publication: '*ACS Nano*'
 doi: 10.1021/acsnano.3c08526
 links:
 - name: URL
-  url: <Go to ISI>://WOS:001116590300001
+  url: https://pubs.acs.org/doi/abs/10.1021/acsnano.3c08526
 ---

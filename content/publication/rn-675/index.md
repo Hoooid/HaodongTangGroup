@@ -35,5 +35,5 @@ tags:
 - nanopatterning direct laser interference patterning graphene smart contact lens
 links:
 - name: URL
-  url: https://doi.org/10.1021/acsami.9b21300 https://pubs.acs.org/doi/10.1021/acsami.9b21300
+  url: https://pubs.acs.org/doi/10.1021/acsami.9b21300
 ---

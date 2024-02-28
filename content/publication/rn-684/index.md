@@ -44,5 +44,5 @@ tags:
 - V oc loss colloidal quantum dots functional molecules passivation solar cells
 links:
 - name: URL
-  url: https://doi.org/10.1002%2Fadma.202207293 https://onlinelibrary.wiley.com/doi/10.1002/adma.202207293
+  url: https://onlinelibrary.wiley.com/doi/10.1002/adma.202207293
 ---

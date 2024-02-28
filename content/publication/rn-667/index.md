@@ -26,5 +26,5 @@ publication: '*Journal of Materials Chemistry A*'
 doi: 10.1039/d0ta09671g
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000590158400044 https://pubs.rsc.org/en/content/articlepdf/2020/ta/d0ta09671g
+  url: https://pubs.rsc.org/en/content/articlepdf/2020/ta/d0ta09671g
 ---

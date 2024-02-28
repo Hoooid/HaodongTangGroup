@@ -44,5 +44,5 @@ tags:
   solar-cells pbs graphene films
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000507667200009 https://pubs.acs.org/doi/10.1021/acsanm.9b00889
+  url: https://pubs.acs.org/doi/10.1021/acsanm.9b00889
 ---

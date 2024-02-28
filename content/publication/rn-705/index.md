@@ -43,5 +43,5 @@ tags:
 - open-circuit voltage efficient surface inks stability transport
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000646737400001 https://pubs.rsc.org/en/content/articlepdf/2021/ee/d1ee00832c
+  url: https://pubs.rsc.org/en/content/articlepdf/2021/ee/d1ee00832c
 ---

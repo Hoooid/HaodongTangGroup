@@ -21,5 +21,5 @@ doi: 10.1109/access.2020.2987043
 links:
 - name: URL
   url: <Go to ISI>://WOS:000530809000027 
-    https://ieeexplore.ieee.org/ielx7/6287639/8948470/09063450.pdf?tp=&arnumber=9063450&isnumber=8948470&ref=
+    https://ieeexplore.ieee.org/document/9063450
 ---

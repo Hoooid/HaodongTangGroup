@@ -35,5 +35,5 @@ tags:
   (OLED) Phosphors Semiconductor quantum dots Yttrium aluminum garnet
 links:
 - name: URL
-  url: http://dx.doi.org/10.1364/OE.24.021577 https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-19-21577&id=349925
+  url: http://dx.doi.org/10.1364/OE.24.021577
 ---

@@ -24,7 +24,5 @@ publication: '*Advanced Electronic Materials*'
 doi: 10.1002/aelm.202000965
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000611157300001 
-    https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aelm.202000965?download=true
-    https://onlinelibrary.wiley.com/doi/10.1002/aelm.202000965
+  url: https://onlinelibrary.wiley.com/doi/10.1002/aelm.202000965
 ---

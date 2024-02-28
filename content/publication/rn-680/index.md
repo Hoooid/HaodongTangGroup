@@ -42,5 +42,5 @@ abstract: The emergence of optical Internet of Things (optical-IoT) for sixth-ge
 links:
 - name: URL
   url: 
-    https://ieeexplore.ieee.org/ielx7/4563994/9361373/09380353.pdf?tp=&arnumber=9380353&isnumber=9361373&ref=
+    https://ieeexplore.ieee.org/document/9380353
 ---

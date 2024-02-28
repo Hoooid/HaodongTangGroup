@@ -32,6 +32,5 @@ publication: '*Advanced Functional Materials*'
 doi: 10.1002/adfm.202000594
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000537167400008 
-    https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202000594?download=true
+  url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202000594?download=true
 ---

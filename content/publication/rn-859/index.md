@@ -27,5 +27,5 @@ publication: '*Advanced Materials*'
 doi: 10.1002/adma.202305604
 links:
 - name: URL
-  url: <Go to ISI>://WOS:001112944900001
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202305604
 ---

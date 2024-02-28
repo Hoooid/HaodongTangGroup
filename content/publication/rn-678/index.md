@@ -19,5 +19,5 @@ publication: '*Journal of the Society for Information Display*'
 doi: 10.1002/jsid.781
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000491488800001 https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jsid.781?download=true
+  url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jsid.781?download=true
 ---

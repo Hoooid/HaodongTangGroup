@@ -17,5 +17,5 @@ publication: '*Applied Physics Letters*'
 doi: 10.1063/5.0019140
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000568860400001 https://aip.scitation.org/doi/pdf/10.1063/5.0019140
+  url: https://aip.scitation.org/doi/pdf/10.1063/5.0019140
 ---

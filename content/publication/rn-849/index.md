@@ -41,6 +41,5 @@ tags:
   transistors solar-cells energy migration diffusion length transport kinetics inks
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000595104500002 
-    https://www.sciencedirect.com/science/article/abs/pii/S2211285520308326?via%3Dihub
+  url: https://www.sciencedirect.com/science/article/abs/pii/S2211285520308326?via%3Dihub
 ---

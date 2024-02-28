@@ -18,5 +18,5 @@ publication: '*IEEE Photonics Technology Letters*'
 doi: 10.1109/lpt.2017.2738100
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000413026300001 https://ieeexplore.ieee.org/document/8007265/
+  url: https://ieeexplore.ieee.org/document/8007265/
 ---

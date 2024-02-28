@@ -18,5 +18,5 @@ publication_types:
 - article-journal
 publication: '*Advanced Science*'
 doi: 10.1002/advs.202101729
-url_pdf: https://doi.org/10.1002%2Fadvs.202101729 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8456202/pdf/ADVS-8-2101729.pdf
+url_pdf: https://doi.org/10.1002%2Fadvs.202101729
 ---

@@ -40,5 +40,5 @@ tags:
   devices
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000695033800001 https://onlinelibrary.wiley.com/doi/10.1002/adom.202101069
+  url: https://onlinelibrary.wiley.com/doi/10.1002/adom.202101069
 ---
