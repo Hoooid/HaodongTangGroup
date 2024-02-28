@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  #- name: 历程
-  #  url: tour
-   # weight: 10
+  - name: Vision
+   url: vision
+   weight: 10
   - name: Post
     url: post
     weight: 20
