@@ -6,6 +6,10 @@ title: Haodong Tang
 first_name: Haodong
 last_name: Tang
 
+# Username (this should match the folder name)
+authors:
+  - Haodong Tang
+
 # Is this the primary user of the site?
 superuser: true
 
