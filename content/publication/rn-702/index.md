@@ -6,7 +6,7 @@ authors:
 - Jialin Zhong
 - Kai Wang
 - Xiao Wei Sun
-date: -01-01
+date: 2018-01-01
 publishDate: '2024-02-28T07:01:00.945833Z'
 publication_types:
 - paper-conference

@@ -10,7 +10,7 @@ authors:
 - Wang Kai
 - Teo Kie Leong
 - Sun Xiao Wei
-date: -01-01
+date: 2019-01-01
 publishDate: '2024-02-28T07:01:01.084256Z'
 publication_types:
 - paper-conference
