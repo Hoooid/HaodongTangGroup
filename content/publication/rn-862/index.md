@@ -25,5 +25,5 @@ publication: '*Advanced Optical Materials*'
 doi: 10.1002/adom.202300945
 links:
 - name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300945
+  url: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300945'
 ---

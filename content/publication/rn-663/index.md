@@ -16,5 +16,5 @@ publication: '*2016 17th International Conference on Electronic Packaging Techno
   (ICEPT)*'
 links:
 - name: URL
-  url: https://doi.org/10.1109%2Ficept.2016.7583356
+  url: 'https://doi.org/10.1109%2Ficept.2016.7583356'
 ---

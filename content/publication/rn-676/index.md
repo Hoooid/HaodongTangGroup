@@ -20,6 +20,5 @@ publication: '*IEEE Access*'
 doi: 10.1109/access.2020.2987043
 links:
 - name: URL
-  url: <Go to ISI>://WOS:000530809000027 
-    https://ieeexplore.ieee.org/document/9063450
+  url: https://ieeexplore.ieee.org/document/9063450
 ---

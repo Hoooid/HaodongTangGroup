@@ -41,6 +41,5 @@ abstract: The emergence of optical Internet of Things (optical-IoT) for sixth-ge
   optical receivers.
 links:
 - name: URL
-  url: 
-    https://ieeexplore.ieee.org/document/9380353
+  url: https://ieeexplore.ieee.org/document/9380353
 ---
