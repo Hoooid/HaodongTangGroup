@@ -15,7 +15,6 @@ sections:
           - Collaborators
           - Graduate Students
           - Undergraduate Students
-          - Visitors
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true

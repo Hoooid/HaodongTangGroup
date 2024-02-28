@@ -1,6 +1,6 @@
 ---
 title: Jiankai Wang Gets Accepted for Poster Presentation in Display Week 2024!
-date: 2024-2-4
+date: 2024-02-04
 ---
 
 Congratulations to Jiankai Wang, his paper been accepted for poster presentation as a student paper in Singal Infomation Display Week 2024.
