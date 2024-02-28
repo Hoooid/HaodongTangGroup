@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        NanoPhotonics
+        Nano Photonics
         Research Group
       image:
         filename: welcome.jpg
