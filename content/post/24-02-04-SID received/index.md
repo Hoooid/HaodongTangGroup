@@ -1,6 +1,6 @@
 ---
-title: Jiankai Wang gets accepted for poster presentation as a student paper in SID 2024!
-date: 2020-12-01
+title: Jiankai Wang Gets Accepted for Poster Presentation in Display Week 2024!
+date: 2024-2-4
 ---
 
 Congratulations to Jiankai Wang, his paper been accepted for poster presentation as a student paper in Singal Infomation Display Week 2024.
