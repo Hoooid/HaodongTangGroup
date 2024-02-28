@@ -10,8 +10,8 @@ authors:
 - Junjie Hao
 - Rui Wang
 - Kai Wang
-date: -01-01
-publishDate: '2024-02-28T07:01:01.020397Z'
+date: '2016-01-01'
+publishDate: '2016'
 publication_types:
 - paper-conference
 publication: '*2016 17th International Conference on Electronic Packaging Technology
