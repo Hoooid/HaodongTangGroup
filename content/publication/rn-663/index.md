@@ -1,6 +1,5 @@
 ---
-title: Large-scale alignment quantum rods film for high efficiency wide color gamut
-  LED display
+title: Large-scale alignment quantum rods film for high efficiency wide color gamut LED display
 authors:
 - Zuoliang Wen
 - Shang Li
