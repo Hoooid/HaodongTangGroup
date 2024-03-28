@@ -1,6 +1,6 @@
 ---
 # Display name
-title: WeiCHEN
+title: WeiChen
 
 # Full name (for SEO)
 first_name: Wei

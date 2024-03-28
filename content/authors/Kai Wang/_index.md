@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kai Wang
+title: KaiWang
 
 # Full name (for SEO)
 first_name: Kai

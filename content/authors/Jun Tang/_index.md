@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jun Tang
+title: JunTang
 
 # Full name (for SEO)
 first_name: Jun

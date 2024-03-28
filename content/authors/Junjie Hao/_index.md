@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junjie Hao 
+title: JunjieHao 
 
 # Full name (for SEO)
 first_name: Junjie
