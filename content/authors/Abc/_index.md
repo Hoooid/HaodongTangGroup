@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Haodong Tang
 
 # Full Name (for SEO)
 first_name: Nelson
