@@ -73,5 +73,4 @@ user_groups:
   - Principal Investigator
 ---
 
-
 Haodong Tang earned his Ph.D from the University of Birmingham and subsequently assumed the position of Assistant Professor at Shenzhen Technology University in the College of Integrated Circuits and Optoelectronic Chips. His area of research centers on the development of solution processable semiconductors and their associated optoelectronic devices, such as LEDs, photodiodes, and photovoltaics.
