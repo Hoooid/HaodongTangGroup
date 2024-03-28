@@ -1,38 +1,41 @@
 ---
 # Display name
-title: Haodong Tang
+title: Nelson Bighetti
 
 # Full Name (for SEO)
-first_name: Haodong
-last_name: Tang
+first_name: Nelson
+last_name: Bighetti
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: Stanford University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include optoelectronic devices, colloidal quantum dots and CMOS image sensors.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Optoelectronic Chips
-  - Photodetectors
-  - Colloidal Quantum Dots
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
-    - course: Doctor of Philosophy
-      institution: University of Birmingham
-      year: 2021
-    - course: Bechalor of Engineering
-      institution: Southern University of Science and Technology
-      year: 2017
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tanghaodong@sztu.edu.cn'
-  - icon: orcid
+    link: 'mailto:test@example.org'
+  - icon: twitter
     icon_pack: fab
-    link: https://orcid.org/my-orcid?orcid=0000-0002-5632-5096
+    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=TUagQGQAAAAJ&hl=zh-CN
-  - icon: researchgate
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Haodong-Tang-3
+    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
