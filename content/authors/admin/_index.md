@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haodong Tang
+title: Haodong Ta
 
 # Full Name (for SEO)
 first_name: Haodong
