@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haodong Tang
+title: Haodong
 
 # Full Name (for SEO)
 first_name: Nelson
