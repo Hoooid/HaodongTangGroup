@@ -3,7 +3,7 @@
 title: Haodong Tang
 
 # Full Name (for SEO)
-first_name: Haodong
+first_name: Haodon
 last_name: Tang
 
 # Is this the primary user of the site?
