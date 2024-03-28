@@ -6,10 +6,6 @@ title: Jun Tang
 first_name: Jun
 last_name: Tang
 
-# Username (this should match the folder name)
-authors:
-  - Jun Tang
-
 # Is this the primary user of the site?
 superuser: false
 
