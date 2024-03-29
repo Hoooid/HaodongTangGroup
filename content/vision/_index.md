@@ -1,68 +1,58 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: Vision123
+date: 2024-03-29
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
+    id: section-1
     content:
-      title: |
-        Nano Photonics
-        Research Group
+      title: Material Innovation
+      subtitle: Quantum dots, perovskites and 2D materials.
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       image:
         filename: Probstation.jpg
-      text: |
-        <br>
-        
-        The **Nano Photonics Research Group** is at the forefront of exploring and expanding the boundaries of light manipulation at the nanoscale, integrating disciplines such as optics, photonics, and phononics to address complex, real-world challenges.
-        
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
     design:
-      view: card
-      columns: '1'
-  
+      columns: '2'
+      view: showcase
+      flip_alt_rows: true
+
   - block: markdown
+    id: section-2
     content:
-      title: testtest
-      subtitle: ''
-      text:
+      title: Thin-film Innovation
+      subtitle: Noveal film farbication methods
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      image:
+        filename: Probstation.jpg
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: devices.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: contain
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
+      columns: '2'
+      view: showcase
+      flip_alt_rows: true
+
   - block: markdown
+    id: section-3
     content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      title: Device Innovation
+      subtitle: New design of devices
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      image:
+        filename: Probstation.jpg
     design:
-      columns: '1'
+      columns: '2'
+      view: showcase
+      flip_alt_rows: true
+
+  - block: markdown
+    id: section-4
+    content:
+      title: Chip Integration
+      subtitle: CMOS Imaging Chip & Optoelectronic Chip
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      image:
+        filename: Probstation.jpg
+    design:
+      columns: '2'
+      view: showcase
+      flip_alt_rows: true
 ---
