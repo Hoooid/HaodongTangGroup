@@ -12,6 +12,9 @@ superuser: false
 # Role/position
 role: Assistant Professor
 
+#order
+order: D
+
 # Organizations/Affiliations
 organizations:
   - name: Shenzhen Technology University

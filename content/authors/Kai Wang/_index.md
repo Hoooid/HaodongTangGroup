@@ -16,6 +16,9 @@ superuser: false
 # Role/position
 role: Professor
 
+#order
+order: B
+
 # Organizations/Affiliations
 organizations:
 - name: Southern University of Science and Technology

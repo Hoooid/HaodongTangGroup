@@ -16,6 +16,9 @@ superuser: false
 # Role/position
 role: Chair Professor 
 
+#order
+order: A
+
 # Organizations/Affiliations
 organizations:
   - name: Southern University of Science and Technology
