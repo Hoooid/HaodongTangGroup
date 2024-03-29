@@ -1,50 +1,68 @@
 ---
-title: Vision
+# Leave the homepage title empty to use the site title
+title:
 date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
-    id: section-1
+  - block: hero
     content:
-      title: Material Innovation
-      subtitle: Novel semiconductor materials including quantum dots, perovskites and 2D materials.
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      columns: '2'
-      view: showcase
-      flip_alt_rows: true
-
-  - block: markdown
-    id: section-2
+      title: |
+        Nano Photonics
+        Research Group
+      image:
+        filename: Probstation.jpg
+      text: |
+        <br>
+        
+        The **Nano Photonics Research Group** is at the forefront of exploring and expanding the boundaries of light manipulation at the nanoscale, integrating disciplines such as optics, photonics, and phononics to address complex, real-world challenges.
+        
+  
+  - block: collection
     content:
-      title: Thin-film Innovation
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
     design:
-      columns: '2'
-      view: showcase
-      flip_alt_rows: true
-
+      view: card
+      columns: '1'
+  
   - block: markdown
-    id: section-3
     content:
-      title: Device Innovation
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: testtest
+      subtitle: ''
+      text:
     design:
-      columns: '2'
-      view: showcase
-      flip_alt_rows: true
-
+      columns: '1'
+      background:
+        image: 
+          filename: devices.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: contain
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+  
   - block: markdown
-    id: section-4
     content:
-      title: Chip Integration
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
-      columns: '2'
-      view: showcase
-      flip_alt_rows: true
+      columns: '1'
 ---
