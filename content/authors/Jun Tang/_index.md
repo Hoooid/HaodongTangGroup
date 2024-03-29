@@ -44,10 +44,10 @@ education:
 social:
   - icon: link
     icon_pack: fas
-    link: https://chensztu.github.io/index.html
+    link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=QMUDB68AAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=80F_p9sAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen

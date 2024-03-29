@@ -11,7 +11,7 @@ sections:
         Nano Photonics
         Research Group
       image:
-        filename: welcome.jpg
+        filename: Probstation.jpg
       text: |
         <br>
         
@@ -46,7 +46,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: devices.jpg
           filters:
             brightness: 1
           parallax: false
