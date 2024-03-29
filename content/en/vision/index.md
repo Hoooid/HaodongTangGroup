@@ -1,6 +1,7 @@
 ---
 title: Vision
 date: 2024-03-29
+
 type: landing
 
 sections:
@@ -8,8 +9,8 @@ sections:
     id: section-1
     content:
       title: Material Innovation
-      subtitle: Quantum dots, perovskites and 2D materials.
-      text: "Add any series - and even HTML code! ![Materials](icon.png) "
+      subtitle: Quantum dots, perovskites and 2D materials
+      text: "Add any series - and even HTML code! "
     design:
       columns: '2'
       view: showcase
@@ -30,7 +31,7 @@ sections:
     id: section-3
     content:
       title: Device Innovation
-      subtitle: New design of devices
+      subtitle: Optimization of devices
       text: "Add any content here - text, images, videos, galleries - and even HTML code! but not really for me"
     design:
       columns: '2'
