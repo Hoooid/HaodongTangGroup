@@ -15,16 +15,14 @@ sections:
 
       email: tanghaodong@sztu.edu.cn
       address:
-        street: 3002 Lantian Rd.
-        city: Shenzhen
-        region: Pingshan
+        street: 3002 兰田路.
+        city: 深圳
+        region: 坪山
         postcode: '518055'
-        country: China
+        country: 中国
         country_code: CN
-      directions: Enter building B-2 and take the lift to Office A817
-      office_hours:
-        - 'Monday 14:00 to 15:00'
-        - 'Wednesday 09:00 to 10:00'
+      directions: B-2 栋主楼A817办公室 
+      
       # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments

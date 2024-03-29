@@ -1,6 +1,7 @@
 ---
 title: Vision
-date: 2024-03-29
+date: 2024-03-24
+
 type: landing
 
 sections:

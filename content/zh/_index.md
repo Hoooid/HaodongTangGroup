@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        纳米光子与
-        芯片集成实验室
+        **纳米光子与芯片集成实验室**
       image:
         filename: Probstation.jpg
       text: |
