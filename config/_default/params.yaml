@@ -17,12 +17,12 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Nano Photonics Lab'
+    description: '深圳技术大学 唐浩东课题组.'
+    twitter: ''
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
+    baidu_tongji: '唐浩东'
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
@@ -96,7 +96,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: 'mapnik'
     api_key: ''
