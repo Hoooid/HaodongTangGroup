@@ -9,7 +9,7 @@ sections:
     content:
       title: Material Innovation
       subtitle: Quantum dots, perovskites and 2D materials.
-      text: "Add any series - and even HTML code!"
+      text: "Add any series - and even HTML code! ![Materials](icon.png) "
     design:
       columns: '2'
       view: showcase
