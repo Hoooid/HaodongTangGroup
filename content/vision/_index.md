@@ -1,20 +1,11 @@
 ---
-title: 
+title: Vision
 date: 2024-03-29
+
 type: landing
 
-sections:
-  - block: hero
-    content:
-      title: |
-        Nano Photonics
-        Research Group
-      image:
-        filename: Probstation.jpg
-      text: |
-        <br>
-        The **Nano Photonics Research Group** is at the forefront of exploring and expanding the boundaries of light manipulation at the nanoscale, integrating disciplines such as optics, photonics, and phononics to address complex, real-world challenges.
 
+sections:
   - block: markdown
     id: section-1
     content:
