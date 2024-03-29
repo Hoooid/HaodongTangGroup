@@ -40,9 +40,10 @@ sections:
   - block: markdown
     id: section-4
     content:
-      text: Add an images, videos, galleries - and even HTML code!
       title: Chip Integration
       subtitle: CMOS imaging chip & optoelectronic chip
+      text: Add an images, videos, galleries - and even HTML code! 
+      image: Probstation.jpg
     design:
       columns: '2'
       view: showcase
