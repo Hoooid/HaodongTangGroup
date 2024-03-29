@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: nightfall
+  theme_night: dark
   font: native
   font_size: L
 
