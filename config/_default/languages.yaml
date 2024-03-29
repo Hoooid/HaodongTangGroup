@@ -9,9 +9,10 @@ en:
   contentDir: content/en
 
   # Uncomment the lines below to configure your website in a second language.
- zh:
+zh:
   languageCode: zh-Hans
   contentDir: content/zh
+  
   title: 唐浩东课题组
   params:
     description: 深圳技术大学，集成电路与光电芯片学院，纳米光子器件集成课题组
