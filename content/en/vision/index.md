@@ -42,7 +42,7 @@ sections:
     content:
       title: Chip Integration
       subtitle: CMOS imaging chip & optoelectronic chip
-      text: "Add an images, videos, galleries - and even HTML code!"
+      text: "Add an images, videos, galleries - and even HTML code! (icon.png)"
       image:
         filename: icon.png
     design:
