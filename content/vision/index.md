@@ -20,8 +20,7 @@ sections:
     content:
       title: Thin-film Innovation
       subtitle: Novel film fabrication methods
-      text: "Add any, images, videos, galleries - and even HTML code!" test test test testtest test test test test testtest test test test test testtest test test test test testtest test test test test testtest test test test test testtest test" test test test testtest testtt"
-    design:
+      text: "Add any, images, videos, galleries - and even HTML code!" test test test testtest test test test test testtest test test test test testtest test test test test testtest test test test test testtes
       columns: '2'
       view: showcase
       flip_alt_rows: true
