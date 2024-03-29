@@ -20,7 +20,7 @@ sections:
     content:
       title: Thin-film Innovation
       subtitle: Novel film fabrication methods
-      text: "Add any, images, videos, galleries - and even HTML code!"
+      text: "Add any, images, videos, galleries - and even HTML code!" test test test testtest test test test test testtest test test test test testtest test test test test testtest test test test test testtest test test test test testtest test" test test test testtest testtt"
     design:
       columns: '2'
       view: showcase
@@ -31,7 +31,7 @@ sections:
     content:
       title: Device Innovation
       subtitle: New design of devices
-      text: "Add any content here - text, images, videos, galleries - and even HTML code!"
+      text: "Add any content here - text, images, videos, galleries - and even HTML code!" but not really for me
     design:
       columns: '2'
       view: showcase
@@ -44,7 +44,7 @@ sections:
       subtitle: CMOS imaging chip & optoelectronic chip
       text: "Add an images, videos, galleries - and even HTML code!"
       image:
-        filename: Probstation.jpg
+        filename: icon.png
     design:
       columns: '2'
       view: showcase
