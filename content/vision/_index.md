@@ -9,7 +9,7 @@ sections:
     content:
       title: Material Innovation
       subtitle: Quantum dots, perovskites and 2D materials.
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: Add anyeries - and even HTML code!
       image:
         filename: Probstation.jpg
     design:
@@ -22,7 +22,7 @@ sections:
     content:
       title: Thin-film Innovation
       subtitle: Novel film fabrication methods
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: Add any, images, videos, galleries - and even HTML code!
       image:
         filename: Probstation.jpg
     design:
@@ -35,7 +35,7 @@ sections:
     content:
       title: Device Innovation
       subtitle: New design of devices
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: Add any content here - text, images, videos, galleries - and even HTML code!
       image:
         filename: Probstation.jpg
     design:
@@ -48,7 +48,7 @@ sections:
     content:
       title: Chip Integration
       subtitle: CMOS Imaging Chip & Optoelectronic Chip
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: Add an images, videos, galleries - and even HTML code!
       image:
         filename: Probstation.jpg
     design:
