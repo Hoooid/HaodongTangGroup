@@ -6,17 +6,29 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
-# # Uncomment the lines below to configure your website in a second language.
-# zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  # Uncomment the lines below to configure your website in a second language.
+ zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 唐浩东课题组
+  params:
+    description: 深圳技术大学，集成电路与光电芯片学院，纳米光子器件集成课题组
+  menu:
+    main:
+    - name: 科研目标
+      url: vision
+      weight: 10
+    - name: 新闻推送
+      url: post
+      weight: 20
+    - name: 学生构成
+      url: people
+      weight: 30
+    - name: 科研论文
+      url: publication
+      weight: 40
+    - name: 联系方式
+      url: contact
+      weight: 50
