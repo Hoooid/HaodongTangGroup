@@ -2,8 +2,6 @@
 title: Vision
 date: 2024-03-29
 
-type: landing
-
 sections:
   - block: markdown
     id: section-1
