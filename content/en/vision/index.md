@@ -1,8 +1,12 @@
 ---
-title: Vision
+title: Vision1
+type: landing
 
-
-sections:      
+sections:
+  - block: contact
+    content:
+      title: Vision
+      
   - block: markdown
     id: section-1
     content:
