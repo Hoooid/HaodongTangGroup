@@ -6,6 +6,7 @@ sections:
   - block: contact
     content:
       title: Vision
+      subtitle: Research aims and future visions of our lab
       
   - block: markdown
     id: section-1
