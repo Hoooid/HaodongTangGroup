@@ -48,15 +48,15 @@ sections:
           filename: device1.png
           filters:
             brightness: 1
-          parallax: false
-          position: center
+          parallax: true
+          position: left
           size: contain
           text_color_light: true
 
           filename: device2.png
           filters:
             brightness: 1
-          parallax: false
+          parallax: true
           position: center
           size: contain
           text_color_light: true
@@ -64,8 +64,8 @@ sections:
           filename: device3.png
           filters:
             brightness: 1
-          parallax: false
-          position: center
+          parallax: true
+          position: right
           size: contain
           text_color_light: true
       spacing:
