@@ -39,34 +39,19 @@ sections:
   
   - block: markdown
     content:
-      title: Device architectures in our lab
+      title: Highlight works
       subtitle: ''
     design:
-      columns: '3'
+
+      columns: '1'
       background:
         image: 
-          filename: device1.png
+          filename: works.png
           filters:
             brightness: 1
-          parallax: true
-          position: left
-          size: contain
-          text_color_light: true
-
-          filename: device2.png
-          filters:
-            brightness: 1
-          parallax: true
+          parallax: false
           position: center
-          size: contain
-          text_color_light: true
-
-          filename: device3.png
-          filters:
-            brightness: 1
-          parallax: true
-          position: right
-          size: contain
+          size: cover
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
