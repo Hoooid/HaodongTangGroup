@@ -41,12 +41,11 @@ sections:
     content:
       title: Device architectures in our lab
       subtitle: ''
-      text:
     design:
       columns: '3'
       background:
         image: 
-          filename: device1.jpg
+          filename: device1.png
           filters:
             brightness: 1
           parallax: false
@@ -54,7 +53,7 @@ sections:
           size: contain
           text_color_light: true
 
-          filename: device2.jpg
+          filename: device2.png
           filters:
             brightness: 1
           parallax: false
@@ -62,7 +61,7 @@ sections:
           size: contain
           text_color_light: true
 
-          filename: device3.jpg
+          filename: device3.png
           filters:
             brightness: 1
           parallax: false
