@@ -8,13 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        **纳米光子与芯片集成实验室**
+        Nano Photonics
+        Research Group
       image:
         filename: Probstation.jpg
       text: |
         <br>
         
-        **纳米光子与芯片集成实验室**依托深圳技术大学集成电路与光电芯片学院，旨在探索在纳米尺度操控光子的前沿领域，融合光学、光电子学、半导体物理等学科，以实现各种半导体光电器件的芯片集成。
+        The **Nano Photonics Research Group** is at the forefront of exploring and expanding the boundaries of light manipulation at the nanoscale, integrating disciplines such as optics, photonics, and phononics to address complex, real-world challenges.
         
   
   - block: collection
@@ -45,12 +46,12 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: devices.jpg
+          filename: works.png
           filters:
             brightness: 1
           parallax: false
           position: center
-          size: contain
+          size: cover
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
