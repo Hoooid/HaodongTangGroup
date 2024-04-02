@@ -39,10 +39,10 @@ sections:
   
   - block: markdown
     content:
-      title: Highlight works
+      title:
       subtitle: ''
+      text:
     design:
-
       columns: '1'
       background:
         image: 
@@ -56,6 +56,8 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
+---
+
   
   - block: markdown
     content:
