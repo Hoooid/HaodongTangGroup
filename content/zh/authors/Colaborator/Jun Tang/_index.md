@@ -24,21 +24,20 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 新型储能材料与器件及其关键技术研究；超级电容器、钠离子电池、干法电极技术以及电池回收技术开发；
+  - 新型二维过渡金属碳/氮化物（MXenes）在能源领域、红外探测/屏蔽隐身，太赫兹吸波，电磁屏蔽等领域的应用。
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 先进材料与力学，博士
+      institution: 北京大学
+      year: 2020
+    - course: 凝聚态物理，硕士
+      institution: 兰州大学
+      year: 2014
+    - course: 应用物理，本科
+      institution: 大连理工大学
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,7 +46,7 @@ education:
 social:
   - icon: link
     icon_pack: fas
-    link: 
+    link: https://nmne.sztu.edu.cn/info/1033/3012.htm
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=80F_p9sAAAAJ
@@ -70,6 +69,4 @@ user_groups:
 
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+唐俊，助理教授，深圳市海外高层次人才“孔雀计划”C类人才。2020年7月毕业于北京大学，获博士学位，主要从事新型储能材料与器件及其关键技术研究。博士期间，获得国家CSC留学基金资助，公派到美国Drexel University进行联合培养，研究新型二维过渡金属碳/氮化物系列材料在储能领域的应用开发。毕业后加入南方科技大学材料科学与工程系从事博士后研究。以“第一作者”身份在Adv. Energy. Mater，Angew. Chem. Int. Ed，Energy. Storage. Mater以及J. Mater. Chem. A等领域内顶级期刊发表论文十余篇，获国家发明专利授权3项（截至2022年7月）。
