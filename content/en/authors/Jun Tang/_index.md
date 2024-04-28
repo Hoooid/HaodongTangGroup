@@ -6,6 +6,10 @@ title: JunTang
 first_name: Jun
 last_name: 1Tang
 
+# Username (this should match the folder name)
+authors:
+  -Jun Tang
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -21,24 +25,26 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focusing on novel energy storage materials and devices.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Two-dimensional Transition Metal Carbides/Nitrides (MXenes)
+  - Energy Storage Materials
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Advanced Materials and Mechanics
+      institution: Peking University
+      year: 2020
+    - course: Joint PhD Training
+      institution: Drexel University
+      year: 2019
+    - course: MEng in Condensed Matter Physics
+      institution: Lanzhou University
+      year: 2014
+    - course: BSc in Applied Physics
+      institution: Dalian University of Technology
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,7 +56,7 @@ social:
     link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=80F_p9sAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=80F_p9sAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -70,6 +76,4 @@ user_groups:
 
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jun Tang is an Assistant Professor and a recipient of the "Peacock Plan" Category C talent in Shenzhen. He graduated with a PhD from Peking University in July 2020, where he focused on the research of novel energy storage materials and devices. During his PhD, he received the National CSC Scholarship for a joint training program at Drexel University, USA, to develop applications of new two-dimensional transition metal carbides/nitrides in energy storage. After his PhD, he joined the Department of Materials Science and Engineering at Southern University of Science and Technology as a postdoctoral researcher. He has published over ten papers as the first author in top-tier journals like Adv. Energy Mater., Angew. Chem. Int. Ed., Energy Storage Mater., and J. Mater. Chem. A, and holds three national patents (as of July 2022).

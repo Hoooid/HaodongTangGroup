@@ -51,3 +51,5 @@ social:
 user_groups:
 - Collaborators
 ---
+
+Kai Wang is a tenured Professor and PhD supervisor at the Department of Electronics, Southern University of Science and Technology. He's distinguished by the National Science Fund for Distinguished Young Scholars and holds prestigious awards from Guangdong Province. Specializing in novel display technologies and quantum dot photoelectric devices, Wang has published over 200 SCI papers with an H-index of 52 and holds more than 40 Chinese invention patents. His notable contributions include advancements in photon generation from quantum dots and heat dissipation at micro-nano scales. Wang's research accolades include national and provincial science awards, and he's recognized globally, consistently ranking among the top 2% of scientists listed by Stanford University. He also serves as Vice Director of the Guangdong Provincial Key Laboratory of Quantum Dot Advanced Displays and Lighting.

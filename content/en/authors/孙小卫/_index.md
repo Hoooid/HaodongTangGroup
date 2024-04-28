@@ -55,3 +55,4 @@ user_groups:
 
 ---
 
+Xiaowei Sun is a Chair Professor and Executive Dean of the Institute for Nanoscience and Applications at Southern University of Science and Technology (SUSTech), and a foreign member of the Russian Academy of Engineering. Previously a professor at Nanyang Technological University, Sun has significant contributions to nanocrystal-based display and lighting technologies, with over 700 publications, more than 30,000 citations, and an H-index of 96. He is a Fellow of several prestigious societies, including OSA, SPIE, SID, and IoP, and a recognized Elsevier Highly Cited Researcher and a Stanford top 2% global scientist.
