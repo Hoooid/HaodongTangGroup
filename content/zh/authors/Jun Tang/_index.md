@@ -1,75 +1,78 @@
 ---
-# Display name
-title: JunTang
+# 显示名称
+title: 唐俊
 
-# Full name (for SEO)
-first_name: 俊
-last_name: 唐
+# 完整姓名（SEO用）
+first_name: 唐
+last_name: 俊
 
-# Is this the primary user of the site?
+# 用户名（应与文件夹名称匹配）
+authors:
+  - 唐俊
+
+# 是否为网站的主要用户？
 superuser: false
 
-# Role/position
+# 角色/职位
 role: 助理教授
 
-#order
+# 排序
 order: D
 
-# Organizations/Affiliations
+# 组织/附属机构
 organizations:
   - name: 深圳技术大学
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# 简短介绍（在帖子末尾的用户简介中显示）
+bio: 我的研究兴趣集中在新型储能材料与设备上。
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 二维过渡金属碳/氮化物（MXenes）
+  - 储能材料
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 先进材料与力学博士
+      institution: 北京大学
+      year: 2020
+    - course: 联合培养博士
+      institution: 德雷塞尔大学
+      year: 2019
+    - course: 凝聚态物理硕士
+      institution: 兰州大学
+      year: 2014
+    - course: 应用物理学士
+      institution: 大连理工大学
+      year: 2011
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# 社交/学术网络
+# 可用图标请参见: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   对于电子邮件链接，请使用 "fas" 图标包，“envelope”图标，并使用形式 "mailto:your-email@example.com" 或 "#contact" 为联系部件链接。
 social:
   - icon: link
     icon_pack: fas
     link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=80F_p9sAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=80F_p9sAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# 从“关于”部件中链接到您的简历/PDF。
+# 要启用，请将您的简历复制到 `static/files/cv.pdf` 并取消下面行的注释。
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# 输入电子邮件以显示Gravatar（如果在配置中启用Gravatar）
 email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# 您所属的组织群组（用于人员部件）
+#   如果您不使用人员部件，请将此设置为 `[]` 或注释掉。
 user_groups:
   - Collaborators
 
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+唐俊是深圳技术大学的助理教授，也是“孔雀计划”C类人才。他于2020年7月从北京大学获得博士学位，专注于新型储能材料与设备的研究。在博士期间，他获得了国家CSC奖学金，在美国德雷塞尔大学进行联合培养，开发新型二维过渡金属碳/氮化物在储能领域的应用。博士后，他加入了南方科技大学材料科学与工程系，进行博士后研究。他已经作为第一作者在如Adv. Energy Mater.、Angew. Chem. Int. Ed.、Energy Storage Mater.以及J. Mater. Chem. A等顶级期刊发表了十多篇论文，并持有三项国家专利（截至2022年7月）。
