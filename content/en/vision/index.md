@@ -1,5 +1,5 @@
 ---
-title: Vision1
+title: Vision
 type: landing
 
 sections:
