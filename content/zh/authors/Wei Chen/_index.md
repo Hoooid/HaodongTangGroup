@@ -1,53 +1,51 @@
 ---
-# Display name
-title: WeiChen
+# 显示名称
+title: 陈威
 
-# Full name (for SEO)
-first_name: Wei
-last_name: Chen
+# 完整姓名（SEO用）
+first_name: 威
+last_name: 陈
 
-# Username (this should match the folder name)
+# 用户名（应与文件夹名称匹配）
 authors:
-  - Wei Chen
+  - 陈威
 
-# Is this the primary user of the site?
+# 是否为网站的主要用户？
 superuser: false
 
-# Role/position
-role: Associate Professor
+# 角色/职位
+role: 副教授
 
-#order
+# 排序
 order: C
 
-# Organizations/Affiliations
+# 组织/附属机构
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# 简短介绍（在帖子末尾的用户简介中显示）
+bio: 我的研究兴趣量子点材料在维纳尺寸中的构效关系。
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 量子点材料的构效关系
+  - 略入射X-射线衍射
 
 education:
   courses:
-    - course: PhD
-      institution: Technical University of Munich
+    - course: 博士
+      institution: 慕尼黑工业大学
       year: 2020
-    - course: MEng in Materials Science
-      institution: Hubei University
+    - course: 材料科学硕士
+      institution: 湖北大学
       year: 2013
-    - course: BSc in Physics
-      institution: Hubei Engineering University
+    - course: 物理学学士
+      institution: 湖北工程学院
       year: 2006
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# 社交/学术网络
+# 可用图标请参见: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   对于电子邮件链接，请使用 "fas" 图标包，“envelope”图标，并使用形式 "mailto:your-email@example.com" 或 "#contact" 为联系部件链接。
 social:
   - icon: link
     icon_pack: fas
@@ -58,20 +56,20 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# 从“关于”部件中链接到您的简历/PDF。
+# 要启用，请将您的简历复制到 `static/files/cv.pdf` 并取消下面行的注释。
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# 输入电子邮件以显示Gravatar（如果在配置中启用Gravatar）
 email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# 您所属的组织群组（用于人员部件）
+#   如果您不使用人员部件，请将此设置为 `[]` 或注释掉。
 user_groups:
   - Collaborators
 
 ---
 
-Dr. Wei Chen is an experimental physicist and the PI of the Energy & Photonics Lab (EPL) at SZTU. Wei received his B.Sc. degree in physics at Hubei Engineering University (2006), M.Sc. degree in materials science at Hubei University (2013), and Ph.D. degree (Dr.rer.nat.) at the Technical University of Munich (TUM, 2020). Before moving to Germany for the Ph.D. study, Wei spent three years (2013-2016) working on CQD optoelectronic applications as a research assistant in the joint Lab led by Prof. Kai Wang & Chair Prof. Xiao Wei Sun at SUSTech where Wei received valuable experience in developing high-quality CQD materials and advanced optoelectronic applications.
+陈威博士是深圳技术大学能源与光子学实验室的实验物理学家和主任。陈威在湖北工程学院获得物理学学士学位（2006年），在湖北大学获得材料科学硕士学位（2013年），并在慕尼黑工业大学获得博士学位（Dr.rer.nat., 2020年）。在前往德国攻读博士学位前，陈威在南方科技大学由王恺教授和孙小卫教授共同领导的联合实验室担任研究助理三年（2013-2016年），在那里他获得了发展高质量量子点材料和先进光电应用的宝贵经验。

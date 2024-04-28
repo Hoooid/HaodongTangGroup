@@ -1,32 +1,31 @@
 ---
-# Display name
-title: KaiWang
+# 显示名称
+title: 王恺
 
-# Full name (for SEO)
-first_name: Kai
-last_name: Wang
+# 完整姓名（SEO用）
+first_name: 恺
+last_name: 王
 
-# Username (this should match the folder name)
+# 用户名（应与文件夹名称匹配）
 authors:
-- Kai Wang
+- 王恺
 
-# Is this the primary user of the site?
+# 是否为网站的主要用户？
 superuser: false
 
-# Role/position
-role: Professor
+# 角色/职位
+role: 教授
 
-#order
+# 排序
 order: B
 
-# Organizations/Affiliations
+# 组织/附属机构
 organizations:
-- name: Southern University of Science and Technology
-    
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+- name: 南方科技大学
+
+# 社交/学术网络
+# 可用图标请参见: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   对于电子邮件链接，请使用 "fas" 图标包，“envelope”图标，并使用形式 "mailto:your-email@example.com" 或 "#contact" 为联系部件链接。
 social:
   - icon: link
     icon_pack: fas
@@ -37,17 +36,19 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# 从“关于”部件中链接到您的简历/PDF。
+# 要启用，请将您的简历复制到 `static/files/cv.pdf` 并取消下面行的注释。
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# 输入电子邮件以显示Gravatar（如果在配置中启用Gravatar）
 # email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# 您所属的组织群组（用于人员部件）
+#   如果您不使用人员部件，请将此设置为 `[]` 或注释掉。
 user_groups:
 - Collaborators
 ---
+
+王恺是南方科技大学电子系的长聘教授及博士生导师。他因其在新型显示技术和量子点光电器件领域的专长而著称，已发表超过200篇SCI论文，H指数为52，并持有40多项中国发明专利。王恺的研究成果包括量子点光子产生和微纳尺度热散发的技术进步。他的研究成就获得了国家和省级科学奖项，并连续多年被斯坦福大学评为全球前2%的顶尖科学家。他还担任广东省量子点先进显示与照明重点实验室副主任。

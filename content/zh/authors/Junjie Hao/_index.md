@@ -1,34 +1,32 @@
 ---
-# Display name
-title: JunjieHao 
+# 显示名称
+title: 郝俊杰
 
-# Full name (for SEO)
-first_name: Junjie
-last_name: Hao
+# 完整姓名（SEO用）
+first_name: 郝
+last_name: 俊杰
 
-# Username (this should match the folder name)
+# 用户名（应与文件夹名称匹配）
 authors:
-  -Junjie Hao
+  - 郝俊杰
 
-# Is this the primary user of the site?
+# 是否为网站的主要用户？
 superuser: false
 
-# Role/position
-role: Associate Professor
+# 角色/职位
+role: 副教授
 
-#order
+# 排序
 order: C
 
-# Organizations/Affiliations
+# 组织/附属机构
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# 社交/学术网络
+# 可用图标请参见: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   对于电子邮件链接，请使用 "fas" 图标包，“envelope”图标，并使用形式 "mailto:your-email@example.com" 或 "#contact" 为联系部件链接。
 social:
   - icon: link
     icon_pack: fas
@@ -39,19 +37,20 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# 从“关于”部件中链接到您的简历/PDF。
+# 要启用，请将您的简历复制到 `static/files/cv.pdf` 并取消下面行的注释。
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# 输入电子邮件以显示Gravatar（如果在配置中启用Gravatar）
 email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# 您所属的组织群组（用于人员部件）
+#   如果您不使用人员部件，请将此设置为 `[]` 或注释掉。
 user_groups:
   - Collaborators
 
 ---
 
+郝俊杰是深圳技术大学的副教授及博士生导师，曾在法国波尔多大学获得博士学位。作为深圳市“孔雀计划”C类人才并获得国家优秀自费留学生奖，郝教授专长于新型胶体量子点材料的形貌精确控制，应用于先进显示和光电芯片领域。他发表了59篇SCI论文，被引用超过2000次，持有40项授权专利，并开发了QLuMiS发光微球技术，增强了量子点的稳定性。他与主要公司的合作推动了微LED和3D显示技术中量子点技术的进步。
