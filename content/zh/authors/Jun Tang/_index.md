@@ -3,25 +3,21 @@
 title: JunTang
 
 # Full name (for SEO)
-first_name: Jun
-last_name: 1Tang
-
-# Username (this should match the folder name)
-authors:
-  -Jun Tang
+first_name: 俊
+last_name: 唐
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: 助理教授
 
 #order
 order: D
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

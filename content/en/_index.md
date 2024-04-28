@@ -39,30 +39,14 @@ sections:
   
   - block: markdown
     content:
-      title: Device architectures in our lab
+      title:
       subtitle: ''
       text:
     design:
-      columns: '3'
+      columns: '1'
       background:
         image: 
-          filename: device1.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: contain
-          text_color_light: true
-
-          filename: device2.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: contain
-          text_color_light: true
-
-          filename: device3.jpg
+          filename: works.png
           filters:
             brightness: 1
           parallax: false
