@@ -1,0 +1,55 @@
+---
+# Display name
+title: KaiWang
+
+# Full name (for SEO)
+first_name: Kai
+last_name: Wang
+
+# Username (this should match the folder name)
+authors:
+- Kai Wang
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Professor
+
+#order
+order: B
+
+# Organizations/Affiliations
+organizations:
+- name: Southern University of Science and Technology
+    
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+  - icon: link
+    icon_pack: fas
+    link: https://eee.sustech.edu.cn/?view=%E7%8E%8B%E6%81%BA&jsid=18
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=GIFaWXMAAAAJ&hl=en
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+# email: ''
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Collaborators
+---
+
+Kai Wang is a tenured Professor and PhD supervisor at the Department of Electronics, Southern University of Science and Technology. He's distinguished by the National Science Fund for Distinguished Young Scholars and holds prestigious awards from Guangdong Province. Specializing in novel display technologies and quantum dot photoelectric devices, Wang has published over 200 SCI papers with an H-index of 52 and holds more than 40 Chinese invention patents. His notable contributions include advancements in photon generation from quantum dots and heat dissipation at micro-nano scales. Wang's research accolades include national and provincial science awards, and he's recognized globally, consistently ranking among the top 2% of scientists listed by Stanford University. He also serves as Vice Director of the Guangdong Provincial Key Laboratory of Quantum Dot Advanced Displays and Lighting.
