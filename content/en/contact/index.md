@@ -55,7 +55,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: Campus.jpg
+          filename: Campus.jpeg
           filters:
             brightness: 1
           parallax: false
