@@ -1,12 +1,12 @@
 ---
-title: Vision1
+title: Vision
 type: landing
 
 sections:
   - block: contact
     content:
       title: Vision
-      subtitle: Research aims and future visions of our lab
+      subtitle: Research Aims and Future Visions of Our Lab
       
   - block: markdown
     id: section-1

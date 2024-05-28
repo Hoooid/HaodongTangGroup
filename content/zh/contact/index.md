@@ -7,11 +7,12 @@ type: landing
 sections:
   - block: contact
     content:
-      title: 联系方式
+      title: Contact
       text: |-
-        课题组现有研究助理和博士后职位，要求有量子点/钙钛矿光电器件背景，对瞬态光谱的表征分析、半导体制造加工工艺有了解的人员优先。
-        申请人可以将简历直接发送到我的邮箱，简历中应包含论文发表记录和实验技能。    
+        Research Assistant and Post Doc positions are available for excellent candidates in the areas of optoelectronic devices based on CQD/perovskite, transient spectroscopy and chip integration. 
         
+        Application inquiries should be sent to me attached with CV, publication list and course list.
+
       email: tanghaodong@sztu.edu.cn
       address:
         street: 3002 兰田路.
