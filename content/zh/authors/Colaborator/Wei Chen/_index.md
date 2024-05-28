@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wei Chen
+title: WeiChen
 
 # Full name (for SEO)
 first_name: Wei
@@ -8,7 +8,7 @@ last_name: Chen
 
 # Username (this should match the folder name)
 authors:
-  - 陈威
+  - Wei Chen
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,12 +25,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum dots, transient spectropy and GIXS.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Quantum Dots and Their Structural-efficiency Relationship
-  - Grazing-incidence Small-angle X-ray Scattering (GISAXS)
-  - Transient Absorption and Emission Spectropy
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:

@@ -1,23 +1,19 @@
 ---
 # Display name
-title: Wei Chen
+title: JunTang
 
 # Full name (for SEO)
-first_name: Wei
-last_name: Chen
-
-# Username (this should match the folder name)
-authors:
-  - 陈威
+first_name: Jun
+last_name: 1Tang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Assistant Professor
 
 #order
-order: C
+order: D
 
 # Organizations/Affiliations
 organizations:
@@ -34,15 +30,15 @@ interests:
 
 education:
   courses:
-    - course: PhD
-      institution: Technical University of Munich
-      year: 2020
-    - course: MEng in Materials Science
-      institution: Hubei University
-      year: 2013
-    - course: BSc in Physics
-      institution: Hubei Engineering University
-      year: 2006
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,10 +47,10 @@ education:
 social:
   - icon: link
     icon_pack: fas
-    link: https://chensztu.github.io/index.html
+    link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=QMUDB68AAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=80F_p9sAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -74,4 +70,6 @@ user_groups:
 
 ---
 
-Dr. Wei Chen is an experimental physicist and the PI of the Energy & Photonics Lab (EPL) at SZTU. Wei received his B.Sc. degree in physics at Hubei Engineering University (2006), M.Sc. degree in materials science at Hubei University (2013), and Ph.D. degree (Dr.rer.nat.) at the Technical University of Munich (TUM, 2020). Before moving to Germany for the Ph.D. study, Wei spent three years (2013-2016) working on CQD optoelectronic applications as a research assistant in the joint Lab led by Prof. Kai Wang & Chair Prof. Xiao Wei Sun at SUSTech where Wei received valuable experience in developing high-quality CQD materials and advanced optoelectronic applications.
+吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

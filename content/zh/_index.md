@@ -8,19 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Nano Photonics
-        Research Group
+        纳米光子器件及芯片实验室
       image:
         filename: Probstation.jpg
       text: |
         <br>
-        
-        The **Nano Photonics Research Group** is at the forefront of exploring and expanding the boundaries of light manipulation at the nanoscale, integrating disciplines such as optics, photonics, and phononics to address complex, real-world challenges.
-        
+        **纳米光子器件及芯片实验室**重点关注在纳米尺度进行光子、电子的有序调控，整合纳米光学、光电子学和材料科学等学科来讨论复杂的科学问题，突破产业瓶颈，实现技术迭代。
+
   
   - block: collection
     content:
-      title: Latest News
+      title: 最新动态
       subtitle:
       text:
       count: 5
@@ -62,7 +60,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="团队成员 →" %}}
     design:
       columns: '1'
 ---
