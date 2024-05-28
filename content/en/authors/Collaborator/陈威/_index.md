@@ -1,6 +1,6 @@
 ---
 # Display name
-title: WeiChen
+title: Wei Chen
 
 # Full name (for SEO)
 first_name: Wei
@@ -8,7 +8,7 @@ last_name: Chen
 
 # Username (this should match the folder name)
 authors:
-  - Wei Chen
+  - 陈威
 
 # Is this the primary user of the site?
 superuser: false
