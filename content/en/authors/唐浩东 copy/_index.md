@@ -3,8 +3,8 @@
 title: Xiaowei Sun
 
 # Full Name (for SEO)
-first_name: 浩东
-last_name: 唐
+first_name: 小卫
+last_name: 孙
 
 # Is this the primary user of the site?
 superuser: false
