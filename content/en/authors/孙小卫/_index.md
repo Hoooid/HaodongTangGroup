@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiao Wei SUN
+title: XiaoWeiSUN
 
 # Full name (for SEO)
 first_name: 小卫
