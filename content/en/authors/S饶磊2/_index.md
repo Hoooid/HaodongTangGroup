@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiao Wei Sun
+title: Xiao Wei1 Sun
 
 # Full name (for SEO)
 first_name: x
