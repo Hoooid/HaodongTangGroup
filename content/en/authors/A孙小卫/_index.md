@@ -24,6 +24,17 @@ organizations:
   - name: Southern University of Science and Technology
     url: ''
 
+education:
+  courses:
+    - course: PhD
+      institution: Technical University of Munich
+      year: 2020
+    - course: MEng in Materials Science
+      institution: Hubei University
+      year: 2013
+    - course: BSc in Physics
+      institution: Hubei Engineering University
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

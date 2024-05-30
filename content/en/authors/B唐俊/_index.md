@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jun TANG
+title: JunTANG
 
 # Full name (for SEO)
 first_name: Jun
@@ -46,10 +46,7 @@ education:
       institution: Dalian University of Technology
       year: 2011
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
   - icon: link
     icon_pack: fas
