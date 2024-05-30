@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lei Rao
+title: Lei RAO
 
 # Full name (for SEO)
 first_name: Lei

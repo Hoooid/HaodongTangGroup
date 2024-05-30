@@ -17,7 +17,7 @@ superuser: false
 role: Junior
 
 #order
-order: B
+order: A
 
 # Organizations/Affiliations
 organizations:
