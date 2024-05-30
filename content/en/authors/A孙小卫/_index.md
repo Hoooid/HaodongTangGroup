@@ -3,8 +3,8 @@
 title: XiaoWeiSUN
 
 # Full name (for SEO)
-first_name: Xiao Wei
-last_name: Sun
+first_name: 小卫
+last_name: 孙
 
 # Username (this should match the folder name)
 authors:

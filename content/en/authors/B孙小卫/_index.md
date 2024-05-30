@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xiao Wei Sun
+title: Xiao Wei SunB
 
 # Full name (for SEO)
-first_name: Xiao Wei
-last_name: Sun
+first_name: 小卫
+last_name: 孙
 
 # Username (this should match the folder name)
 authors:
@@ -27,7 +27,7 @@ organizations:
 interests:
   - Naked-eye 3D Display
   - Quantum Dot Light-emitting Diodes
-  
+
 social:
   - icon: link
     icon_pack: fas
