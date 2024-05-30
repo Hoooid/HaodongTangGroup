@@ -1,6 +1,6 @@
 ---
 # Display name
-title: JunjieHao 
+title: Junjie HAO 
 
 # Full name (for SEO)
 first_name: Junjie
@@ -8,7 +8,7 @@ last_name: Hao
 
 # Username (this should match the folder name)
 authors:
-  -Junjie Hao
+  -B郝俊杰
 
 # Is this the primary user of the site?
 superuser: false
