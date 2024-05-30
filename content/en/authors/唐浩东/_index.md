@@ -1,10 +1,10 @@
 ---
 # Display name
-title: HaodongTang
+title: Haodong TANG
 
 # Full Name (for SEO)
-first_name: Haodong
-last_name: Tang
+first_name: 浩东
+last_name: 唐
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
   - name: Shenzhen Technology University
-    url: ''
+    url: 'https://icoc.sztu.edu.cn/info/1016/1176.htm'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optoelectronic devices, colloidal quantum dots and CMOS image sensors.
