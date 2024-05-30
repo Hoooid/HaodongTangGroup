@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Yixin Zheng
+title: Lei Rao
 
 # Full name (for SEO)
-first_name: Yixin
-last_name: Zheng
+first_name: Lei
+last_name: Rao
 
 # Username (this should match the folder name)
 authors:
-  - S郑翌馨
+  - S饶磊
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Sophomore
 
 #order
 order: B
@@ -28,13 +28,13 @@ organizations:
 bio: My research interests include readout circuit chip design, colloidal quantum dots and CMOS image sensors. 
 
 interests: 
-  - Chips Design 
-  - CMOS Image Sensor 
-  - Colloidal Quantum Dots
+  - Photodetectors
+  - PbS CQD
+  - Freeform Optics
 
 user_groups:
   - Undergraduate Students
 
 ---
 
-Yixin Zheng is a student majoring in Microelectronics Science and Engineering at Shenzhen Technology University. She has won a provincial award in the "Challenge Cup" competition.
+Rao Lei is a sophomore majoring in microelectronics science and engineering at Shenzhen University of Technology。He won the third prize at the provincial level in the 35th National Chemistry Olympiad (preliminary round).
