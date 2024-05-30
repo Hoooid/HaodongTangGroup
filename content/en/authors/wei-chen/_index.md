@@ -8,7 +8,7 @@ last_name: 陈
 
 # Username (this should match the folder name)
 authors:
-  - B陈威
+  - wei-chen
 
 # Is this the primary user of the site?
 superuser: false
