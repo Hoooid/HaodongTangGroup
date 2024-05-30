@@ -10,52 +10,44 @@ last_name: 孙
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Chair Professor
+
+#order
+order: A
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
-    url: 'https://icoc.sztu.edu.cn/info/1016/1176.htm'
+  - name: Southern University of Science and Technology
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optoelectronic devices, colloidal quantum dots and CMOS image sensors.
 
+
 interests:
-  - Optoelectronic Chips
-  - Photodetectors
-  - Colloidal Quantum Dots
+  - Naked-eye 3D Display
+  - Quantum Dot Light-emitting Diodes
 
 education:
   courses:
-    - course: Doctor of Philosophy
-      institution: University of Birmingham
-      year: 2021
-    - course: Bechalor of Engineering
-      institution: Southern University of Science and Technology
-      year: 2017
+    - course: PhD
+      institution: Tianjing University
+      year: 2020
+    - course: MEng in Materials Science
+      institution: Hubei University
+      year: 2013
+    - course: BSc in Physics
+      institution: Hubei Engineering University
+      year: 2006
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: link
     icon_pack: fas
-    link: 'tanghaodong@sztu.edu.cn'
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/my-orcid?orcid=0000-0002-5632-5096
+    link: https://www.sustech.edu.cn/zh/faculties/sunxiaowei.html
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=TUagQGQAAAAJ&hl=zh-CN
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Haodong-Tang-3
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: https://scholar.google.com/citations?user=XSt5wesAAAAJ&hl=zh-CN
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -69,5 +61,5 @@ user_groups:
   - Collaborators
 ---
 
-Haodong Tang earned his Ph.D from the University of Birmingham and subsequently assumed the position of Assistant Professor at Shenzhen Technology University in the College of Integrated Circuits and Optoelectronic Chips. His area of research centers on the development of solution processable semiconductors and their associated optoelectronic devices, such as LEDs, photodiodes, and photovoltaics.
+Xiaowei Tang earned his Ph.D from the University of Birmingham and subsequently assumed the position of Assistant Professor at Shenzhen Technology University in the College of Integrated Circuits and Optoelectronic Chips. His area of research centers on the development of solution processable semiconductors and their associated optoelectronic devices, such as LEDs, photodiodes, and photovoltaics.
 
