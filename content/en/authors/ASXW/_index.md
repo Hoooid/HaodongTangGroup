@@ -8,7 +8,7 @@ last_name: 孙
 
 # Username (this should match the folder name)
 authors:
-- A孙小卫
+- ASXW
 
 # Is this the primary user of the site?
 superuser: false
