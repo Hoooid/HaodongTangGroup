@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiankai Wang
+title: Jiankai WANG
 
 # Full name (for SEO)
 first_name: Jiankai
@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Junior
 
 #order
-order: B
+order: A
 
 # Organizations/Affiliations
 organizations:

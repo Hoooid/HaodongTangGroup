@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guang Hu
+title: Guang HU
 
 # Full name (for SEO)
 first_name: Guang
