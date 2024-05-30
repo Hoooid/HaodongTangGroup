@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Jun Tang
+title: Jun TANG
 
 # Full name (for SEO)
 first_name: Jun
-last_name: 1Tang
+last_name: Tang
 
 # Username (this should match the folder name)
 authors:
-  -B唐俊
+  - B唐俊
 
 # Is this the primary user of the site?
 superuser: false
