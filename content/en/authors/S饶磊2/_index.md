@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lei Rao
+title: Xiao Wei Sun
 
 # Full name (for SEO)
 first_name: Lei
