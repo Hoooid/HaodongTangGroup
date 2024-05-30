@@ -8,7 +8,7 @@ last_name: Tang
 
 # Username (this should match the folder name)
 authors:
-  -B唐骏
+  -B唐俊
 
 # Is this the primary user of the site?
 superuser: false
