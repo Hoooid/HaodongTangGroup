@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Sophomore
 
 #order
 order: B
