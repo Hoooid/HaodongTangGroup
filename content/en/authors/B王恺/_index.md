@@ -24,6 +24,11 @@ organizations:
 - name: Southern University of Science and Technology
 - url: xxx
 
+interests:
+  - Quantum Dot Light-emitting Diodes
+  - Optical and Electrical Simulation
+
+  
 education:
   courses:
     - course: PhD

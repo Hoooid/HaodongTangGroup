@@ -24,10 +24,14 @@ organizations:
   - name: Southern University of Science and Technology
     url: ''
 
+interests:
+  - Naked-eye 3D Display
+  - Quantum Dot Light-emitting Diodes
+
 education:
   courses:
     - course: PhD
-      institution: Technical University of Munich
+      institution: Tianjing University
       year: 2020
     - course: MEng in Materials Science
       institution: Hubei University
@@ -47,16 +51,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=XSt5wesAAAAJ&hl=zh-CN
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
 # Organizational groups that you belong to (for People widget)

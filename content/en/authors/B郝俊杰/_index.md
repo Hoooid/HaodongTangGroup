@@ -24,6 +24,11 @@ organizations:
   - name: Shenzhen Technology University
     url: ''
 
+interests:
+  - Synthesis of Nano Particles
+  - Modification of Nano Materials
+  - Chiral Emission and Detection
+
 education:
   courses:
     - course: PhD
@@ -36,8 +41,6 @@ education:
       institution: Hubei Engineering University
       year: 2006
 
-
-
 social:
   - icon: link
     icon_pack: fas
@@ -45,14 +48,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=PQox920AAAAJ&hl=en
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
