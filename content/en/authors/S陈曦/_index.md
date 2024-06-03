@@ -25,12 +25,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include machine learning, PbS quantum dots, and photoconductors.
+bio: My research interests include Photodetectors, colloidal quantum dots and electrophoretic deposition
 
 interests: 
-  - Machine Learning
-  - PbS Quantum Dots
-  - Photoconductors
+  - Electrophoretic deposition
+  - Photodetectors
+  - Colloidal Quantum Dots
 
 user_groups:
   - Undergraduate Students
