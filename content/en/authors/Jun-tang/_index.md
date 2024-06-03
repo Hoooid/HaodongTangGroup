@@ -50,7 +50,7 @@ education:
 social:
   - icon: link
     icon_pack: fas
-    link: 
+    link: https://nmne.sztu.edu.cn/info/1033/3012.htm
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=80F_p9sAAAAJ

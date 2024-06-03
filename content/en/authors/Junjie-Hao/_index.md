@@ -44,7 +44,7 @@ education:
 social:
   - icon: link
     icon_pack: fas
-    link: https://chensztu.github.io/index.html
+    link: https://icoc.sztu.edu.cn/info/1015/1168.htm
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=PQox920AAAAJ&hl=en
