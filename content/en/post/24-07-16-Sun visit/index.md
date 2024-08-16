@@ -1,6 +1,6 @@
 ---
 title: Prof Xiao Wei Sun and colleges paid a visit to SZTU.
-date: 2024-02-04
+date: 2024-07-16
 ---
 
 Professor Xiao Wei Sun Visits SZTU and Attends INOW 2024, Fostering Collaboration and Innovation in Nano-Optoelectronics.
