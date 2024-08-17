@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xi Chen
+title: Xi CHEN
 
 # Full name (for SEO)
 first_name: Xi

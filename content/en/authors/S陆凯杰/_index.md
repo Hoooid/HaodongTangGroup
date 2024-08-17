@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kaijie Lu
+title: Kaijie LU
 
 # Full name (for SEO)
 first_name: Kaijie
