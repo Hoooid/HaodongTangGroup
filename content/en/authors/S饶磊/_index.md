@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Sophomore
+role: Undergraduate
 
 #order
 order: B
@@ -33,7 +33,7 @@ interests:
   - Freeform Optics
 
 user_groups:
-  - Undergraduate Students
+  - Students
 
 ---
 

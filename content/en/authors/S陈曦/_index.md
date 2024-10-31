@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xi CHEN
+title: Xi Chen
 
 # Full name (for SEO)
 first_name: Xi
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Junior
+role: Undergraduate
 
 #order
 order: A
@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include Photodetectors, colloidal quantum dots and electrophoretic deposition
+bio: My research interests include Photodetectors, colloidal quantum dots and electrophoretic deposition.
 
 interests: 
   - Electrophoretic deposition
@@ -33,8 +33,8 @@ interests:
   - Colloidal Quantum Dots
 
 user_groups:
-  - Undergraduate Students
+  - Students
 
 ---
 
-Jian Kai Wang is a junior at Shenzhen Technology University. He has received several awards, including an Honorable Mention in the Mathematical Contest In Modeling (National Level) in November 2024, the Second Prize in the Guangdong Provincial level of the National College Mathematical Modeling Contest in November 2022, and the Champion of the League of Legends Mobile Game Tournament in the Shenzhen City College Competition in 2022, with a prize of 3000 yuan. His current research focuses on machine learning to optimize semiconductor process parameters, including annealing and spin coating.
+Chenxi is a junior at Shenzhen Technology University. He is currently working on electrophoretic deposition of PbS QDs. He is trying to lower down the non-ohmic leacked current by making PbS QD film with superlattice stacking using various of film fabrication methods.

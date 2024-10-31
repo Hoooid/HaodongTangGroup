@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Junior
+role: Undergraduate
 
 #order
 order: A
@@ -33,7 +33,7 @@ interests:
   - Photoconductors
 
 user_groups:
-  - Undergraduate Students
+  - Students
 
 ---
 
