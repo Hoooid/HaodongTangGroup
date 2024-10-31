@@ -28,7 +28,7 @@ organizations:
 bio: My current research interests include digital integrated circuit design and embedded systems.
 
 interests: 
-  - Digital Integrated Circuit Design
+  - Digital Integrated Circuit 
   - FPGA
   - Photoconductors
 
