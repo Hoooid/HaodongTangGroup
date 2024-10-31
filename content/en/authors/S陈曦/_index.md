@@ -17,7 +17,7 @@ superuser: false
 role: Undergraduate
 
 #order
-order: A
+order: B
 
 # Organizations/Affiliations
 organizations:
