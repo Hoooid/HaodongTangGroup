@@ -1,41 +1,40 @@
 ---
 # Display name
-title: Kaiyu LUO
+title: Andong ZHONG
 
 # Full name (for SEO)
-first_name: Kaiyu
-last_name: Luo
+first_name: Andong
+last_name: Zhong
 
 # Username (this should match the folder name)
 authors:
-  - S1罗凯裕
+  - S1钟安东
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Visiting Graduate Student
 
 #order
 order: A
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: Nanchang University 
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My current research interests include digital integrated circuit design and embedded systems.
+bio: Zhong Andong is a second-year postgraduate student majoring in materials science and engineering at the School of Physics and Materials at Nanchang University. He has achieved numerous accolades, including winning a Second Place in the 14th National 3D Digital Innovation Design Competition in Jiangxi Province, a Second Place in  the "Jiangling Group Easy to Car Cup" Jiangxi Province 10th College Student Automobile Innovation Design Competition , National Encouragement Scholarship, excellent student leader recognition, outstanding merit student award, outstanding graduate distinction, as well as receiving Second Place in the Jiangxi Province Graduate Mathematical Modeling Competition.
 
 interests: 
-  - Optoelectronic devices and display technologies
-  - Machine vision and image processing
-  - Optical design
-
+  - Semiconductor Material
+  - PbS CQD
+  - Photodetectors
 
 user_groups:
   - Students
 
 ---
 
-Kaiyu Luo is a graduate student in the Optical Information Engineering program at Shenzhen Technology University. He is currently conducting research in the Advanced Display Laboratory under the supervision of Professor Haodong Tang. His work primarily focuses on inverted-structure optoelectronic devices based on PbS quantum dots, aiming to explore innovative materials and device architectures for enhanced optoelectronic performance. 
+Zhong Andong is a second-year postgraduate student majoring in materials science and engineering at the School of Physics and Materials at Nanchang University. He has achieved numerous accolades, including winning a Second Place in the 14th National 3D Digital Innovation Design Competition in Jiangxi Province, a Second Place in  the "Jiangling Group Easy to Car Cup" Jiangxi Province 10th College Student Automobile Innovation Design Competition , National Encouragement Scholarship, excellent student leader recognition, outstanding merit student award, outstanding graduate distinction, as well as receiving Second Place in the Jiangxi Province Graduate Mathematical Modeling Competition.

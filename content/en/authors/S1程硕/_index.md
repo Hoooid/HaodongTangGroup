@@ -1,40 +1,39 @@
 ---
 # Display name
-title: Andong ZHONG
+title: Shuo CHENG
 
 # Full name (for SEO)
-first_name: Andong
-last_name: Zhong
+first_name: Shuo
+last_name: Cheng
 
 # Username (this should match the folder name)
 authors:
-  - S1钟安东
+  - S1程硕
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Visiting Graduate Student
+role: Graduate Student
 
 #order
 order: A
 
 # Organizations/Affiliations
 organizations:
-  - name: Nanchang University 
+  - name: Shenzhen Technology University 
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: Zhong Andong is a second-year postgraduate student majoring in materials science and engineering at the School of Physics and Materials at Nanchang University. He has achieved numerous accolades, including winning a Second Place in the 14th National 3D Digital Innovation Design Competition in Jiangxi Province, a Second Place in  the "Jiangling Group Easy to Car Cup" Jiangxi Province 10th College Student Automobile Innovation Design Competition , National Encouragement Scholarship, excellent student leader recognition, outstanding merit student award, outstanding graduate distinction, as well as receiving Second Place in the Jiangxi Province Graduate Mathematical Modeling Competition.
+bio: Cheng Shuo is a first-year graduate student at Shenzhen Technology University, majoring in Optoelectronic Information Engineering. She graduated from China University of Petroleum with a bachelor's degree in Electronic Information Engineering, where she received the Comprehensive Merit Scholarship and the title of Excellent Student for three consecutive years. She also participated in the Innovation and Entrepreneurship Training Program for University Students and achieved excellent results, successfully completing the project. Additionally, she has won the Silver Award at the School Competition of the 7th China International "Internet +" College Students' Innovation and Entrepreneurship Competition and the Third Prize in Category B of the 13th Shandong Provincial College Students' Physics Competition.
+Interests:Optoelectronic Detection and Imaging、Digital Integrated Circuit Design
 
 interests: 
-  - Semiconductor Material
-  - PbS CQD
-  - Photodetectors
+  - Optoelectronic Detection and Imaging
+  - Digital Integrated Circuit Design
 
 user_groups:
   - Students
 
 ---
 
-Zhong Andong is a second-year postgraduate student majoring in materials science and engineering at the School of Physics and Materials at Nanchang University. He has achieved numerous accolades, including winning a Second Place in the 14th National 3D Digital Innovation Design Competition in Jiangxi Province, a Second Place in  the "Jiangling Group Easy to Car Cup" Jiangxi Province 10th College Student Automobile Innovation Design Competition , National Encouragement Scholarship, excellent student leader recognition, outstanding merit student award, outstanding graduate distinction, as well as receiving Second Place in the Jiangxi Province Graduate Mathematical Modeling Competition.
