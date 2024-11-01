@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: 
+bio: Cheng Shuo is a first-year graduate student at Shenzhen Technology University, majoring in Optoelectronic Information Engineering. 
 
 interests: 
   - Optoelectronic Detection and Imaging
