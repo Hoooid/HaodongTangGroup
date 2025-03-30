@@ -51,9 +51,19 @@ jobs:
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Check build output
+        run: |
+          if [ -d "./public" ]; then
+            echo "Build output directory exists."
+            ls -al ./public
+          else
+            echo "Build output directory does not exist."
+            exit 1
+          fi
+      - name: Upload artifact  # 关键修改：v3 → v4
+        uses: actions/upload-artifact@v4  # 替换为v4版本
         with:
+          name: hugo-public
           path: ./public
 
   # Deploy website to GitHub Pages hosting
@@ -65,6 +75,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages  # 确保依赖的deploy-pages也使用兼容v4的版本
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v3  # 若该action已支持v4依赖，可能无需修改；否则需确认其兼容性
