@@ -77,4 +77,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages  # 确保依赖的deploy-pages也使用兼容v4的版本
         id: deployment
-        uses: actions/deploy-pages@v3  # 若该action已支持v4依赖，可能无需修改；否则需确认其兼容性
+        uses: actions/deploy-pages@v4  # 若该action已支持v4依赖，可能无需修改；否则需确认其兼容性
