@@ -18,7 +18,18 @@ env:
   HUGO_VERSION: '0.119.0'
 
 jobs:
+  preload-artifact:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dummy preload for upload-artifact@v3
+        uses: actions/upload-artifact@v3
+        with:
+          name: dummy
+          path: .gitignore
+          if-no-files-found: ignore
+
   build:
+    needs: preload-artifact
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source
