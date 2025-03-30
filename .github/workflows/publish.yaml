@@ -1,7 +1,4 @@
-name: Deploy website to GitHub Pages
-
-env:
-  WC_HUGO_VERSION: '0.119.0'
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
@@ -17,6 +14,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  HUGO_VERSION: '0.119.0'
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,27 +27,22 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: ${{ env.WC_HUGO_VERSION }}
+          hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
 
-      - uses: actions/cache@v3
+      - name: Restore Hugo module cache
+        uses: actions/cache@v3
         with:
           path: /tmp/hugo_cache_runner/
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
 
-      - name: Setup GitHub Pages
-        id: pages
-        uses: actions/configure-pages@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
         run: |
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          hugo --minify --baseURL "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v2
