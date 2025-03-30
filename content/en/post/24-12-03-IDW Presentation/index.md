@@ -2,7 +2,7 @@
 title: Celebrating Ms. Zheng Yixing’s Accomplishment at IDW 2024!
 date: 2024-12-04
 ---
-Celebrating Ms. Zheng Yixing’s Groundbreaking Research Presented at the International Display Workshops (IDW) 2024
+🎉Celebrating Ms. Zheng Yixing’s Research Presented at the International Display Workshops (IDW) 2024!🎉
 
 
 <!--more-->
