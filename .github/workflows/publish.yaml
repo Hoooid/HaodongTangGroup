@@ -19,7 +19,7 @@ env:
 
 jobs:
   preload-artifact:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # ✅ 使用稳定 runner
     steps:
       - name: Dummy preload for upload-artifact@v3
         uses: actions/upload-artifact@v3
@@ -30,7 +30,7 @@ jobs:
 
   build:
     needs: preload-artifact
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # ✅ 使用稳定 runner
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
@@ -62,7 +62,7 @@ jobs:
 
   deploy:
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # ✅ 使用稳定 runner
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
