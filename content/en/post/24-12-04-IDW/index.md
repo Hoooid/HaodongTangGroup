@@ -9,7 +9,7 @@ date: 2024-12-04
 
 We are delighted to share that Ms. Zheng Yixing successfully presented her poster at the International Display Workshops (IDW) 2024. Her research, titled “Characterization of Electrical Crosstalk in PbS Quantum Dot CMOS Image Sensors for Ultra-high-resolution Imaging,” offers exciting insights into cutting-edge sensor technology and its potential for next-generation displays and imaging application.
 
-About IDW (International Display Workshops)
+About IDW (International Display Workshops)1
 The International Display Workshops, commonly known as IDW, is an annual conference that brings together researchers, engineers, and industry professionals working on all aspects of display technology. Topics typically covered include:
 
 Display materials and components such as TFTs, quantum dots, OLEDs, and micro-LEDs
