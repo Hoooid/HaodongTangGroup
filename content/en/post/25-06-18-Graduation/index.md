@@ -1,13 +1,13 @@
 ---
-title: Celebrating Ms. Zheng Yixing’s Accomplishment at IDW 2024!
-date: 2024-12-04
+title: Graduation of Our Outstanding 2025 Students!
+date: 2025-06-17
 ---
 🎉Congratulations to the Students of 2025 on Their Graduation!🎉
 
 
 <!--more-->
 
-We are thrilled to celebrate the graduation of our outstanding 2025 cohort! This year, six talented students have successfully completed their journey with our group, embarking on exciting new paths.
+We are thrilled to celebrate the graduation of our outstanding 2025 students! This year, six talented students have successfully completed their journey with our group, embarking on exciting new paths.
 
 Four graduates have entered the workforce, ready to apply their skills and knowledge in their respective fields.
 
