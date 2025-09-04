@@ -1,34 +1,42 @@
 ---
-title: UG Student papter accepted in ACS ANM!
-date: 2025-07-15
+title: Comment publised in Nature Electronics!
+date: 2025-09-04
 ---
-🎉 Congratulations | Undergraduate Students Publish in ACS Applied Nano Materials with Cover Art Selection!
+🎉 Nature Electronics | Toward Standardization of EQE Testing for Emerging Photodetectors
 
 
 <!--more-->
+We are excited to share that the research team led by Haodong Tang and Wei Chen at Shenzhen Technology University has published a Comment article in Nature Electronics, entitled:
+📝 “Time to standardize external quantum efficiency testing of emerging photodetectors”
+🔗 DOI: 10.1038/s41928-025-01446-7
 
-We are thrilled to announce that Jian-Kai Wang and Lei Rao, undergraduate students from the College of Integrated Circuits and Optoelectronic Chips (Class of 2021), have published a research article as co-first authors in the prestigious SCI journal ACS Applied Nano Materials (American Chemical Society). The paper, titled "A Search-and-Verification Framework for Efficient Annealing Optimization in PbS Quantum Dot Films", was also selected as the cover art of the journal’s issue — a testament to the students’ talent in both scientific research and visual communication!
+🔍 Background
 
-🔬 Research Background & Significance
+Emerging photodetectors based on quantum dots, perovskites, and other novel semiconductors are rapidly advancing. Yet, differences in:
+💡 Light sources,
+⚖️ Power & photon flux calibration,
+📐 Illumination geometry, and
+📊 Readout conditions (bias, bandwidth, filtering)
+have made EQE testing inconsistent across labs, limiting comparability and reproducibility.
 
-Solution-processed semiconductors like quantum dots and perovskites are emerging as key materials for next-generation optoelectronic devices due to their low cost, low-temperature processing, and tunable bandgaps. Among them, PbS quantum dots (QDs) stand out for their strong response in the short-wave infrared (SWIR) region, offering promising applications in surveillance, biomedical imaging, and remote sensing.
+🚀 Key Contributions
 
-However, optimizing the annealing process—a critical step that influences film crystallinity, defect density, and carrier mobility—remains a major challenge. Traditional parameter tuning methods, such as single-variable optimization or full factorial designs, are often inefficient and prone to missing global optima.
+This article does not aim to report “higher EQE values,” but instead proposes a standardized testing framework to ensure transparent, reproducible, and comparable results:
 
-🌟 Research Highlights
+✅ Linear response validation – Confirm the device operates in a linear power–response regime before EQE is measured.
+🔄 Methodological clarity – Clearly distinguish between the direct method (calibrated photon flux + photocurrent) and the indirect method (responsivity-based), and state their assumptions.
+📑 Uncertainty reporting – Provide uncertainty budgets and encourage cross-validation between teams.
 
-This work introduces a novel “Search-and-Verification” annealing optimization framework (ACO-HC) tailored for low-dimensional parameter spaces. By combining Ant Colony Optimization with Hill Climbing and integrating real-time experimental feedback, the framework achieves high-resolution (1 °C, 1 min) adaptive tuning. Remarkably, it improves device responsivity by 265% while reducing the number of experiments by 99%.
+Figures in the article illustrate:
 
-Multimodal structural characterizations (AFM, SEM, XRD) confirmed that enhanced device performance is primarily due to reduced surface roughness, leading to more efficient carrier transport and photoelectric conversion.
+📈 Linear vs. nonlinear response regimes (showing when EQE is valid).
+🔦 Direct vs. indirect methods and how results vary depending on light sources and calibration.
 
-Notably, the proposed framework is generalizable and model-independent, making it applicable to a wide range of materials (quantum dots, perovskites, polymer semiconductors) and devices (photodetectors, solar cells, TFTs). This offers a versatile solution for transitioning from “experience-driven” to “data-driven” process design in low-dimensional material systems.
+🌐 Significance
 
-🔗 Read the Paper
-👨‍🎓 Co-first authors: Jian-Kai Wang, Lei Rao (Undergraduate students, ICOC)
-📮 Corresponding author: Dr. Haodong Tang, Assistant Professor
+The message is clear:
+✨ Progress in EQE research lies not in bigger numbers, but in establishing a unified, physics-grounded measurement protocol.
 
-This achievement showcases the high caliber of our undergraduate research training system. Supported by the Optoelectronic Chip Integration & Display Laboratory, the project exemplifies how research-driven education empowers students to innovate and contribute meaningfully to high-level academic and technological development.
+By defining minimum reporting standards and improving method transparency, this work lays the foundation for reliable, comparable, and reproducible evaluation of next-generation photodetectors.
 
-We look forward to seeing more of our students shine on the global research stage!
-
-— College of Integrated Circuits and Optoelectronic Chips, Shenzhen Technology University (ICOC)
+👉 Congratulations to the team for this impactful contribution that strengthens the foundations of emerging optoelectronics! 🎉

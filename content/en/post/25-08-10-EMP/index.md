@@ -1,42 +1,16 @@
 ---
-title: Celebrating Ms. Zheng Yixing’s Accomplishment at IDW 2024!
-date: 2024-12-04
+title: Gourp Presentation in EMP 2025!
+date: 2025-08-10
 ---
-🎉Celebrating Ms. Zheng Yixing’s Research Presented at the International Display Workshops (IDW) 2024!🎉
+🎉Our Students Shine at the EMP25 Conference in Macau!🎉
 
 
 <!--more-->
 
-We are delighted to share that Ms. Zheng Yixing successfully presented her poster at the International Display Workshops (IDW) 2024. Her research, titled “Characterization of Electrical Crosstalk in PbS Quantum Dot CMOS Image Sensors for Ultra-high-resolution Imaging,” offers exciting insights into cutting-edge sensor technology and its potential for next-generation displays and imaging application.
+We’re delighted to share that more than ten of our students proudly participated in the International Conference on Energy, Materials, and Photonics 2025 (EMP25) in Macau, held August 8–10, 2025. This global gathering brought together over 100 experts, including scholars, journal editors, and industry professionals, to delve into the latest advancements in optoelectronic materials, energy storage, semiconductors, and photonics.
 
-About IDW (International Display Workshops)1
-The International Display Workshops, commonly known as IDW, is an annual conference that brings together researchers, engineers, and industry professionals working on all aspects of display technology. Topics typically covered include:
+Hosted collaboratively by Macau University of Science and Technology, the Institute of Nanoscience and Applications, Southern University of Science and Technology, Society for Energy Photonics, Optica Shenzhen Section, and the IEEE Nanotechnology Council Guangdong Chapter, the conference featured a robust program of plenary talks, keynote addresses, invited lectures, and oral presentations.
 
-Display materials and components such as TFTs, quantum dots, OLEDs, and micro-LEDs
+Our students contributed impressively, delivering insightful oral presentations and engaging meaningfully with the global academic community. Their research added valuable perspectives to the discussions on new energy technologies, materials innovations, and photonics integration.
 
-Device architecture and design for enhanced performance and reliability
-
-Image sensor innovations and ultra-high-resolution imaging techniques
-
-Human factors, ergonomics, and emerging applications of display technology
-
-Known for its highly technical focus and robust exchange of ideas, IDW provides a platform for both established experts and rising innovators to share their latest findings. It attracts participants from academia and industry worldwide, fostering collaborations that shape the future of display and imaging research.
-
-Ms. Zheng Yixing’s Poster Presentation
-Ms. Zheng’s poster presentation delved into:
-
-Electrical Crosstalk in Quantum Dot CMOS Image Sensors
-She investigated how signals interfere with one another in densely packed pixel arrays, a major consideration for achieving ultra-high-resolution imaging.
-
-Novel Strategies to Mitigate Crosstalk
-By characterizing the underlying mechanisms of crosstalk, her research helps pave the way for improved image quality and sensor performance.
-
-Implications for Next-Generation Imaging
-This work has far-reaching potential for areas such as medical imaging, remote sensing, and consumer electronics, where ultra-high-resolution imaging is increasingly essential.
-
-Her work stands out as an important step toward enhancing the reliability and clarity of quantum dot imaging technology, aligning with the conference’s mission to advance the state of the art in display and imaging systems.
-
-Looking Ahead
-We extend our heartfelt congratulations to Ms. Zheng Yixing for her dedication and achievements. If you missed her poster at IDW 2024, we encourage you to reach out and learn more about her groundbreaking approach to quantum dot sensor design.
-
-For those interested in display technology, image sensors, and emerging research trends, IDW continues to be a must-attend event—an environment that nurtures innovation, collaboration, and the shaping of tomorrow’s imaging and display frontiers.
+Congratulations to our presenters—your hard work and dedication not only made us proud, but also reinforced our institution’s commitment to advancing frontier research and engaging globally.
