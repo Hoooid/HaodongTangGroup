@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Nano Photonics Group # Website name
-baseURL: http://990329.asia/  #'https://example.com/' # Website URL
+baseURL: https://nanophotonics.cc/  #'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
