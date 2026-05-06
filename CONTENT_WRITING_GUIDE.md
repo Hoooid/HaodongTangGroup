@@ -23,8 +23,8 @@ Before writing, collect and verify:
 - Paper type: original research, review, comment, perspective, cover article, conference news, award, or group activity.
 - Core topic and target audience.
 - Three to five concrete technical anchors, such as material system, device structure, method, benchmark metric, figure logic, or application scenario.
-- Any image assets that can be used locally, such as `featured.*`, `cover.svg`, or figure-style schematic assets.
-- Whether original paper figures are authorized for reuse. If not, redraw simplified explainer figures rather than copying screenshots from the paper.
+- Paper PDF or publisher page with figure assets.
+- Whether original paper figures are authorized for reuse. If they are available and authorized, use the original figures first; redraw simplified explainer figures only when figures cannot be reused, cannot be extracted cleanly, or the user explicitly asks for new diagrams.
 
 ## Visual Standard
 
@@ -32,25 +32,24 @@ Every important paper post should be figure-led, not text-only.
 
 Minimum visual package:
 
-1. `featured.*`: a cover or first visual that appears near the top and can serve as the post thumbnail.
-2. `fig1-*`: a one-glance research roadmap or mechanism diagram.
-3. `fig2-*` and beyond: two to four supporting visuals for material design, device structure, metrics, comparison, workflow, or application.
+1. `featured.*`: a raster thumbnail derived from the paper's first figure, cover image, or another authorized paper visual.
+2. `figure-1.*`, `figure-2.*`, etc.: original paper figures extracted from the PDF or downloaded from the publisher when authorized.
+3. Optional local redraws only when they clarify a point that the original figures do not show.
 
-For review articles, use redraws that explain the field map:
+For review articles, use original figures as the backbone of the post:
 
-- Material map: what each material system can detect and where its tradeoffs are.
-- Device or process chain: material -> film -> device -> metric -> system.
-- Metric decoder: translate dark current, EQE, responsivity, detectivity, response speed, and LDR into imaging consequences.
-- System diagram: detector array -> readout circuit -> application.
+- Use the review's material map, device diagrams, metric panels, strategy summaries, and system-integration figures directly when available.
+- Write one short lead-in before each figure and one plain-language explanation after each figure.
+- Translate figure content into the website story instead of replacing the paper's figures with newly drawn graphics.
 
-For original research articles, use visuals that explain the paper's actual contribution:
+For original research articles, use the paper's actual figures to explain the contribution:
 
 - Problem schematic: what was limiting performance before.
 - Method or mechanism schematic: what the authors changed.
 - Result summary: the key performance numbers and why they matter.
 - Figure-style reading: what Figures 1, 2, 3, etc. each prove.
 
-Do not publish a paper highlight without images unless no visual source or redraw can be made.
+Do not publish a paper highlight without images unless no visual source or redraw can be made. Do not redraw paper-like figures when the user expects the original PDF figures.
 
 ## Directory Pattern
 
