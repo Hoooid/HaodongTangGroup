@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650" role="img" aria-labelledby="title desc">
+  <title id="title">关键性能提升策略</title>
+  <desc id="desc">暗电流抑制、光电转换效率、线性动态范围和响应速度四类提升路线</desc>
+  <rect width="1100" height="650" fill="#fbfdfc"/>
+  <text x="50" y="72" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="34" font-weight="700" fill="#173a34">图4 性能提升不是单点突破，而是四条路线并行</text>
+  <text x="50" y="112" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="22" fill="#61736f">每条路线都对应一个系统问题：看得清、看得弱、看得快、看得稳。</text>
+  <g font-family="Arial, 'Noto Sans CJK SC', sans-serif">
+    <rect x="85" y="175" width="420" height="150" rx="20" fill="#fff" stroke="#d8e7e2" stroke-width="3"/>
+    <text x="125" y="222" font-size="28" font-weight="700" fill="#cf3d32">1. 降暗电流</text>
+    <text x="125" y="262" font-size="22" fill="#173a34">表面钝化、界面层、势垒调控</text>
+    <text x="125" y="296" font-size="20" fill="#60736e">目标：降低黑场噪声，提升弱光对比度</text>
+    <rect x="595" y="175" width="420" height="150" rx="20" fill="#fff" stroke="#d8e7e2" stroke-width="3"/>
+    <text x="635" y="222" font-size="28" font-weight="700" fill="#cf3d32">2. 提升光电转换</text>
+    <text x="635" y="262" font-size="22" fill="#173a34">表面重构、阳离子钝化、光学腔</text>
+    <text x="635" y="296" font-size="20" fill="#60736e">目标：同样光强下输出更强信号</text>
+    <rect x="85" y="395" width="420" height="150" rx="20" fill="#fff" stroke="#d8e7e2" stroke-width="3"/>
+    <text x="125" y="442" font-size="28" font-weight="700" fill="#cf3d32">3. 扩展 LDR</text>
+    <text x="125" y="482" font-size="22" fill="#173a34">薄膜质量、界面势垒、读出匹配</text>
+    <text x="125" y="516" font-size="20" fill="#60736e">目标：强弱光共存时不丢细节</text>
+    <rect x="595" y="395" width="420" height="150" rx="20" fill="#fff" stroke="#d8e7e2" stroke-width="3"/>
+    <text x="635" y="442" font-size="28" font-weight="700" fill="#cf3d32">4. 加快响应</text>
+    <text x="635" y="482" font-size="22" fill="#173a34">低电容、短通道、陷阱态钝化</text>
+    <text x="635" y="516" font-size="20" fill="#60736e">目标：高帧率成像和高速目标捕捉</text>
+  </g>
+  <circle cx="550" cy="360" r="58" fill="#eaf6ef" stroke="#59a77b" stroke-width="4"/>
+  <text x="550" y="352" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#173a34">系统级</text>
+  <text x="550" y="384" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#173a34">成像</text>
+</svg>

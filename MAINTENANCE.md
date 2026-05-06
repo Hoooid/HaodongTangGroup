@@ -86,6 +86,19 @@ For every newly accepted or published paper:
 4. Include the paper title, authors, journal/conference, DOI or URL, short research background, key contribution, and an image if available.
 5. If the publication import workflow opens a generated PR, review the generated publication pages before merging.
 
+Use `CONTENT_WRITING_GUIDE.md` for the repeatable paper-post structure. In short: verify the bibliographic facts first, prepare a cover image and two to four explainer figures, write the lead and `<!--more-->` excerpt, explain the background and challenge, convert the paper's technical content into a problem-method-result-impact story, then close with a concise takeaway. For review or perspective articles, emphasize the field map and evaluation framework rather than treating the article like an original experimental result. Do not publish important paper highlights as text-only posts; if original figures cannot be reused, redraw simplified local diagrams.
+
+Google Scholar can be used as a discovery checklist, but it should not be treated as an automatic source of truth because it has no stable official sync API for this static Hugo site. For routine maintenance, open Professor Tang's Google Scholar profile, check the three newest records, then add confirmed papers to `publications.bib` and write news posts in the style of a WeChat public-account article.
+
+### Performance Notes
+
+Keep the production site lightweight for visitors in mainland China:
+
+1. Avoid adding third-party scripts unless they are necessary.
+2. Compress large photos before committing them; target a practical web size rather than uploading original phone/camera files.
+3. Prefer local site assets over CDN-hosted dependencies.
+4. Test major pages without relying on a proxy or VPN when possible.
+
 ## Deployment Checks
 
 After merging changes to `main`:

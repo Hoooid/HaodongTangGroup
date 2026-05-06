@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650" role="img" aria-labelledby="title desc">
+  <title id="title">从器件到成像系统</title>
+  <desc id="desc">胶体量子点短波红外探测器与读出电路集成并走向应用</desc>
+  <rect width="1100" height="650" fill="#fbfdfc"/>
+  <text x="50" y="72" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="34" font-weight="700" fill="#173a34">图5 最后要落到“能不能做成相机”</text>
+  <text x="50" y="112" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="22" fill="#61736f">材料论文的终点不只是器件曲线，而是阵列、读出、封装和应用。</text>
+  <g transform="translate(95 205)">
+    <rect x="0" y="0" width="250" height="200" rx="22" fill="#eef7f4" stroke="#b9d7cf" stroke-width="3"/>
+    <g fill="#315f75">
+      <rect x="42" y="42" width="34" height="34" rx="5"/>
+      <rect x="91" y="42" width="34" height="34" rx="5"/>
+      <rect x="140" y="42" width="34" height="34" rx="5"/>
+      <rect x="42" y="92" width="34" height="34" rx="5"/>
+      <rect x="91" y="92" width="34" height="34" rx="5"/>
+      <rect x="140" y="92" width="34" height="34" rx="5"/>
+    </g>
+    <text x="125" y="250" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#173a34">CQD 探测阵列</text>
+  </g>
+  <g transform="translate(425 205)" font-family="Arial, 'Noto Sans CJK SC', sans-serif">
+    <rect x="0" y="0" width="250" height="200" rx="22" fill="#fff" stroke="#d8e7e2" stroke-width="3"/>
+    <rect x="45" y="46" width="160" height="38" rx="8" fill="#59b587"/>
+    <rect x="45" y="102" width="160" height="38" rx="8" fill="#6ca9bf"/>
+    <text x="125" y="70" font-size="22" font-weight="700" text-anchor="middle" fill="#fff">CMOS</text>
+    <text x="125" y="126" font-size="22" font-weight="700" text-anchor="middle" fill="#fff">TFT</text>
+    <text x="125" y="250" font-size="25" font-weight="700" text-anchor="middle" fill="#173a34">读出电路</text>
+  </g>
+  <g transform="translate(755 205)" font-family="Arial, 'Noto Sans CJK SC', sans-serif">
+    <rect x="0" y="0" width="250" height="200" rx="22" fill="#fff5ef" stroke="#e3b18d" stroke-width="3"/>
+    <text x="40" y="58" font-size="22" fill="#173a34">安防夜视</text>
+    <text x="40" y="98" font-size="22" fill="#173a34">工业检测</text>
+    <text x="40" y="138" font-size="22" fill="#173a34">医学成像</text>
+    <text x="40" y="178" font-size="22" fill="#173a34">农业遥感</text>
+    <text x="125" y="250" font-size="25" font-weight="700" text-anchor="middle" fill="#173a34">应用场景</text>
+  </g>
+  <path d="M350 305 H415 M680 305 H745" stroke="#cf3d32" stroke-width="5" stroke-linecap="round"/>
+  <path d="M415 305 l-13 -8 v16z M745 305 l-13 -8 v16z" fill="#cf3d32"/>
+  <rect x="180" y="520" width="740" height="70" rx="18" fill="#fff" stroke="#d8e7e2" stroke-width="3"/>
+  <text x="215" y="565" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="25" font-weight="700" fill="#cf3d32">发布文章时的终点：</text>
+  <text x="430" y="565" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="25" fill="#173a34">把科研结果连接到可部署的成像系统。</text>
+</svg>
