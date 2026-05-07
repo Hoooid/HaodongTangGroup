@@ -1,9 +1,392 @@
-// Make page header alignment consistent with widget page header alignment
+// Stanford-inspired local preview skin.
+// This file is intentionally self-contained so the visual experiment can be
+// reviewed locally without touching theme templates or content facts.
+
+:root {
+  --np-cardinal: #8c1515;
+  --np-cardinal-dark: #651010;
+  --np-cardinal-soft: rgba(140, 21, 21, 0.1);
+  --np-charcoal: #2e2d29;
+  --np-charcoal-soft: #56534d;
+  --np-border: #dedbd2;
+  --np-paper: #f7f7f5;
+  --np-white: #ffffff;
+  --np-shadow: 0 18px 48px rgba(46, 45, 41, 0.12);
+  --np-heading-font: "Source Sans Pro", "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --np-body-font: "Source Serif Pro", "Source Serif 4", Georgia, "Times New Roman", serif;
+}
+
+body {
+  color: var(--np-charcoal);
+  background: var(--np-paper);
+  font-family: var(--np-body-font);
+  line-height: 1.72;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar,
+.btn,
+.article-metadata,
+.card-title,
+.section-heading,
+.page-subtitle,
+.portrait-title {
+  font-family: var(--np-heading-font);
+  letter-spacing: 0;
+}
+
+a,
+.article-style a {
+  color: var(--np-cardinal);
+  text-decoration-color: rgba(140, 21, 21, 0.32);
+  text-underline-offset: 0.18em;
+}
+
+a:hover,
+.article-style a:hover {
+  color: var(--np-cardinal-dark);
+  text-decoration-color: var(--np-cardinal-dark);
+}
+
+.page-header,
+.navbar {
+  background: rgba(255, 255, 255, 0.96) !important;
+  border-bottom: 1px solid rgba(46, 45, 41, 0.08);
+  box-shadow: 0 8px 28px rgba(46, 45, 41, 0.06);
+  backdrop-filter: blur(16px);
+}
+
+.navbar-brand {
+  color: var(--np-cardinal) !important;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: var(--np-charcoal) !important;
+  font-size: 0.92rem;
+  font-weight: 650;
+  padding-inline: 0.85rem;
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus {
+  color: var(--np-cardinal) !important;
+}
+
+.home-section,
+.page-body {
+  background: var(--np-paper);
+}
+
+// Make page header alignment consistent with widget page header alignment.
 .universal-wrapper h1 {
   text-align: center;
 }
 
-// Center the CTA shortcode button
+// Center the CTA shortcode button.
 .cta-group {
   justify-content: center;
+}
+
+// Homepage hero: full-width, image-led, and more institutional.
+#section-hero.wg-hero {
+  min-height: clamp(620px, 92vh, 900px);
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  background-color: var(--np-charcoal);
+}
+
+#section-hero.wg-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  background:
+    linear-gradient(90deg, rgba(46, 45, 41, 0.92), rgba(101, 16, 16, 0.74) 48%, rgba(46, 45, 41, 0.34)),
+    linear-gradient(0deg, rgba(46, 45, 41, 0.5), rgba(46, 45, 41, 0.1));
+  pointer-events: none;
+}
+
+#section-hero.wg-hero .container {
+  position: static;
+  max-width: 1180px;
+}
+
+#section-hero.wg-hero .row {
+  min-height: clamp(620px, 92vh, 900px);
+  align-items: center;
+}
+
+#section-hero.wg-hero .col-md-6:first-child {
+  position: relative;
+  z-index: 4;
+  flex: 0 0 72%;
+  max-width: 72%;
+}
+
+#section-hero.wg-hero .hero-media {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  flex: none;
+  padding: 0;
+  margin: 0 !important;
+  opacity: 1;
+}
+
+#section-hero.wg-hero .hero-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  filter: saturate(1.04) contrast(1.04);
+  box-shadow: none;
+}
+
+#section-hero.wg-hero h1 {
+  max-width: 980px;
+  color: var(--np-white);
+  font-size: clamp(3.8rem, 8vw, 8.6rem);
+  font-weight: 800;
+  line-height: 0.94;
+  text-align: left;
+  text-wrap: balance;
+  margin-bottom: 1.8rem;
+}
+
+#section-hero.wg-hero p {
+  max-width: 760px;
+  color: rgba(255, 255, 255, 0.88);
+  font-size: clamp(1.08rem, 1.7vw, 1.34rem);
+  line-height: 1.72;
+  text-align: left;
+}
+
+#section-hero.wg-hero strong {
+  color: #ffffff;
+  font-weight: 750;
+}
+
+.btn,
+.btn-primary,
+.cta-group .btn {
+  border-radius: 2px;
+  border-color: var(--np-cardinal);
+  background: var(--np-cardinal);
+  color: #fff !important;
+  box-shadow: none;
+  font-weight: 750;
+  letter-spacing: 0.01em;
+  padding: 0.72rem 1.12rem;
+}
+
+.btn:hover,
+.btn-primary:hover,
+.cta-group .btn:hover {
+  border-color: var(--np-cardinal-dark);
+  background: var(--np-cardinal-dark);
+  color: #fff !important;
+  transform: translateY(-1px);
+}
+
+.home-section:not(:first-of-type) {
+  padding: clamp(4.5rem, 7vw, 7rem) 0;
+}
+
+.home-section .section-heading h1,
+.home-section .section-heading h2 {
+  color: var(--np-charcoal);
+  font-size: clamp(2.2rem, 4vw, 3.8rem);
+  font-weight: 800;
+  line-height: 1.04;
+}
+
+.home-section .section-heading h1::after,
+.home-section .section-heading h2::after,
+.article-container h2::after,
+.universal-wrapper h1::after {
+  content: "";
+  display: block;
+  width: 56px;
+  height: 4px;
+  margin: 1rem auto 0;
+  background: var(--np-cardinal);
+}
+
+.article-container h2::after {
+  margin-left: 0;
+}
+
+.card,
+.view-card .card,
+.card-simple.view-card,
+.media.stream-item,
+.pub-list-item {
+  border: 1px solid rgba(46, 45, 41, 0.1);
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 10px 30px rgba(46, 45, 41, 0.08);
+  transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+}
+
+.card:hover,
+.view-card .card:hover,
+.card-simple.view-card:hover,
+.media.stream-item:hover,
+.pub-list-item:hover {
+  border-color: rgba(140, 21, 21, 0.28);
+  box-shadow: var(--np-shadow);
+  transform: translateY(-2px);
+}
+
+.card-title a,
+.card-simple.view-card .article-title a,
+.media.stream-item .article-title a,
+.pub-list-item a {
+  color: var(--np-charcoal);
+}
+
+.card-title a:hover,
+.card-simple.view-card .article-title a:hover,
+.media.stream-item .article-title a:hover,
+.pub-list-item a:hover {
+  color: var(--np-cardinal);
+}
+
+.article-container {
+  max-width: 850px;
+}
+
+.article-container h1 {
+  color: var(--np-charcoal);
+  font-size: clamp(2.25rem, 4.4vw, 4.7rem);
+  font-weight: 800;
+  line-height: 1.04;
+  text-wrap: balance;
+}
+
+.article-style {
+  color: var(--np-charcoal);
+  font-size: 1.05rem;
+}
+
+.article-style h2 {
+  color: var(--np-charcoal);
+  margin-top: 3.2rem;
+  font-size: clamp(1.85rem, 3vw, 2.65rem);
+  font-weight: 800;
+  line-height: 1.08;
+}
+
+.article-style h3 {
+  color: var(--np-cardinal);
+  margin-top: 2.35rem;
+  font-size: clamp(1.22rem, 2vw, 1.52rem);
+  font-weight: 800;
+}
+
+.article-style blockquote {
+  border-left: 6px solid var(--np-cardinal);
+  background: #fff;
+  color: var(--np-charcoal);
+  margin: 2rem 0;
+  padding: 1.2rem 1.35rem;
+  box-shadow: 0 10px 28px rgba(46, 45, 41, 0.06);
+}
+
+.article-style figure img,
+.featured-image {
+  border-radius: 3px;
+  box-shadow: 0 18px 44px rgba(46, 45, 41, 0.14);
+}
+
+.article-metadata {
+  color: var(--np-charcoal-soft);
+}
+
+.share-box,
+.author-card {
+  border-top: 1px solid var(--np-border);
+}
+
+.site-footer {
+  border-top: 1px solid var(--np-border);
+  color: var(--np-charcoal-soft);
+}
+
+// Keep the theme's dark mode usable while preserving the red accent.
+.dark,
+body.dark {
+  --np-paper: #1f1f1d;
+  --np-white: #262522;
+  --np-charcoal: #f4f1ea;
+  --np-charcoal-soft: #cbc5b7;
+  --np-border: rgba(255, 255, 255, 0.16);
+}
+
+.dark .page-header,
+.dark .navbar,
+body.dark .page-header,
+body.dark .navbar {
+  background: rgba(31, 31, 29, 0.94) !important;
+  border-bottom-color: rgba(255, 255, 255, 0.12);
+}
+
+.dark .card,
+.dark .view-card .card,
+.dark .article-style blockquote,
+body.dark .card,
+body.dark .view-card .card,
+body.dark .article-style blockquote {
+  background: rgba(38, 37, 34, 0.94);
+}
+
+@media (max-width: 991.98px) {
+  .navbar .navbar-nav .nav-link {
+    padding: 0.65rem 0;
+  }
+
+  #section-hero.wg-hero {
+    min-height: 720px;
+    align-items: flex-end;
+    padding-bottom: 4rem;
+  }
+
+  #section-hero.wg-hero .row {
+    min-height: 720px;
+  }
+
+  #section-hero.wg-hero .col-md-6:first-child {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  #section-hero.wg-hero h1 {
+    font-size: clamp(3rem, 15vw, 5.4rem);
+  }
+}
+
+@media (max-width: 575.98px) {
+  .article-container h1 {
+    font-size: 2.15rem;
+  }
+
+  .article-style {
+    font-size: 1rem;
+  }
+
+  .home-section:not(:first-of-type) {
+    padding: 3.5rem 0;
+  }
 }
