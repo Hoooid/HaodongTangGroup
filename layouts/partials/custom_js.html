@@ -1,0 +1,7 @@
+{{ if eq .Type "publication" }}
+  {{ $publicationJS := resources.Get "js/publication-mvp.js" }}
+  {{ if $publicationJS }}
+    {{ $publicationJS = $publicationJS | js.Build (dict "format" "iife" "minify" true) }}
+    <script src="{{ $publicationJS.RelPermalink }}"></script>
+  {{ end }}
+{{ end }}
