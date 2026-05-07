@@ -22,6 +22,10 @@ publication_types:
 - article-journal
 publication: '*Advanced Optical Materials*'
 doi: 10.1002/adom.202200623
+cover_image: cover.svg
+research_areas:
+- Infrared Sensing
+- MXenes
 links:
 - name: URL
   url: https://doi.org/10.1002%2Fadom.202200623

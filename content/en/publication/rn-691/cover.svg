@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" role="img" aria-labelledby="title desc">
+  <title id="title">MXene infrared sensing cover preview</title>
+  <desc id="desc">A lightweight manually curated thumbnail for the MXene infrared sensing publication.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2e2d29"/>
+      <stop offset="0.52" stop-color="#8c1515"/>
+      <stop offset="1" stop-color="#f7f7f5"/>
+    </linearGradient>
+    <radialGradient id="beam" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="0.28" stop-color="#ffdf9e" stop-opacity="0.74"/>
+      <stop offset="1" stop-color="#8c1515" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#bg)"/>
+  <circle cx="220" cy="92" r="104" fill="url(#beam)"/>
+  <g fill="none" stroke="#fff" stroke-opacity="0.48" stroke-width="2">
+    <path d="M-20 270 C70 220 125 330 210 280 C255 252 285 230 330 238"/>
+    <path d="M-18 302 C80 250 122 360 214 316 C265 292 292 278 330 286"/>
+    <path d="M-20 236 C62 196 122 294 198 246 C250 214 286 198 330 206"/>
+  </g>
+  <g transform="translate(58 126)" fill="#f7f7f5">
+    <rect x="0" y="0" width="184" height="118" rx="10" opacity="0.16"/>
+    <path d="M24 86 L76 34 L116 74 L146 44 L164 86 Z" opacity="0.9"/>
+    <circle cx="54" cy="42" r="12" opacity="0.8"/>
+  </g>
+  <text x="34" y="326" fill="#ffffff" font-family="Source Sans Pro, Arial, sans-serif" font-size="26" font-weight="700">Infrared Sensing</text>
+  <text x="34" y="354" fill="#ffffff" fill-opacity="0.82" font-family="Source Sans Pro, Arial, sans-serif" font-size="15">MXenes enabled by intercalants</text>
+</svg>

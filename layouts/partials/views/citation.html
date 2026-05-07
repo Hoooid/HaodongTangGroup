@@ -1,0 +1,99 @@
+{{ $item := .item }}
+
+{{ $cover := "" }}
+{{ $coverFull := "" }}
+{{ with $item.Params.cover_image }}
+  {{ $cover = $item.Resources.GetMatch . }}
+{{ end }}
+{{ with ($item.Params.cover_full_image | default $item.Params.cover_image) }}
+  {{ $coverFull = $item.Resources.GetMatch . }}
+{{ end }}
+{{ if and $cover (not $coverFull) }}
+  {{ $coverFull = $cover }}
+{{ end }}
+
+<article class="pub-list-item view-citation publication-card">
+  <div class="publication-card__cover" aria-hidden="{{ if $cover }}false{{ else }}true{{ end }}">
+    {{ if $cover }}
+      {{ $isStaticCover := or (eq $cover.MediaType.SubType "svg") (eq $cover.MediaType.SubType "gif") }}
+      {{ if $coverFull }}<a href="{{ $coverFull.RelPermalink }}" target="_blank" rel="noopener" aria-label="Open publication cover">{{ end }}
+        {{ if $isStaticCover }}
+          <img src="{{ $cover.RelPermalink }}" alt="{{ $item.Title }} cover" width="150" height="200" loading="lazy">
+        {{ else }}
+          {{ $coverThumb := $cover.Fill "300x400 webp" }}
+          {{ $coverThumb2x := $cover.Fill "600x800 webp" }}
+          <img src="{{ $coverThumb.RelPermalink }}"
+               srcset="{{ $coverThumb.RelPermalink }} 300w, {{ $coverThumb2x.RelPermalink }} 600w"
+               sizes="(max-width: 575px) 96px, 150px"
+               alt="{{ $item.Title }} cover"
+               width="{{ $coverThumb.Width }}"
+               height="{{ $coverThumb.Height }}"
+               loading="lazy">
+        {{ end }}
+      {{ if $coverFull }}</a>{{ end }}
+    {{ else }}
+      <div class="publication-card__cover-placeholder">
+        <i class="far fa-file-alt" aria-hidden="true"></i>
+      </div>
+    {{ end }}
+  </div>
+
+  <div class="publication-card__body">
+    <div class="publication-card__meta-row">
+      <span>{{ $item.Date.Format "2006" }}</span>
+      {{ with $item.Params.publication_types }}
+        <span>{{ i18n (printf "pub_%s" (strings.Replace (index . 0) "-" "_")) | default (strings.Title (index . 0)) }}</span>
+      {{ end }}
+    </div>
+
+    <h2 class="publication-card__title">
+      <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+    </h2>
+
+    <div class="article-metadata li-cite-author publication-card__authors">
+      {{ partial "page_metadata_authors" $item }}
+    </div>
+
+    {{ if $item.Params.publication_short }}
+      <div class="publication-card__venue">{{ $item.Params.publication_short | markdownify }}</div>
+    {{ else if $item.Params.publication }}
+      <div class="publication-card__venue">{{ $item.Params.publication | markdownify }}</div>
+    {{ end }}
+
+    {{ if or (isset $item.Params "impact_factor") $item.Params.jcr_quartile (isset $item.Params "citation_count") $item.Params.research_areas $item.Params.badges }}
+    <div class="publication-card__badges">
+      {{ if isset $item.Params "impact_factor" }}
+        <span class="publication-badge">IF {{ $item.Params.impact_factor }}</span>
+      {{ end }}
+      {{ with $item.Params.jcr_quartile }}
+        <span class="publication-badge">{{ . }}</span>
+      {{ end }}
+      {{ if isset $item.Params "citation_count" }}
+        <span class="publication-badge">{{ $item.Params.citation_count }} citations</span>
+      {{ end }}
+      {{ with $item.Params.research_areas }}
+        {{ range . }}
+          <span class="publication-badge publication-badge--muted">{{ . }}</span>
+        {{ end }}
+      {{ end }}
+      {{ with $item.Params.badges }}
+        {{ range . }}
+          {{ $badge := . }}
+          {{ $label := cond (eq $badge "esi_highly_cited") "ESI Highly Cited" (cond (eq $badge "journal_cover") "Journal Cover" $badge) }}
+          <span class="publication-badge publication-badge--accent">{{ $label }}</span>
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="publication-card__links btn-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+      {{ with $item.Params.google_scholar_url }}
+        <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ . }}" target="_blank" rel="noopener">Scholar</a>
+      {{ end }}
+      {{ with $item.Params.orcid_url }}
+        <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ . }}" target="_blank" rel="noopener">ORCID</a>
+      {{ end }}
+    </div>
+  </div>
+</article>

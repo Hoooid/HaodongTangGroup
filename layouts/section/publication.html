@@ -1,0 +1,106 @@
+{{- define "main" -}}
+
+{{ $.Page.Store.Set "has_isotope" true }}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper publication-index">
+  <div class="row">
+    <div class="col-lg-12">
+
+      {{ with .Content }}
+      <div class="article-style">{{ . }}</div>
+      {{ end }}
+
+      {{ range .Pages.ByDate.Reverse }}
+        {{ $year := print (.Date.Format "2006") }}
+        {{ $.Scratch.SetInMap "years" $year $year }}
+        {{ with .Params.research_areas }}
+          {{ range . }}
+            {{ $.Scratch.SetInMap "research_areas" (anchorize .) . }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      <div class="publication-toolbar mb-4" aria-label="Publication controls">
+        <div class="publication-toolbar__primary">
+          <input type="search" class="filter-search form-control form-control-sm" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
+          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+
+          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype" aria-label="Publication type">
+            <option value="*">{{ i18n "publication_type" }}</option>
+            {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
+            <option value=".pubtype-{{ $index }}">
+              {{ i18n (printf "pub_%s" (strings.Replace $index "-" "_")) | default (strings.Title $index) }}
+            </option>
+            {{ end }}
+          </select>
+
+          <select class="pub-filters form-control form-control-sm" data-filter-group="year" aria-label="{{ i18n "date" }}">
+            <option value="*">{{ i18n "date" }}</option>
+            {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
+            {{ if $years_sorted }}
+            {{ range $year := sort $years_sorted "" "desc" }}
+            <option value=".year-{{ $year }}">
+              {{ $year }}
+            </option>
+            {{ end }}
+            {{ end }}
+          </select>
+
+          {{ $areas := $.Scratch.GetSortedMapValues "research_areas" }}
+          {{ if $areas }}
+          <select class="pub-filters form-control form-control-sm" data-filter-group="area" aria-label="Research area">
+            <option value="*">Research Area</option>
+            {{ range $area := sort $areas }}
+            <option value=".area-{{ anchorize $area }}">{{ $area }}</option>
+            {{ end }}
+          </select>
+          {{ end }}
+        </div>
+
+        <div class="publication-toolbar__sort">
+          <select class="publication-sort-key form-control form-control-sm" aria-label="Sort publications">
+            <option value="year">Sort: Year</option>
+            <option value="impact">Sort: Impact Factor</option>
+            <option value="citations">Sort: Citations</option>
+          </select>
+          <select class="publication-sort-direction form-control form-control-sm" aria-label="Sort direction">
+            <option value="desc">Desc</option>
+            <option value="asc">Asc</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="container-publications" class="publication-grid">
+        {{ range $index, $item := .Pages.ByDate.Reverse }}
+
+        {{ if .Params.publication_types }}
+          {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
+        {{ else }}
+          {{ $.Scratch.Set "pubtype" 0 }}
+        {{ end }}
+
+        {{ $areaClasses := slice }}
+        {{ with .Params.research_areas }}
+          {{ range . }}
+            {{ $areaClasses = $areaClasses | append (printf "area-%s" (anchorize .)) }}
+          {{ end }}
+        {{ end }}
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }} {{ delimit $areaClasses " " }}"
+             data-pub-year="{{ .Date.Format "2006" }}"
+             data-pub-impact="{{ if isset .Params "impact_factor" }}{{ .Params.impact_factor }}{{ end }}"
+             data-pub-citations="{{ if isset .Params "citation_count" }}{{ .Params.citation_count }}{{ end }}"
+             data-sort-current="{{ .Date.Format "2006" }}">
+          {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+        </div>
+
+        {{ end }}
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{{- end -}}

@@ -56,6 +56,27 @@ Pushing changes to `publications.bib` triggers `.github/workflows/import-publica
 
 Review the generated PR before merging.
 
+Optional publication display fields can be added manually to the generated English and Chinese publication bundles after bibliographic facts are confirmed:
+
+```yaml
+cover_image: cover.webp
+cover_full_image: cover-full.webp
+impact_factor: 8.3
+jcr_quartile: Q1
+citation_count: 42
+research_areas:
+  - Infrared Sensing
+badges:
+  - esi_highly_cited
+  - journal_cover
+google_scholar_url: https://scholar.google.com/...
+orcid_url: https://orcid.org/...
+```
+
+Keep these fields local and manually verified. Google Scholar is useful as a discovery checklist and external link, but it is not a stable automatic source of truth for this static Hugo site. Impact factor, JCR quartile, ESI highly cited status, and journal cover status should only be shown after Professor Tang or another maintainer confirms them.
+
+Publication cover thumbnails are manually curated assets placed in the same publication folder as `index.md`. Prefer WebP or JPG thumbnails under about 80 KB for the list view; add `cover_full_image` only when a higher-resolution image is useful for click-through viewing. Do not automatically download publisher images or infer a journal cover badge from a thumbnail.
+
 ### Chinese Content
 
 The Hugo language configuration includes `zh` with `contentDir: content/zh`, and the site header language switch is enabled.
