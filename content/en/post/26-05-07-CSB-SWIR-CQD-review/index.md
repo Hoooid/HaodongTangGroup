@@ -1,15 +1,15 @@
 ---
-title: Paper Highlight | Colloidal Quantum Dot SWIR Detection and Imaging Review
+title: Paper Highlight | Chinese Science Bulletin Review on CQD SWIR Detection and Imaging
 date: 2026-05-07T00:00:00+08:00
 ---
 
-The review article “High-performance shortwave infrared detection and imaging based on colloidal quantum dots” has been published online in *Chinese Science Bulletin*. This highlight uses the original figures extracted from the paper PDF and walks through Figures 1-8 as a figure-led reading of the full CQD-SWIR technology chain.
+A review article by Haodong Tang, Shuo Cheng, Wei Chen, Dan Wu, and Kai Wang, titled “High-performance shortwave infrared detection and imaging based on colloidal quantum dots,” has been published online in *Chinese Science Bulletin*. The article reviews the full CQD-SWIR technology chain from materials and films to device architectures, performance metrics, and imaging-system integration.
 
 <!--more-->
 
 ## One-Sentence Takeaway
 
-<span style="color:#c62828;font-weight:700">The review is not just about one detector metric. It explains how colloidal quantum dot SWIR detection moves from tunable materials toward deployable imaging systems.</span>
+<span style="color:#c62828;font-weight:700">The review explains how colloidal quantum dot SWIR detection moves from tunable materials toward deployable imaging systems.</span>
 
 Materials define spectral coverage. Ligands and films define transport quality. Device architectures define dark current, noise, speed, and integration. Readout circuits determine whether the detector can become a practical camera.
 
@@ -18,9 +18,11 @@ Materials define spectral coverage. Ligands and films define transport quality. 
 - Title: High-performance shortwave infrared detection and imaging based on colloidal quantum dots
 - Chinese title: 高性能胶体量子点短波红外探测及成像技术
 - Journal: *Chinese Science Bulletin*
+- Special issue: Optoelectronic detection materials and devices
 - Online publication: September 30, 2025
 - DOI: <https://doi.org/10.1360/CSB-2025-5138>
 - Authors: Haodong Tang, Shuo Cheng, Wei Chen, Dan Wu and Kai Wang
+- Corresponding authors: Haodong Tang, Wei Chen and Kai Wang
 
 ## Figure 1: Materials And Films
 
@@ -50,7 +52,7 @@ Dark current density, noise, responsivity, external quantum efficiency, detectiv
 
 Figure 3 shows how these quantities are measured. J-V curves and dark-current fitting reveal leakage and interface behavior. Noise spectral density sets the weak-signal floor. Responsivity, EQE, and detectivity describe conversion and sensitivity. Response time and bandwidth define frame-rate capability. Linear dynamic range determines whether bright and dark details survive in the same scene.
 
-<span style="color:#c62828;font-weight:700">A good public-facing paper highlight should translate metrics into imaging outcomes: clean dark frames, weak-light visibility, motion blur, and detail retention.</span>
+These metrics connect device physics to image quality: dark current and noise determine the weak-signal floor, response speed affects motion capture, and linear dynamic range controls whether bright and dark details can coexist in one image.
 
 ## Figure 4: Dark Current Suppression
 
@@ -113,3 +115,14 @@ High-performance CQD-SWIR imaging is therefore not the result of a single record
 Congratulations to the authors.
 
 Note: The figures in this post are extracted from Figures 1-8 of the paper PDF for website paper discussion. Please refer to the original article for full figure captions and references.
+
+## Full Article Information
+
+- Title: High-performance shortwave infrared detection and imaging based on colloidal quantum dots
+- Chinese title: 高性能胶体量子点短波红外探测及成像技术
+- Journal: *Chinese Science Bulletin*
+- Online publication: September 30, 2025
+- Authors: Haodong Tang, Shuo Cheng, Wei Chen, Dan Wu and Kai Wang
+- Corresponding authors: Haodong Tang, Wei Chen and Kai Wang
+- Affiliations: Southern University of Science and Technology; Shenzhen Technology University
+- DOI / Full article: <https://doi.org/10.1360/CSB-2025-5138>

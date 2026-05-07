@@ -2,6 +2,8 @@
 
 This guide records the repeatable structure for turning a new paper, review, comment, or conference output into a figure-rich website post for `nanophotonics.cc`.
 
+For tone-specific rules, especially Chinese "academic celebration" posts and metric-to-imaging translation, also use `PAPER_POST_EDITORIAL_GUIDE.md`.
+
 ## Goal
 
 Each post should help a non-specialist reader understand:
