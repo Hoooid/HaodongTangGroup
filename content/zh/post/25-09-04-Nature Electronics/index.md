@@ -3,7 +3,7 @@ title: 课题组在 Nature Electronics 发表 Comment 文章
 date: 2025-09-04
 ---
 
-唐浩东和陈伟团队在 Nature Electronics 发表 Comment 文章，呼吁推动新兴光电探测器外量子效率测试标准化。
+唐浩东和陈威团队在 Nature Electronics 发表 Comment 文章，呼吁推动新兴光电探测器外量子效率测试标准化。
 
 <!--more-->
 

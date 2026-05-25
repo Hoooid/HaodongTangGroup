@@ -56,27 +56,6 @@ Pushing changes to `publications.bib` triggers `.github/workflows/import-publica
 
 Review the generated PR before merging.
 
-Optional publication display fields can be added manually to the generated English and Chinese publication bundles after bibliographic facts are confirmed:
-
-```yaml
-cover_image: cover.webp
-cover_full_image: cover-full.webp
-impact_factor: 8.3
-jcr_quartile: Q1
-citation_count: 42
-research_areas:
-  - Infrared Sensing
-badges:
-  - esi_highly_cited
-  - journal_cover
-google_scholar_url: https://scholar.google.com/...
-orcid_url: https://orcid.org/...
-```
-
-Keep these fields local and manually verified. Google Scholar is useful as a discovery checklist and external link, but it is not a stable automatic source of truth for this static Hugo site. Impact factor, JCR quartile, ESI highly cited status, and journal cover status should only be shown after Professor Tang or another maintainer confirms them.
-
-Publication cover thumbnails are manually curated assets placed in the same publication folder as `index.md`. Prefer WebP or JPG thumbnails under about 80 KB for the list view; add `cover_full_image` only when a higher-resolution image is useful for click-through viewing. Do not automatically download publisher images or infer a journal cover badge from a thumbnail.
-
 ### Chinese Content
 
 The Hugo language configuration includes `zh` with `contentDir: content/zh`, and the site header language switch is enabled.
@@ -101,11 +80,44 @@ Publication pages are mirrored so the Chinese publications list is populated. Ke
 
 For every newly accepted or published paper:
 
-1. Add or update the BibTeX entry in `publications.bib`.
-2. Write a news post under `content/en/post/<YY-MM-DD-short-title>/index.md`.
-3. Write the matching Chinese post under `content/zh/post/<YY-MM-DD-short-title>/index.md`.
-4. Include the paper title, authors, journal/conference, DOI or URL, short research background, key contribution, and an image if available.
-5. If the publication import workflow opens a generated PR, review the generated publication pages before merging.
+1. Add the paper to the publication list with the DOI helper:
+
+   ```bash
+   python3 scripts/create_publication_from_doi.py 10.xxxx/example-doi
+   ```
+
+   The script uses Crossref DOI metadata to create mirrored bundles under `content/en/publication/` and `content/zh/publication/`, including `index.md` and `cite.bib`. It checks existing DOI records first to avoid duplicate publication entries.
+2. To use ORCID as a new-paper radar, scan the public ORCID works record first:
+
+   ```bash
+   python3 scripts/sync_publications_from_orcid.py 0000-0002-5632-5096
+   ```
+
+   The ORCID sync script only uses ORCID to discover DOI candidates, compares those DOIs with local `content/*/publication/` bundles, and writes nothing by default. After reviewing the missing list, run it with `--import-missing` to create the missing publication bundles through Crossref.
+3. Add or update the BibTeX entry in `publications.bib` if the imported publication workflow is still being used for batch maintenance.
+4. For Chinese announcements, optionally create a separate news post draft:
+
+   ```bash
+   python3 scripts/create_post_from_doi.py 10.xxxx/example-doi
+   ```
+
+   This post script creates `content/zh/post/<YYYY-MM-DD-short-title>/index.md`, marks the post as `draft: true`, and reminds you to add a local `featured.jpg`. Pass `--publish` only after the paper story and images are ready.
+5. Include the paper title, authors, journal/conference, DOI or URL, short research background, key contribution, and an image if available.
+6. Refresh publication list covers after adding or importing publication bundles:
+
+   ```bash
+   python3 scripts/generate_publication_covers.py
+   ```
+
+   The cover script creates local `preview.svg` metadata cards for publication bundles that do not yet have one. Manually curated `featured.*`, `preview.*`, or `cover.*` files in a publication folder remain the preferred image when available.
+7. To attempt publisher-provided article images, inspect DOI landing-page image metadata first:
+
+   ```bash
+   python3 scripts/fetch_publication_images.py --limit 10
+   ```
+
+   After reviewing the candidates, add `--download` to save the first valid candidate as `cover-auto.*`. Add `--pdf-first-page` to fall back to a PDF candidate and render page 1 as the local cover when no image metadata is usable; this also checks OpenAlex for open-access PDF URLs unless `--no-openalex` is passed. These downloaded images are local and outrank generated `preview.svg` cards, but curated `featured.*` and `cover.*` files still take priority.
+8. If the publication import workflow opens a generated PR, review the generated publication pages before merging.
 
 Use `CONTENT_WRITING_GUIDE.md` for the repeatable paper-post structure. In short: verify the bibliographic facts first, extract or download authorized original paper figures from the PDF or publisher page, create a raster `featured.*` thumbnail from one of those figures, write the lead and `<!--more-->` excerpt, explain the background and challenge, then walk readers through the original figures with short figure-led explanations. For review or perspective articles, emphasize the field map and evaluation framework rather than treating the article like an original experimental result. Do not publish important paper highlights as text-only posts, and do not redraw paper-style figures when the intended source is the paper PDF itself; redraw only when original figures cannot be reused or the user explicitly asks for new diagrams.
 

@@ -45,8 +45,8 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0000-0002-5632-5096
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=TUagQGQAAAAJ&hl=zh-CN
   - icon: researchgate
     icon_pack: fab

@@ -1,0 +1,12 @@
+# Localized publication-list dependencies to avoid blocking jsDelivr requests
+# for visitors in mainland China.
+
+[js.isotope]
+  version = ".js"
+  sri = ""
+  url = "/js/vendor/isotope.pkgd.min%s"
+
+[js.imagesLoaded]
+  version = ".js"
+  sri = ""
+  url = "/js/vendor/imagesloaded.pkgd.min%s"

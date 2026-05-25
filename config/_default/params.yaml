@@ -22,7 +22,7 @@ marketing:
     twitter: ''
   analytics:
     google_analytics: ''
-    baidu_tongji: '唐浩东'
+    baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
@@ -38,7 +38,7 @@ header:
     show_logo: true
     show_language: true
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: false
 
 # Site footer
@@ -94,25 +94,22 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
       show_logo: true
   map:
-    provider: 'mapnik'
+    provider: ''
     api_key: ''
     zoom: 15
 
 # Extensions
 
 extensions:
-  decap_cms:
-    branch: main
-    local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 # Citation style
 

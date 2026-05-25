@@ -40,8 +40,8 @@ social:
   - icon: link
     icon_pack: fas
     link: https://www.sustech.edu.cn/zh/faculties/sunxiaowei.html
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=XSt5wesAAAAJ&hl=zh-CN
 
 email: ''

@@ -46,8 +46,8 @@ social:
   - icon: link
     icon_pack: fas
     link: https://eee.sustech.edu.cn/?view=%E7%8E%8B%E6%81%BA&jsid=18
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=GIFaWXMAAAAJ&hl=en
 
 user_groups:

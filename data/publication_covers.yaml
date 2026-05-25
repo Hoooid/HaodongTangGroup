@@ -1,0 +1,11 @@
+# Manual publication cover overrides.
+#
+# Use a normalized DOI as the top-level key. The fetch script supports:
+#   image: direct image URL
+#   pdf: direct PDF URL to render as cover-auto.*
+#   note: short provenance note printed during fetches
+#
+# Example:
+# 10.1021/example:
+#   image: https://example.org/graphical-abstract.jpg
+#   note: Manually sourced graphical abstract

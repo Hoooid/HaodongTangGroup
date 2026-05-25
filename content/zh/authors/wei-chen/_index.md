@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wei CHEN
+title: 陈威
 
 # Full name (for SEO)
 first_name: 威
@@ -21,27 +21,27 @@ order: C
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum dots, transient spectropy and GIXS.
+bio: 主要研究方向包括量子点、瞬态光谱和掠入射 X 射线散射。
 
 interests:
-  - Quantum Dots and Their Structural-efficiency Relationship
-  - Grazing-incidence Small-angle X-ray Scattering (GISAXS)
-  - Transient Absorption and Emission Spectropy
+  - 量子点及其结构-效率关系
+  - 掠入射小角 X 射线散射 (GISAXS)
+  - 瞬态吸收与发射光谱
 
 education:
   courses:
-    - course: PhD
-      institution: Technical University of Munich
+    - course: 博士
+      institution: 慕尼黑工业大学
       year: 2020
-    - course: MEng in Materials Science
-      institution: Hubei University
+    - course: 材料科学硕士
+      institution: 湖北大学
       year: 2013
-    - course: BSc in Physics
-      institution: Hubei Engineering University
+    - course: 物理学学士
+      institution: 湖北工程学院
       year: 2006
 
 # Social/Academic Networking
@@ -52,8 +52,8 @@ social:
   - icon: link
     icon_pack: fas
     link: https://chensztu.github.io/index.html
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=QMUDB68AAAAJ
 # - icon: github
 #   icon_pack: fab
@@ -74,4 +74,4 @@ user_groups:
 
 ---
 
-Dr. Wei Chen is an experimental physicist and the PI of the Energy & Photonics Lab (EPL) at SZTU. Wei received his B.Sc. degree in physics at Hubei Engineering University (2006), M.Sc. degree in materials science at Hubei University (2013), and Ph.D. degree (Dr.rer.nat.) at the Technical University of Munich (TUM, 2020). Before moving to Germany for the Ph.D. study, Wei spent three years (2013-2016) working on CQD optoelectronic applications as a research assistant in the joint Lab led by Prof. Kai Wang & Chair Prof. Xiao Wei Sun at SUSTech where Wei received valuable experience in developing high-quality CQD materials and advanced optoelectronic applications.
+陈威博士是深圳技术大学 Energy & Photonics Lab (EPL) 负责人，长期从事实验光物理、胶体量子点、瞬态光谱和结构表征相关研究。陈威于 2006 年获得湖北工程学院物理学学士学位，2013 年获得湖北大学材料科学硕士学位，2020 年获得慕尼黑工业大学博士学位。赴德国攻读博士前，他曾在南方科技大学王恺教授和孙小卫讲席教授团队联合实验室从事胶体量子点光电应用研究。

@@ -52,8 +52,8 @@ social:
   - icon: link
     icon_pack: fas
     link: https://chensztu.github.io/index.html
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=QMUDB68AAAAJ
 # - icon: github
 #   icon_pack: fab

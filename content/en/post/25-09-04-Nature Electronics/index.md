@@ -1,5 +1,5 @@
 ---
-title: Comment Publised in Nature Electronics!
+title: Comment Published in Nature Electronics
 date: 2025-09-04
 ---
 🎉 Nature Electronics | Toward Standardization of EQE Testing for Emerging Photodetectors
