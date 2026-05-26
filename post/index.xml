@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | Nano Photonics Group</title><link>https://nanophotonics.cc/post/</link><atom:link href="https://nanophotonics.cc/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2026 00:00:00 +0800</lastBuildDate><image><url>https://nanophotonics.cc/media/icon_hu3c861dd92db2e8c6b96172937e5b3f16_84294_512x512_fill_lanczos_center_3.png</url><title>Latest News</title><link>https://nanophotonics.cc/post/</link></image><item><title>Paper Highlight | Chinese Science Bulletin Review on CQD SWIR Detection and Imaging</title><link>https://nanophotonics.cc/post/26-05-07-csb-swir-cqd-review/</link><pubDate>Thu, 07 May 2026 00:00:00 +0800</pubDate><guid>https://nanophotonics.cc/post/26-05-07-csb-swir-cqd-review/</guid><description>&lt;p>A review article by Haodong Tang, Shuo Cheng, Wei Chen, Dan Wu, and Kai Wang, titled “High-performance shortwave infrared detection and imaging based on colloidal quantum dots,” has been published online in &lt;em>Chinese Science Bulletin&lt;/em>. The article reviews the full CQD-SWIR technology chain from materials and films to device architectures, performance metrics, and imaging-system integration.&lt;/p>
+&lt;h2 id="one-sentence-takeaway">One-Sentence Takeaway&lt;/h2>
+&lt;p>&lt;span style="color:#c62828;font-weight:700">The review explains how colloidal quantum dot SWIR detection moves from tunable materials toward deployable imaging systems.&lt;/span>&lt;/p>
+&lt;p>Materials define spectral coverage. Ligands and films define transport quality. Device architectures define dark current, noise, speed, and integration. Readout circuits determine whether the detector can become a practical camera.&lt;/p>
+&lt;h2 id="paper-information">Paper Information&lt;/h2>
+&lt;ul>
+&lt;li>Title: High-performance shortwave infrared detection and imaging based on colloidal quantum dots&lt;/li>
+&lt;li>Chinese title: 高性能胶体量子点短波红外探测及成像技术&lt;/li>
+&lt;li>Journal: &lt;em>Chinese Science Bulletin&lt;/em>&lt;/li>
+&lt;li>Special issue: Optoelectronic detection materials and devices&lt;/li>
+&lt;li>Online publication: September 30, 2025&lt;/li>
+&lt;li>DOI: &lt;a href="https://doi.org/10.1360/CSB-2025-5138" target="_blank" rel="noopener">https://doi.org/10.1360/CSB-2025-5138&lt;/a>&lt;/li>
+&lt;li>Authors: Haodong Tang, Shuo Cheng, Wei Chen, Dan Wu and Kai Wang&lt;/li>
+&lt;li>Corresponding authors: Haodong Tang, Wei Chen and Kai Wang&lt;/li>
+&lt;/ul>
+&lt;h2 id="figure-1-materials-and-films">Figure 1: Materials And Films&lt;/h2>
+&lt;p>Short-wave infrared detection, typically covering the 1.2-3 um range, is valuable for night vision, biomedical imaging, industrial inspection, environmental sensing, and optical communication. Conventional InGaAs and InSb systems perform well but remain costly and process-intensive. Colloidal quantum dots offer bandgap tunability, solution processing, and low-temperature compatibility.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Figure 1 | CQD materials, spectral coverage, and film processing" srcset="
+/post/26-05-07-csb-swir-cqd-review/figure-1_hueb7cd801c21920418fd36a576948d020_296540_9011017fe862ad6ee90074d209f627ed.webp 400w,
+/post/26-05-07-csb-swir-cqd-review/figure-1_hueb7cd801c21920418fd36a576948d020_296540_f9b8d0b526600c8f2e086710e05488ee.webp 760w,
+/post/26-05-07-csb-swir-cqd-review/figure-1_hueb7cd801c21920418fd36a576948d020_296540_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://nanophotonics.cc/post/26-05-07-csb-swir-cqd-review/figure-1_hueb7cd801c21920418fd36a576948d020_296540_9011017fe862ad6ee90074d209f627ed.webp"
+width="751"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Figure 1 sets up the materials foundation. PbS quantum dot absorption shifts with particle size. Different infrared materials cover different spectral windows. Film formation then turns colloidal particles into electronically coupled semiconductor solids through ligand exchange and processing control.&lt;/p>
+&lt;p>&lt;span style="color:#c62828;font-weight:700">The point is not to list material names. The point is to connect material choice, wavelength range, processing route, stability, and application fit.&lt;/span>&lt;/p>
+&lt;h2 id="figure-2-device-architecture">Figure 2: Device Architecture&lt;/h2>
+&lt;p>Absorbing SWIR photons is only the first step. The detector must generate, separate, transport, and read out carriers efficiently.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Figure 2 | Photoconductors, photodiodes, phototransistors, and integrated structures" srcset="
+/post/26-05-07-csb-swir-cqd-review/figure-2_hu916ad274841a3121ec2d67d1b8890a8b_49489_7e39198608811b307105f48f126ea933.webp 400w,
+/post/26-05-07-csb-swir-cqd-review/figure-2_hu916ad274841a3121ec2d67d1b8890a8b_49489_7452dfce54e4b509282ae99903f09d97.webp 760w,
+/post/26-05-07-csb-swir-cqd-review/figure-2_hu916ad274841a3121ec2d67d1b8890a8b_49489_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://nanophotonics.cc/post/26-05-07-csb-swir-cqd-review/figure-2_hu916ad274841a3121ec2d67d1b8890a8b_49489_7e39198608811b307105f48f126ea933.webp"
+width="760"
+height="137"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Figure 2 compares mainstream CQD photodetector structures. Photoconductors are simple and can provide gain, but dark current and speed can be limiting. Photodiodes use built-in fields for carrier separation and are better suited to low-noise, low-power imaging arrays. Phototransistors introduce amplification but require tradeoffs among speed, crosstalk, and fabrication complexity.&lt;/p>
+&lt;p>Device architecture is therefore not a drawing preference. It defines how the detector handles noise, response speed, operating voltage, and readout compatibility.&lt;/p>
+&lt;h2 id="figure-3-metrics-as-imaging-consequences">Figure 3: Metrics As Imaging Consequences&lt;/h2>
+&lt;p>Dark current density, noise, responsivity, external quantum efficiency, detectivity, response speed, and linear dynamic range can look like a table of numbers. For imaging, each metric maps to a visible system consequence.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Figure 3 | Electrical and optical characterization metrics" srcset="
+/post/26-05-07-csb-swir-cqd-review/figure-3_hu65fcf71ed47efdb4011d5c9fd962cfe0_185080_0d9ecb7d5e0c0a9dd58898bfbfb7982f.webp 400w,
+/post/26-05-07-csb-swir-cqd-review/figure-3_hu65fcf71ed47efdb4011d5c9fd962cfe0_185080_d682e9c63ed4614bfead359f66e4bee8.webp 760w,
+/post/26-05-07-csb-swir-cqd-review/figure-3_hu65fcf71ed47efdb4011d5c9fd962cfe0_185080_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://nanophotonics.cc/post/26-05-07-csb-swir-cqd-review/figure-3_hu65fcf71ed47efdb4011d5c9fd962cfe0_185080_0d9ecb7d5e0c0a9dd58898bfbfb7982f.webp"
+width="760"
+height="572"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Figure 3 shows how these quantities are measured. J-V curves and dark-current fitting reveal leakage and interface behavior. Noise spectral density sets the weak-signal floor. Responsivity, EQE, and detectivity describe conversion and sensitivity. Response time and bandwidth define frame-rate capability. Linear dynamic range determines whether bright and dark details survive in the same scene.&lt;/p>
+&lt;p>These metrics connect device physics to image quality: dark current and noise determine the weak-signal floor, response speed affects motion capture, and linear dynamic range controls whether bright and dark details can coexist in one image.&lt;/p>
+&lt;h2 id="figure-4-dark-current-suppression">Figure 4: Dark Current Suppression&lt;/h2>
+&lt;p>For infrared imaging, weak signals are common. High dark current raises the background, burdens readout electronics, and reduces contrast.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Figure 4 | Dark-current suppression strategies" srcset="
+/post/26-05-07-csb-swir-cqd-review/figure-4_hu901f0afa3e3a15c2b8d3d865a8c6130f_209484_6c9a64d13e672e2b866bdb0c55c47199.webp 400w,
+/post/26-05-07-csb-swir-cqd-review/figure-4_hu901f0afa3e3a15c2b8d3d865a8c6130f_209484_758cee56ebc176ec69418eddcdacd5ac.webp 760w,
+/post/26-05-07-csb-swir-cqd-review/figure-4_hu901f0afa3e3a15c2b8d3d865a8c6130f_209484_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://nanophotonics.cc/post/26-05-07-csb-swir-cqd-review/figure-4_hu901f0afa3e3a15c2b8d3d865a8c6130f_209484_6c9a64d13e672e2b866bdb0c55c47199.webp"
+width="760"
+height="553"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Figure 4 summarizes routes for suppressing dark current, including reducing interfacial water adsorption, multilayer ligand exchange and interface optimization, transport-layer treatment, mixed-size quantum dots for improved transport, and low-temperature processing to reduce cracks.&lt;/p>
+&lt;p>These strategies differ in implementation, but their common goal is the same: reduce leakage pathways and trap-assisted recombination so weak SWIR signals are not buried by the background.&lt;/p>
+&lt;h2 id="figure-5-conversion-efficiency-and-signal-gain">Figure 5: Conversion Efficiency And Signal Gain&lt;/h2>
+&lt;p>After dark current is controlled, the detector must convert incident photons into a strong electrical signal. Responsivity and EQE directly affect low-light signal-to-noise ratio.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Figure 5 | EQE, responsivity, and gain-related strategies" srcset="
+/post/26-05-07-csb-swir-cqd-review/figure-5_hu73f8fd5309722b5c7fff7477bf59155d_229213_13b7daa08571beb4afe4106cc3af3c6f.webp 400w,
+/post/26-05-07-csb-swir-cqd-review/figure-5_hu73f8fd5309722b5c7fff7477bf59155d_229213_b10700a3aee139aa174508bd3762f582.webp 760w,
+/post/26-05-07-csb-swir-cqd-review/figure-5_hu73f8fd5309722b5c7fff7477bf59155d_229213_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://nanophotonics.cc/post/26-05-07-csb-swir-cqd-review/figure-5_hu73f8fd5309722b5c7fff7477bf59155d_229213_13b7daa08571beb4afe4106cc3af3c6f.webp"
+width="760"
+height="626"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Figure 5 highlights surface reconstruction, cation passivation, high-bias photomultiplication, dual-mode detection, and optical resonant cavities. Some approaches improve surface coupling and passivation, some introduce gain, and some enhance optical absorption.&lt;/p>
+&lt;p>&lt;span style="color:#c62828;font-weight:700">The important question is not only whether EQE is larger, but where the signal gain comes from.&lt;/span> Gain mechanisms must be read together with noise, linearity, bias condition, and stability.&lt;/p>
+&lt;h2 id="figure-6-linear-dynamic-range">Figure 6: Linear Dynamic Range&lt;/h2>
+&lt;p>Real scenes rarely contain a single light level. Traffic monitoring, backlit scenes, biomedical imaging, and industrial inspection often include bright and dark regions at the same time.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Figure 6 | Linear dynamic range examples" srcset="
+/post/26-05-07-csb-swir-cqd-review/figure-6_hu0ca45a60707f569281196d3ee091c9fd_156337_a5578a09f3dd15b0693c14faa7579fa3.webp 400w,
+/post/26-05-07-csb-swir-cqd-review/figure-6_hu0ca45a60707f569281196d3ee091c9fd_156337_17b7e5931efc010a999f065128fac4fc.webp 760w,
+/post/26-05-07-csb-swir-cqd-review/figure-6_hu0ca45a60707f569281196d3ee091c9fd_156337_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://nanophotonics.cc/post/26-05-07-csb-swir-cqd-review/figure-6_hu0ca45a60707f569281196d3ee091c9fd_156337_a5578a09f3dd15b0693c14faa7579fa3.webp"
+width="760"
+height="397"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Figure 6 focuses on LDR. Flexible broadband PbS quantum dot photodiode arrays improve dynamic range by lowering dark current and improving photocarrier extraction. Azide-modified ZnO electron transport layers reduce deep traps and oxygen vacancies, helping the detector maintain a wider linear response.&lt;/p>
+&lt;p>Higher LDR means bright regions are less likely to saturate while dark details remain visible. For downstream vision algorithms, this can matter more than a single peak metric.&lt;/p>
+&lt;h2 id="figure-7-response-speed">Figure 7: Response Speed&lt;/h2>
+&lt;p>Response speed is not just a transient curve. It determines frame-rate limits and the ability to capture fast targets.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Figure 7 | High-speed response strategies" srcset="
+/post/26-05-07-csb-swir-cqd-review/figure-7_hu030a9a0e390ec7ae41508619e3ef365a_204961_607345f89573547138344acb5ede06f8.webp 400w,
+/post/26-05-07-csb-swir-cqd-review/figure-7_hu030a9a0e390ec7ae41508619e3ef365a_204961_8d8659089d7d939bc79cb130b7c5e7b5.webp 760w,
+/post/26-05-07-csb-swir-cqd-review/figure-7_hu030a9a0e390ec7ae41508619e3ef365a_204961_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://nanophotonics.cc/post/26-05-07-csb-swir-cqd-review/figure-7_hu030a9a0e390ec7ae41508619e3ef365a_204961_607345f89573547138344acb5ede06f8.webp"
+width="760"
+height="512"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Figure 7 shows three speed-oriented strategies: ultrathin fully depleted devices with low-capacitance electrode design, sodium-acetate-assisted solid-state ligand exchange for shorter inter-dot spacing and improved extraction, and surface-reconstructed InAs/ZnSe core-shell nanorods for trap passivation.&lt;/p>
+&lt;p>Fast response is therefore controlled by device capacitance, film thickness, carrier pathways, and interfacial trap density, not simply by applying a higher voltage.&lt;/p>
+&lt;h2 id="figure-8-readout-integration-and-imaging-systems">Figure 8: Readout Integration And Imaging Systems&lt;/h2>
+&lt;p>A strong single detector is not yet an imaging system. Practical SWIR cameras require arrays, readout circuits, low-temperature-compatible processes, and pixel uniformity.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Figure 8 | CQD-SWIR imaging and readout-circuit integration" srcset="
+/post/26-05-07-csb-swir-cqd-review/figure-8_hu1d55a5c49d4d6a4ceead9b3a78f690ff_158461_72934524d555d3043c3f07a679dff71a.webp 400w,
+/post/26-05-07-csb-swir-cqd-review/figure-8_hu1d55a5c49d4d6a4ceead9b3a78f690ff_158461_2cd7978e7d38fc424807a087196fc539.webp 760w,
+/post/26-05-07-csb-swir-cqd-review/figure-8_hu1d55a5c49d4d6a4ceead9b3a78f690ff_158461_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://nanophotonics.cc/post/26-05-07-csb-swir-cqd-review/figure-8_hu1d55a5c49d4d6a4ceead9b3a78f690ff_158461_72934524d555d3043c3f07a679dff71a.webp"
+width="760"
+height="367"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Figure 8 moves the review from devices to systems: CQD SWIR cameras, CMOS integration, and TFT-based low-cost integration. CMOS readout platforms are mature and suitable for high-resolution image sensors, while TFT readout circuits offer potential advantages for low-cost and large-area arrays.&lt;/p>
+&lt;p>&lt;span style="color:#c62828;font-weight:700">This is the review&amp;rsquo;s key endpoint: CQD-SWIR progress depends on connecting materials, devices, and readout electronics into deployable imaging technology.&lt;/span>&lt;/p>
+&lt;h2 id="final-reading">Final Reading&lt;/h2>
+&lt;p>The review can be read as one chain:&lt;/p>
+&lt;p>Material systems define spectral coverage; ligands and films define carrier transport; device architecture defines dark current, noise, and speed; metrics define image quality; readout integration determines whether the technology can become a camera.&lt;/p>
+&lt;p>High-performance CQD-SWIR imaging is therefore not the result of a single record number. It is a system-level outcome across materials, films, devices, characterization, and integration.&lt;/p>
+&lt;p>Congratulations to the authors.&lt;/p>
+&lt;p>Note: The figures in this post are extracted from Figures 1-8 of the paper PDF for website paper discussion. Please refer to the original article for full figure captions and references.&lt;/p>
+&lt;h2 id="full-article-information">Full Article Information&lt;/h2>
+&lt;ul>
+&lt;li>Title: High-performance shortwave infrared detection and imaging based on colloidal quantum dots&lt;/li>
+&lt;li>Chinese title: 高性能胶体量子点短波红外探测及成像技术&lt;/li>
+&lt;li>Journal: &lt;em>Chinese Science Bulletin&lt;/em>&lt;/li>
+&lt;li>Online publication: September 30, 2025&lt;/li>
+&lt;li>Authors: Haodong Tang, Shuo Cheng, Wei Chen, Dan Wu and Kai Wang&lt;/li>
+&lt;li>Corresponding authors: Haodong Tang, Wei Chen and Kai Wang&lt;/li>
+&lt;li>Affiliations: Southern University of Science and Technology; Shenzhen Technology University&lt;/li>
+&lt;li>DOI / Full article: &lt;a href="https://doi.org/10.1360/CSB-2025-5138" target="_blank" rel="noopener">https://doi.org/10.1360/CSB-2025-5138&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Paper Highlight | Ligand-Directed PbS Quantum Dot Growth for High-Performance SWIR Photodetectors</title><link>https://nanophotonics.cc/post/26-02-04-jmcc-swir-qd/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/26-02-04-jmcc-swir-qd/</guid><description>&lt;p>Our collaborative paper “Ligand-directed growth control for high-performance short-wave infrared quantum dot photodetectors” has been published in &lt;em>Journal of Materials Chemistry C&lt;/em>. The work addresses a central materials challenge in PbS colloidal quantum dot SWIR photodetectors: how to control quantum dot growth, surface passivation, and film packing so that material quality translates into device performance.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Paper highlight cover"
+src="https://nanophotonics.cc/post/26-02-04-jmcc-swir-qd/cover.svg"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="paper-information">Paper Information&lt;/h2>
+&lt;ul>
+&lt;li>Title: Ligand-directed growth control for high-performance short-wave infrared quantum dot photodetectors&lt;/li>
+&lt;li>Journal: &lt;em>Journal of Materials Chemistry C&lt;/em>&lt;/li>
+&lt;li>First published: February 4, 2026&lt;/li>
+&lt;li>DOI: &lt;a href="https://doi.org/10.1039/D5TC03823E" target="_blank" rel="noopener">https://doi.org/10.1039/D5TC03823E&lt;/a>&lt;/li>
+&lt;li>Authors: Yihan Song, Youming Chen, Yiwen Li, Qian Chen, Andong Zhong, Haibo Zhu, Yihong Tang, Fan Fang, Junjie Hao, Haodong Tang, Jiaji Cheng, Yong Xia, Lin Song and Wei Chen&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-swir-quantum-dot-photodetectors">Why SWIR Quantum Dot Photodetectors?&lt;/h2>
+&lt;p>Short-wave infrared photodetection is useful for imaging, sensing, machine vision, and environmental monitoring. Compared with traditional infrared semiconductor systems, colloidal PbS quantum dots offer tunable bandgaps, solution processing, low-temperature fabrication, and compatibility with large-area manufacturing.&lt;/p>
+&lt;p>The challenge is that quantum dot films are highly sensitive to surface defects and packing quality. Trap states can increase recombination and dark current, while inefficient coupling between quantum dots can limit carrier transport and device response.&lt;/p>
+&lt;h2 id="what-did-this-work-do">What Did This Work Do?&lt;/h2>
+&lt;p>The team focused on the quantum dot growth stage. By using 1-octanethiol (OT) together with bis(trimethylsilyl) sulfide (TMS) as double sulfur sources, the work dynamically regulates PbS quantum dot growth and surface passivation.&lt;/p>
+&lt;p>The strategy can be read in three steps:&lt;/p>
+&lt;ol>
+&lt;li>Tune the OT/TMS ratio during synthesis to control quantum dot morphology and size distribution.&lt;/li>
+&lt;li>Reduce surface defect states through improved passivation and longer carrier lifetimes.&lt;/li>
+&lt;li>Improve the packing and electronic coupling of quantum dot solids, which supports stronger device response.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Ligand-directed growth mechanism"
+src="https://nanophotonics.cc/post/26-02-04-jmcc-swir-qd/mechanism.svg"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="main-results">Main Results&lt;/h2>
+&lt;p>The optimized OT-QDs showed improved monodispersity, fewer surface defects, and prolonged carrier lifetimes. Structural characterization further indicated that OT drives favorable quantum dot morphology and superlattice ordering, helping to reduce trap density and improve inter-dot electronic coupling.&lt;/p>
+&lt;p>Device-level highlights include:&lt;/p>
+&lt;ul>
+&lt;li>59.1% external quantum efficiency at 1308 nm.&lt;/li>
+&lt;li>8.34 × 10^11 Jones specific detectivity.&lt;/li>
+&lt;li>Suppressed dark current and a lower noise floor.&lt;/li>
+&lt;li>A clear link between growth chemistry, film structure, and photodetector performance.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Device performance highlights"
+src="https://nanophotonics.cc/post/26-02-04-jmcc-swir-qd/results.svg"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="figure-style-reading">Figure-Style Reading&lt;/h2>
+&lt;p>Figure 1 can be understood as the research roadmap: the double sulfur source strategy acts during quantum dot formation rather than only after synthesis. The OT/TMS balance affects size distribution, surface states, and packing in the final film.&lt;/p>
+&lt;p>Figure 2 focuses on structure. Microscopy, optical characterization, and scattering results show how the optimized quantum dots differ in morphology and ordering, providing a material basis for device improvement.&lt;/p>
+&lt;p>Figures 3 to 5 connect this materials design to photodetector behavior. With fewer traps and stronger quantum dot coupling, photogenerated carriers can be collected more effectively, dark current is reduced, and the final device achieves higher EQE and detectivity.&lt;/p>
+&lt;h2 id="takeaway">Takeaway&lt;/h2>
+&lt;p>This paper shows that high-performance PbS quantum dot SWIR photodetectors can be improved from the source: how the quantum dots grow. Ligand-directed growth control links material chemistry, surface passivation, film packing, and device metrics into one design pathway.&lt;/p>
+&lt;p>Congratulations to all authors.&lt;/p></description></item><item><title>Comment Published in Nature Electronics</title><link>https://nanophotonics.cc/post/25-09-04-nature-electronics/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/25-09-04-nature-electronics/</guid><description>&lt;p>🎉 Nature Electronics | Toward Standardization of EQE Testing for Emerging Photodetectors&lt;/p>
+&lt;p>We are excited to share that the research team led by Haodong Tang and Wei Chen at Shenzhen Technology University has published a Comment article in Nature Electronics, entitled:
+📝 “Time to standardize external quantum efficiency testing of emerging photodetectors”
+🔗 DOI: 10.1038/s41928-025-01446-7&lt;/p>
+&lt;p>🔍 Background&lt;/p>
+&lt;p>Emerging photodetectors based on quantum dots, perovskites, and other novel semiconductors are rapidly advancing. Yet, differences in:
+💡 Light sources,
+⚖️ Power &amp;amp; photon flux calibration,
+📐 Illumination geometry, and
+📊 Readout conditions (bias, bandwidth, filtering)
+have made EQE testing inconsistent across labs, limiting comparability and reproducibility.&lt;/p>
+&lt;p>🚀 Key Contributions&lt;/p>
+&lt;p>This article does not aim to report “higher EQE values,” but instead proposes a standardized testing framework to ensure transparent, reproducible, and comparable results:&lt;/p>
+&lt;p>✅ Linear response validation – Confirm the device operates in a linear power–response regime before EQE is measured.
+🔄 Methodological clarity – Clearly distinguish between the direct method (calibrated photon flux + photocurrent) and the indirect method (responsivity-based), and state their assumptions.
+📑 Uncertainty reporting – Provide uncertainty budgets and encourage cross-validation between teams.&lt;/p>
+&lt;p>Figures in the article illustrate:&lt;/p>
+&lt;p>📈 Linear vs. nonlinear response regimes (showing when EQE is valid).
+🔦 Direct vs. indirect methods and how results vary depending on light sources and calibration.&lt;/p>
+&lt;p>🌐 Significance&lt;/p>
+&lt;p>The message is clear:
+✨ Progress in EQE research lies not in bigger numbers, but in establishing a unified, physics-grounded measurement protocol.&lt;/p>
+&lt;p>By defining minimum reporting standards and improving method transparency, this work lays the foundation for reliable, comparable, and reproducible evaluation of next-generation photodetectors.&lt;/p>
+&lt;p>👉 Congratulations to the team for this impactful contribution that strengthens the foundations of emerging optoelectronics! 🎉&lt;/p></description></item><item><title>New Nano Research Paper on CMOS-Compatible PbS Quantum Dot Photodetectors</title><link>https://nanophotonics.cc/post/25-09-01-nano-research-sam/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/25-09-01-nano-research-sam/</guid><description>&lt;p>Our collaborative paper “Self-assembled monolayer-modified hole transport layers for high-performance CMOS-compatible PbS quantum dot photodetectors” has been published in &lt;em>Nano Research&lt;/em>.&lt;/p>
+&lt;p>PbS colloidal quantum dots are attractive for short-wave infrared photodetection because their spectral response is tunable and their films can be processed from solution. For practical imaging systems, inverted device architectures are especially important because they are compatible with CMOS readout circuits.&lt;/p>
+&lt;p>The work focuses on improving the hole transport layer in inverted PbS quantum dot photodetectors. By introducing self-assembled monolayer modification, the study addresses interfacial recombination and transport losses that can limit device performance.&lt;/p>
+&lt;p>This publication adds another step toward scalable, CMOS-compatible short-wave infrared photodetector technology.&lt;/p>
+&lt;p>Paper: &lt;a href="https://doi.org/10.26599/NR.2025.94907796" target="_blank" rel="noopener">https://doi.org/10.26599/NR.2025.94907796&lt;/a>&lt;/p></description></item><item><title>Gourp Presentation in EMP 2025!</title><link>https://nanophotonics.cc/post/25-08-10-emp/</link><pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/25-08-10-emp/</guid><description>&lt;p>🎉Our Students Shine at the EMP25 Conference in Macau!🎉&lt;/p>
+&lt;p>We’re delighted to share that more than ten of our students proudly participated in the International Conference on Energy, Materials, and Photonics 2025 (EMP25) in Macau, held August 8–10, 2025. This global gathering brought together over 100 experts, including scholars, journal editors, and industry professionals, to delve into the latest advancements in optoelectronic materials, energy storage, semiconductors, and photonics.&lt;/p>
+&lt;p>Hosted collaboratively by Macau University of Science and Technology, the Institute of Nanoscience and Applications, Southern University of Science and Technology, Society for Energy Photonics, Optica Shenzhen Section, and the IEEE Nanotechnology Council Guangdong Chapter, the conference featured a robust program of plenary talks, keynote addresses, invited lectures, and oral presentations.&lt;/p>
+&lt;p>Our students contributed impressively, delivering insightful oral presentations and engaging meaningfully with the global academic community. Their research added valuable perspectives to the discussions on new energy technologies, materials innovations, and photonics integration.&lt;/p>
+&lt;p>Congratulations to our presenters—your hard work and dedication not only made us proud, but also reinforced our institution’s commitment to advancing frontier research and engaging globally.&lt;/p></description></item><item><title>UG Student papter accepted in ACS ANM!</title><link>https://nanophotonics.cc/post/25-07-15-acs-anm/</link><pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/25-07-15-acs-anm/</guid><description>&lt;p>🎉 Congratulations | Undergraduate Students Publish in ACS Applied Nano Materials with Cover Art Selection!&lt;/p>
+&lt;p>We are thrilled to announce that Jian-Kai Wang and Lei Rao, undergraduate students from the College of Integrated Circuits and Optoelectronic Chips (Class of 2021), have published a research article as co-first authors in the prestigious SCI journal ACS Applied Nano Materials (American Chemical Society). The paper, titled &amp;ldquo;A Search-and-Verification Framework for Efficient Annealing Optimization in PbS Quantum Dot Films&amp;rdquo;, was also selected as the cover art of the journal’s issue — a testament to the students’ talent in both scientific research and visual communication!&lt;/p>
+&lt;p>🔬 Research Background &amp;amp; Significance&lt;/p>
+&lt;p>Solution-processed semiconductors like quantum dots and perovskites are emerging as key materials for next-generation optoelectronic devices due to their low cost, low-temperature processing, and tunable bandgaps. Among them, PbS quantum dots (QDs) stand out for their strong response in the short-wave infrared (SWIR) region, offering promising applications in surveillance, biomedical imaging, and remote sensing.&lt;/p>
+&lt;p>However, optimizing the annealing process—a critical step that influences film crystallinity, defect density, and carrier mobility—remains a major challenge. Traditional parameter tuning methods, such as single-variable optimization or full factorial designs, are often inefficient and prone to missing global optima.&lt;/p>
+&lt;p>🌟 Research Highlights&lt;/p>
+&lt;p>This work introduces a novel “Search-and-Verification” annealing optimization framework (ACO-HC) tailored for low-dimensional parameter spaces. By combining Ant Colony Optimization with Hill Climbing and integrating real-time experimental feedback, the framework achieves high-resolution (1 °C, 1 min) adaptive tuning. Remarkably, it improves device responsivity by 265% while reducing the number of experiments by 99%.&lt;/p>
+&lt;p>Multimodal structural characterizations (AFM, SEM, XRD) confirmed that enhanced device performance is primarily due to reduced surface roughness, leading to more efficient carrier transport and photoelectric conversion.&lt;/p>
+&lt;p>Notably, the proposed framework is generalizable and model-independent, making it applicable to a wide range of materials (quantum dots, perovskites, polymer semiconductors) and devices (photodetectors, solar cells, TFTs). This offers a versatile solution for transitioning from “experience-driven” to “data-driven” process design in low-dimensional material systems.&lt;/p>
+&lt;p>🔗 Read the Paper
+👨‍🎓 Co-first authors: Jian-Kai Wang, Lei Rao (Undergraduate students, ICOC)
+📮 Corresponding author: Dr. Haodong Tang, Assistant Professor&lt;/p>
+&lt;p>This achievement showcases the high caliber of our undergraduate research training system. Supported by the Optoelectronic Chip Integration &amp;amp; Display Laboratory, the project exemplifies how research-driven education empowers students to innovate and contribute meaningfully to high-level academic and technological development.&lt;/p>
+&lt;p>We look forward to seeing more of our students shine on the global research stage!&lt;/p>
+&lt;p>— College of Integrated Circuits and Optoelectronic Chips, Shenzhen Technology University (ICOC)&lt;/p></description></item><item><title>Graduation of Our Outstanding 2025 Students!</title><link>https://nanophotonics.cc/post/25-06-18-graduation/</link><pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/25-06-18-graduation/</guid><description>&lt;p>🎉Congratulations to the Students of 2025 on Their Graduation!🎉&lt;/p>
+&lt;p>We are thrilled to celebrate the graduation of our outstanding 2025 students! This year, six talented students have successfully completed their journey with our group, embarking on exciting new paths.&lt;/p>
+&lt;p>Four graduates have entered the workforce, ready to apply their skills and knowledge in their respective fields.&lt;/p>
+&lt;p>Two graduates will continue their academic pursuits:&lt;/p>
+&lt;p>Fang Gan will join The Hong Kong Polytechnic University.&lt;/p>
+&lt;p>Wang Weiwei will pursue further studies at Southern University of Science and Technology (SUSTech).&lt;/p>
+&lt;p>We are incredibly proud of their achievements and wish them all the best in their future endeavors. The dedication and hard work of these graduates have been truly inspiring, and we look forward to seeing the great things they will accomplish!&lt;/p>
+&lt;p>Congratulations, Students of 2025! 🎓✨&lt;/p></description></item><item><title>Celebrating Ms. Zheng Yixing’s Accomplishment at IDW 2024!</title><link>https://nanophotonics.cc/post/24-12-04-idw/</link><pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/24-12-04-idw/</guid><description>&lt;p>🎉Celebrating Ms. Zheng Yixing’s Research Presented at the International Display Workshops (IDW) 2024!🎉&lt;/p>
+&lt;p>We are delighted to share that Ms. Zheng Yixing successfully presented her poster at the International Display Workshops (IDW) 2024. Her research, titled “Characterization of Electrical Crosstalk in PbS Quantum Dot CMOS Image Sensors for Ultra-high-resolution Imaging,” offers exciting insights into cutting-edge sensor technology and its potential for next-generation displays and imaging application.&lt;/p>
+&lt;p>About IDW (International Display Workshops)1
+The International Display Workshops, commonly known as IDW, is an annual conference that brings together researchers, engineers, and industry professionals working on all aspects of display technology. Topics typically covered include:&lt;/p>
+&lt;p>Display materials and components such as TFTs, quantum dots, OLEDs, and micro-LEDs&lt;/p>
+&lt;p>Device architecture and design for enhanced performance and reliability&lt;/p>
+&lt;p>Image sensor innovations and ultra-high-resolution imaging techniques&lt;/p>
+&lt;p>Human factors, ergonomics, and emerging applications of display technology&lt;/p>
+&lt;p>Known for its highly technical focus and robust exchange of ideas, IDW provides a platform for both established experts and rising innovators to share their latest findings. It attracts participants from academia and industry worldwide, fostering collaborations that shape the future of display and imaging research.&lt;/p>
+&lt;p>Ms. Zheng Yixing’s Poster Presentation
+Ms. Zheng’s poster presentation delved into:&lt;/p>
+&lt;p>Electrical Crosstalk in Quantum Dot CMOS Image Sensors
+She investigated how signals interfere with one another in densely packed pixel arrays, a major consideration for achieving ultra-high-resolution imaging.&lt;/p>
+&lt;p>Novel Strategies to Mitigate Crosstalk
+By characterizing the underlying mechanisms of crosstalk, her research helps pave the way for improved image quality and sensor performance.&lt;/p>
+&lt;p>Implications for Next-Generation Imaging
+This work has far-reaching potential for areas such as medical imaging, remote sensing, and consumer electronics, where ultra-high-resolution imaging is increasingly essential.&lt;/p>
+&lt;p>Her work stands out as an important step toward enhancing the reliability and clarity of quantum dot imaging technology, aligning with the conference’s mission to advance the state of the art in display and imaging systems.&lt;/p>
+&lt;p>Looking Ahead
+We extend our heartfelt congratulations to Ms. Zheng Yixing for her dedication and achievements. If you missed her poster at IDW 2024, we encourage you to reach out and learn more about her groundbreaking approach to quantum dot sensor design.&lt;/p>
+&lt;p>For those interested in display technology, image sensors, and emerging research trends, IDW continues to be a must-attend event—an environment that nurtures innovation, collaboration, and the shaping of tomorrow’s imaging and display frontiers.&lt;/p></description></item><item><title>Lei Rao is Rewarded the Best Poster Award in OGC 2024!</title><link>https://nanophotonics.cc/post/24-09-27-ogc/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/24-09-27-ogc/</guid><description>&lt;p>🎉 Congratulations to Lei Rao on Winning the Best Poster Award at IEEE OGC 2024! 🎉&lt;/p>
+&lt;p>A huge congratulations to Lei Rao, an undergraduate from Professor Tang Haodong&amp;rsquo;s team at the School of Integrated Circuits and Optoelectronic Chips, for winning the prestigious 2024 Best Poster Award at the 9th IEEE Optoelectronics Global Conference (IEEE OGC 2024) held in Shenzhen, China!&lt;/p>
+&lt;p>Lei’s poster, titled Efficient SWIR PbS QD Photodetector Based on A Hot Spin-coating Method, showcased groundbreaking advancements in photodetector technology. This innovative research uses a novel hot spin-coating method to develop high-performance shortwave infrared (SWIR) lead sulfide (PbS) quantum dot photodetectors, a major step forward in device fabrication and performance. By controlling the solvent evaporation rate during spin-coating through substrate heating, this technique yields remarkably uniform films and improved detector performance, setting new standards in dark current, photocurrent, and response time.&lt;/p>
+&lt;p>Special thanks to Assistant Professor Tang Haodong and Associate Professor Chen Wei, who guided this successful project, and congratulations once again to Lei for this outstanding achievement and well-deserved recognition at such a prominent international conference! Keep up the fantastic work! 🌟👏&lt;/p></description></item><item><title>Lei Rao is Rewarded the Best Poster Award in NCOSE2024!</title><link>https://nanophotonics.cc/post/24-07-27-chengdu-conference/</link><pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/24-07-27-chengdu-conference/</guid><description>&lt;p>Congratulations to Lei Rao on his poster being accepted for the Best Poster Award at the 2024 National Conference on Optoelectronic Science and Engineering (NCOSE 2024, 2024全国光电科学与工程学术会议)! 🎉&lt;/p>
+&lt;p>Lei&amp;rsquo;s work, titled &amp;ldquo;Efficient SWIR PbS QD Photodetector Based on a Hot Spin-Coating Method,&amp;rdquo; showcases a significant advancement in the field of quantum dot photodetectors. His study focuses on enhancing the performance of PbS quantum dot-based photodetectors by employing a novel hot spin-coating technique. This method improves the crystal quality, enhances carrier mobility, and increases efficiency, offering promising applications in shortwave infrared (SWIR) detection.&lt;/p>
+&lt;p>The NCOSE conference is a prestigious event that brings together leading experts in optoelectronics, fostering collaborations and showcasing cutting-edge research in optics, photonics, and engineering. It serves as an essential platform for innovators to exchange ideas and present pioneering work like Lei&amp;rsquo;s.&lt;/p></description></item><item><title>Prof Xiao Wei Sun and colleges paid a visit to SZTU.</title><link>https://nanophotonics.cc/post/24-07-16-sun-visit/</link><pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/24-07-16-sun-visit/</guid><description>&lt;p>Professor Xiao Wei Sun Visits SZTU and Attends INOW 2024, Fostering Collaboration and Innovation in Nano-Optoelectronics.&lt;/p>
+&lt;p>Recently, the INTERNATIONAL NANO-OPTOELECTRONICS WORKSHOP (INOW 2024) was successfully held at Shenzhen Technology University (SZTU). The event attracted numerous experts and scholars from around the world to discuss cutting-edge technologies and applications in the field of nano-optoelectronics. Professor Xiao Wei Sun, President of the MiLEDA Alliance and Executive Dean of the Institute of Nanoscience and Applications at Southern University of Science and Technology (SUSTech), was invited to attend and toured the College of Integrated Circuits and Optoelectronic Chips at SZTU.&lt;/p>
+&lt;p>Professor Sun has long been committed to nurturing high-quality scientific and technological talent. Under his mentorship, many students and teachers from his research group now hold faculty positions at SZTU&amp;rsquo;s School of New Materials and New Energy, School of Engineering Physics, and the College of Integrated Circuits and Optoelectronic Chips. Professor Sun expressed his pride in the excellent performance of his students at SZTU, noting that technological innovation is inseparable from high-quality talent cultivation. He also emphasized his ongoing dedication to training more outstanding students to contribute to the development of the country and society.&lt;/p>
+&lt;p>To date, Professor Sun has mentored over 50 PhD students specializing in flat-panel display technology at Nanyang Technological University in Singapore and at SUSTech. Additionally, he has offered highly regarded courses for both undergraduate and graduate students, such as Organic Electronics, Fundamentals of Optoelectronics Technology, Glasses-Free 3D Displays, and Thin Film Materials and Technology, with a course satisfaction rate of over 90%. In recognition of his continuous contributions to student training and professional development in the flat-panel display industry in China and Southeast Asia, Professor Sun was awarded the 2023 SID Slottow-Owaki Award.&lt;/p>
+&lt;p>Our research group, led by Professor Haodong Tang, warmly welcomed Professor Sun’s visit! We look forward to more collaboration and exchanges with his team to further advance nano-optoelectronics technologies.&lt;/p></description></item><item><title>Jiankai Wang Gets Accepted for Poster Presentation in Display Week 2024!</title><link>https://nanophotonics.cc/post/24-02-04-sid-received/</link><pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate><guid>https://nanophotonics.cc/post/24-02-04-sid-received/</guid><description>&lt;p>Congratulations to Jiankai Wang, his paper been accepted for poster presentation as a student paper in Singal Infomation Display Week 2024.&lt;/p>
+&lt;p>The SID Display Week 2024 is an anticipated event in the field of electronic display technology, gathering industry professionals, researchers, and companies from around the globe. This premier international gathering is organized by the Society for Information Display (SID) and serves as a showcase for the latest advancements and innovations in display technologies.&lt;/p>
+&lt;p>Display Week typically features a diverse array of sessions including symposiums, seminars, technical discussions, and exhibitions. These sessions cover a wide range of topics related to display technology, such as OLEDs, quantum dots, flexible displays, e-paper, touch technology, and the latest in high-resolution screen advancements.&lt;/p>
+&lt;p>The event provides a unique opportunity for networking with leading experts in the field, exploring collaborative opportunities, and gaining insights into future trends and market directions. Attendees include a mix of academic researchers, design engineers, business professionals, and decision-makers, making it a fertile ground for cross-disciplinary collaboration.&lt;/p>
+&lt;p>Exhibitors at Display Week showcase cutting-edge display technologies and products, offering a glimpse into the future of screens used in smartphones, televisions, wearable devices, automotive displays, and more. The exhibition floor is a hub of activity where attendees can experience firsthand the latest innovations, from virtual reality displays to advanced user interface technologies.&lt;/p>
+&lt;p>In addition to the technical sessions and exhibition, SID Display Week also features awards and recognitions for outstanding achievements in the display industry, including the prestigious Display Industry Awards. These accolades highlight significant contributions and breakthroughs in display technology, design, and application.&lt;/p>
+&lt;p>SID Display Week 2024 is expected to continue the tradition of being an essential event for anyone involved in the display technology ecosystem, from research and development to application and manufacturing. It offers a comprehensive overview of the current state of display technology and a preview of future developments that will shape the industry in the years to come.&lt;/p></description></item></channel></rss>

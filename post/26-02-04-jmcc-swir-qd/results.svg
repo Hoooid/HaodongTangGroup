@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Performance highlights for SWIR photodetectors</title>
+  <desc id="desc">Three performance cards showing EQE, detectivity, and dark-current suppression.</desc>
+  <rect width="1200" height="560" rx="26" fill="#ffffff"/>
+  <text x="58" y="72" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#153243">Performance highlights</text>
+  <text x="58" y="110" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#5d7280">The paper connects material growth control to measurable SWIR device metrics.</text>
+  <g transform="translate(64 160)">
+    <rect width="320" height="280" rx="22" fill="#f4f9ff" stroke="#d5e6f8"/>
+    <text x="32" y="56" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800" fill="#1f6feb">External quantum efficiency</text>
+    <text x="32" y="138" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900" fill="#123f7a">59.1%</text>
+    <text x="34" y="178" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#536b78">at 1308 nm</text>
+    <path d="M36 228 C90 190 138 222 184 185 C222 155 270 162 296 130" fill="none" stroke="#1f6feb" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(440 160)">
+    <rect width="320" height="280" rx="22" fill="#f3fbf7" stroke="#d2eadc"/>
+    <text x="32" y="56" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800" fill="#1c7a63">Specific detectivity</text>
+    <text x="32" y="130" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="900" fill="#12614f">8.34 x 10^11</text>
+    <text x="34" y="176" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#536b78">Jones</text>
+    <g transform="translate(64 206)" fill="#1c7a63">
+      <rect x="0" y="36" width="32" height="28" rx="4"/>
+      <rect x="54" y="20" width="32" height="44" rx="4"/>
+      <rect x="108" y="4" width="32" height="60" rx="4"/>
+      <rect x="162" y="28" width="32" height="36" rx="4"/>
+    </g>
+  </g>
+  <g transform="translate(816 160)">
+    <rect width="320" height="280" rx="22" fill="#fff8ef" stroke="#f1dcc1"/>
+    <text x="32" y="56" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800" fill="#b76a12">Lower noise floor</text>
+    <text x="32" y="130" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="900" fill="#8a4c0f">suppressed</text>
+    <text x="34" y="176" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#536b78">dark current</text>
+    <path d="M38 238 H278" stroke="#f0b35b" stroke-width="7" stroke-linecap="round"/>
+    <path d="M52 222 C94 192 128 236 166 204 C204 174 234 214 268 184" fill="none" stroke="#b76a12" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>

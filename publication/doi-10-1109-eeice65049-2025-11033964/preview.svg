@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Theoretically Analyses the Role of Microcavities in Adjusting the Light Extraction Efficiency of QLEDs">
+  <rect width="1200" height="800" fill="#f4f7fa"/>
+  <rect x="56" y="56" width="1088" height="688" rx="28" fill="#ffffff" stroke="#d3dce6" stroke-width="4"/>
+  <rect x="56" y="56" width="20" height="688" rx="10" fill="#305f8f"/>
+  <circle cx="996" cy="166" r="84" fill="#305f8f" opacity="0.10"/>
+  <circle cx="1058" cy="228" r="118" fill="#305f8f" opacity="0.055"/>
+  <text x="118" y="150" font-family="Inter, Source Sans 3, Arial, sans-serif" font-size="54" font-weight="850" fill="#305f8f">NP</text>
+  <text x="266" y="150" font-family="Inter, Source Sans 3, Arial, sans-serif" font-size="28" font-weight="760" letter-spacing="4" fill="#2e2d29" opacity="0.70">PUBLICATION</text>
+  <text x="118" y="278" font-family="Inter, Source Sans 3, Arial, sans-serif" font-size="52" font-weight="780" fill="#2e2d29"><tspan x="118" dy="0">Theoretically Analyses the Role of</tspan><tspan x="118" dy="66">Microcavities in Adjusting the</tspan><tspan x="118" dy="66">Light Extraction Efficiency of</tspan><tspan x="118" dy="66">QLEDs</tspan></text>
+  <line x1="118" y1="594" x2="426" y2="594" stroke="#305f8f" stroke-width="10" stroke-linecap="round"/>
+  <text x="118" y="654" font-family="Inter, Source Sans 3, Arial, sans-serif" font-size="30" font-weight="680" fill="#2e2d29"><tspan x="118" dy="0">2025 6th International Conference on</tspan><tspan x="118" dy="38">Electrical,...</tspan></text>
+  <text x="1046" y="674" text-anchor="end" font-family="Inter, Source Sans 3, Arial, sans-serif" font-size="66" font-weight="820" fill="#305f8f">2025</text>
+</svg>

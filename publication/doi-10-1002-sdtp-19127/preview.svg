@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="P‐11.10: Decoding Non‐Ohmic Leakage Mechanisms in Dark Current Analysis of PbS Quantum Dot Photodiodes">
+  <rect width="1200" height="800" fill="#f5f7f4"/>
+  <rect x="56" y="56" width="1088" height="688" rx="28" fill="#ffffff" stroke="#d7dfd8" stroke-width="4"/>
+  <rect x="56" y="56" width="20" height="688" rx="10" fill="#006b5f"/>
+  <circle cx="996" cy="166" r="84" fill="#006b5f" opacity="0.10"/>
+  <circle cx="1058" cy="228" r="118" fill="#006b5f" opacity="0.055"/>
+  <text x="118" y="150" font-family="Inter, Source Sans 3, Arial, sans-serif" font-size="54" font-weight="850" fill="#006b5f">NP</text>
+  <text x="266" y="150" font-family="Inter, Source Sans 3, Arial, sans-serif" font-size="28" font-weight="760" letter-spacing="4" fill="#2e2d29" opacity="0.70">PUBLICATION</text>
+  <text x="118" y="278" font-family="Inter, Source Sans 3, Arial, sans-serif" font-size="52" font-weight="780" fill="#2e2d29"><tspan x="118" dy="0">P‐11.10: Decoding Non‐Ohmic</tspan><tspan x="118" dy="66">Leakage Mechanisms in Dark Current</tspan><tspan x="118" dy="66">Analysis of PbS Quantum Dot</tspan><tspan x="118" dy="66">Photodiodes</tspan></text>
+  <line x1="118" y1="594" x2="426" y2="594" stroke="#006b5f" stroke-width="10" stroke-linecap="round"/>
+  <text x="118" y="654" font-family="Inter, Source Sans 3, Arial, sans-serif" font-size="30" font-weight="680" fill="#2e2d29"><tspan x="118" dy="0">SID Symposium Digest of Technical Papers</tspan></text>
+  <text x="1046" y="674" text-anchor="end" font-family="Inter, Source Sans 3, Arial, sans-serif" font-size="66" font-weight="820" fill="#006b5f">2025</text>
+</svg>
