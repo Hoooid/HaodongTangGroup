@@ -52,6 +52,25 @@ Good first targets:
 - IEEE conference papers with `HTTP 418` failures
 - ACS entries with `HTTP 403` failures
 
+## Marked Partial Figure Covers
+
+These entries previously used cropped article figures as `cover.png`. The local
+project tree was searched for matching full PDFs or full article assets on
+2026-05-27; no matching source files were found. The cropped `cover.png` files
+were removed so the site falls back to `preview.svg` until proper images can be
+sourced.
+
+- `doi-10-1109-ogc62429-2024-10738747` - Electrophoretic Deposition of PbS QDs for SWIR Photodetectors
+- `doi-10-1109-ogc62429-2024-10738736` - Efficient SWIR PbS QD Photodetector Based on A Hot Spin-coating Method
+- `doi-10-1109-led-2025-3532323` - Polyvinylidene Fluoride Enhanced Quantum Dot Short-Wave Infrared Photodetectors
+- `doi-10-1109-icet55676-2022-9824791` - Absorption Modulation, Enhancement, and Narrowing Using Sub-Wavelength Gratings
+- `rn-686` - Absorption Modulation, Enhancement, and Narrowing Using Sub-Wavelength Gratings
+- `doi-10-1109-emp67345-2025-11428792` - High Efficiency QD Photodetector Prepared by Automatic Spin-Coating Equipment
+- `doi-10-1109-emp67345-2025-11428663` - A Bilayer LiF/C60 Interfacial Strategy for High Mobility Inverted PbS QD SWIR Photodetectors
+- `doi-10-1109-emp67345-2025-11428440` - Fitting Model-Based Dark Current Analysis for Normal and Inverted Quantum Dot Photodiodes
+- `doi-10-1109-emp67345-2025-11428369` - Improving the Performance of QD Photodetectors Through PEAI-Based Interface Passivation
+- `doi-10-1109-emp67345-2025-11428333` - Dynamical Calibration of Tunable Illumination System by Precise Aperture Control
+
 ## Notes
 
 The auto fetch script may still be useful for discovering candidates, but manual covers should be committed as `cover.*` when visual quality matters.
