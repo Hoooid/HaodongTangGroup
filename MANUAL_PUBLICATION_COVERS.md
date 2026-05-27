@@ -54,11 +54,9 @@ Good first targets:
 
 ## Marked Partial Figure Covers
 
-These entries previously used cropped article figures as `cover.png`. The local
-project tree was searched for matching full PDFs or full article assets on
-2026-05-27; no matching source files were found. The cropped `cover.png` files
-were removed so the site falls back to `preview.svg` until proper images can be
-sourced.
+These entries previously used cropped article figures as `cover.png`. They were
+regenerated from downloaded article PDFs on 2026-05-27, using the PDF first page
+as `cover.png` in both English and Chinese publication bundles.
 
 - `doi-10-1109-ogc62429-2024-10738747` - Electrophoretic Deposition of PbS QDs for SWIR Photodetectors
 - `doi-10-1109-ogc62429-2024-10738736` - Efficient SWIR PbS QD Photodetector Based on A Hot Spin-coating Method
