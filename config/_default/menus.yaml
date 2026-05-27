@@ -13,9 +13,12 @@ main:
   - name: People
     url: people
     weight: 30
+  - name: Join Us
+    url: join
+    weight: 40
   - name: Publications
     url: publication
-    weight: 40
+    weight: 50
   - name: Contact
     url: contact
-    weight: 50
+    weight: 60

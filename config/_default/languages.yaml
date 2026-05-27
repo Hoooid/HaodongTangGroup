@@ -31,9 +31,12 @@ zh:
     - name: 人员构成
       url: people
       weight: 30
+    - name: 加入我们
+      url: join
+      weight: 40
     - name: 科研论文
       url: publication
-      weight: 40
+      weight: 50
     - name: 联系方式
       url: contact
-      weight: 50
+      weight: 60
