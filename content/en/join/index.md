@@ -40,8 +40,8 @@ sections:
       text: |
         <div class="np-join-story">
           <div>
-            <h3>What joining feels like</h3>
-            <p>Strong prospective-student pages from MIT, Stanford, and Berkeley tend to make the path concrete: who can join, what they will learn, what evidence to send, and how they will work with current students. We use the same logic here, with our own group photos and research milestones instead of another equipment hero.</p>
+            <h3>Work Alongside The Team</h3>
+            <p>New students learn by taking part in the whole research process: reading papers, preparing materials and devices, measuring results, discussing data in group meetings, and turning careful experiments into clear research stories. The group also values the everyday parts of academic growth, from conference posters and manuscript revisions to graduation milestones.</p>
           </div>
           <div class="np-join-photo-grid" aria-label="Group life photos">
             <img src="/media/join-graduation.jpg" alt="Group members celebrating graduation at Shenzhen Technology University">
