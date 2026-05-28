@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guang HU
+title: 胡广
 
 # Full name (for SEO)
 first_name: Guang
@@ -21,20 +21,20 @@ order: C
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include optoelectronic devices, colloidal quantum dots and CMOS image sensors.
+bio: 深圳技术大学本科生，研究方向包括光电器件、胶体量子点和 CMOS 图像传感器。
 
 interests:
-  - Optical quantum chips
-  - Photodetectors
-  - Colloidal Quantum Dots
+  - 光量子芯片
+  - 光电探测器
+  - 胶体量子点
 
 user_groups:
   - 学生
 
 ---
 
-Guang Hu won the second prize of the 8th National University Student Physics Experiment Contest and the third prize of the 16th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction in his freshman year, and won the National Encouragement Scholarship in his sophomore year.
+胡广为深圳技术大学本科生，研究方向包括光电器件、胶体量子点和 CMOS 图像传感器。曾获全国大学生物理实验竞赛二等奖、全国大学生节能减排社会实践与科技竞赛三等奖，并获得国家励志奖学金。

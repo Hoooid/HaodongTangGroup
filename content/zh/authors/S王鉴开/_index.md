@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiankai WANG
+title: 王鉴开
 
 # Full name (for SEO)
 first_name: Jiankai
@@ -21,20 +21,20 @@ order: B
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include machine learning, PbS quantum dots, and photoconductors.
+bio: 深圳技术大学本科生，研究方向包括机器学习、PbS 量子点和光电导器件。
 
 interests: 
-  - Machine Learning
-  - PbS Quantum Dots
-  - Photoconductors
+  - 机器学习
+  - PbS 量子点
+  - 光电导器件
 
 user_groups:
   - 学生
 
 ---
 
-Jian Kai Wang is a junior at Shenzhen Technology University. He has received several awards, including an Honorable Mention in the Mathematical Contest In Modeling (National Level) in November 2024, the Second Prize in the Guangdong Provincial level of the National College Mathematical Modeling Contest in November 2022, and the Champion of the League of Legends Mobile Game Tournament in the Shenzhen City College Competition in 2022, with a prize of 3000 yuan. His current research focuses on machine learning to optimize semiconductor process parameters, including annealing and spin coating.
+王鉴开为深圳技术大学本科生，研究方向包括机器学习、PbS 量子点和光电导器件。目前主要关注利用机器学习方法优化半导体薄膜工艺参数，包括退火和旋涂等制备过程；曾在数学建模等竞赛中获奖。

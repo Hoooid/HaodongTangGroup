@@ -10,7 +10,7 @@ sections:
       subtitle: 欢迎有志于光电材料、器件与芯片交叉研究的同学
       text: |
         <div class="np-join-hero">
-          <p class="np-join-kicker">唐浩东课题组</p>
+          <p class="np-join-kicker">纳米光子课题组</p>
           <h1>在材料到芯片的光电研究中找到自己的路径。</h1>
           <p>课题组长期欢迎希望在真实实验、器件物理、科研写作和交叉合作中持续成长的同学与青年研究人员联系，方向包括量子点/钙钛矿材料、短波红外探测、成像系统、薄膜工艺和芯片集成。</p>
           <div class="np-join-actions">
@@ -93,6 +93,16 @@ sections:
             <h3>联系邮箱</h3>
             <p><a href="mailto:tanghaodong@sztu.edu.cn">tanghaodong@sztu.edu.cn</a></p>
           </div>
+        </div>
+        <div class="np-join-faq">
+          <section>
+            <h3>我们希望看到什么？</h3>
+            <p>不需要一开始就完全懂量子点或芯片工艺。更重要的是能把一个具体问题持续推进：查文献、做记录、复现实验、分析数据，并愿意把结果讲清楚、写清楚。</p>
+          </section>
+          <section>
+            <h3>加入后会做什么？</h3>
+            <p>新同学通常从文献阅读、基础制备、器件测试和数据整理开始，逐步进入独立课题。课题会尽量和真实论文、会议展示、毕业设计或后续深造目标相连接。</p>
+          </section>
         </div>
     design:
       columns: '1'

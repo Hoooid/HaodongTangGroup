@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaowei SUN
+title: 孙小卫
 
 # Full name (for SEO)
 first_name: 小卫
@@ -17,23 +17,23 @@ order: A
 
 # Organizations/Affiliations
 organizations:
-  - name: Southern University of Science and Technology
+  - name: 南方科技大学
     url: ''
 
 interests:
-  - Naked-eye 3D Display
-  - Quantum Dot Light-emitting Diodes
+  - 裸眼 3D 显示
+  - 量子点发光二极管
 
 education:
   courses:
-    - course: PhD
-      institution: Tianjing University
+    - course: 博士
+      institution: 天津大学
       year: 2020
-    - course: MEng in Materials Science
-      institution: Hubei University
+    - course: 材料科学硕士
+      institution: 湖北大学
       year: 2013
-    - course: BSc in Physics
-      institution: Hubei Engineering University
+    - course: 物理学学士
+      institution: 湖北工程学院
       year: 2006
 
 social:
@@ -53,4 +53,4 @@ user_groups:
 
 ---
 
-Xiaowei Sun is a 讲席教授 and Executive Dean of the Institute for Nanoscience and Applications at Southern University of Science and Technology (SUSTech), and a foreign member of the Russian Academy of Engineering. Previously a professor at Nanyang Technological University, Sun has significant contributions to nanocrystal-based display and lighting technologies, with over 700 publications, more than 30,000 citations, and an H-index of 96. He is a Fellow of several prestigious societies, including OSA, SPIE, SID, and IoP, and a recognized Elsevier Highly Cited Researcher and a Stanford top 2% global scientist.
+孙小卫教授现任南方科技大学讲席教授、纳米科学与应用研究院执行院长，并为俄罗斯工程院外籍院士。其长期从事纳米晶显示与照明技术研究，曾任新加坡南洋理工大学教授，在量子点发光、显示器件和纳米光电材料方向具有重要影响，发表论文数百篇并获得广泛引用。

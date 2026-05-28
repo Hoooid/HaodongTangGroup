@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andong ZHONG
+title: 钟安东
 
 # Full name (for SEO)
 first_name: Andong
@@ -21,20 +21,20 @@ order: A
 
 # Organizations/Affiliations
 organizations:
-  - name: Nanchang University 
+  - name: 南昌大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: Zhong Andong is a second-year postgraduate student majoring in materials science and engineering at the School of Physics and Materials at Nanchang University. He has achieved numerous accolades, including winning a Second Place in the 14th National 3D Digital Innovation Design Competition in Jiangxi Province, a Second Place in  the "Jiangling Group Easy to Car Cup" Jiangxi Province 10th College Student Automobile Innovation Design Competition , National Encouragement Scholarship, excellent student leader recognition, outstanding merit student award, outstanding graduate distinction, as well as receiving Second Place in the Jiangxi Province Graduate Mathematical Modeling Competition.
+bio: 南昌大学物理与材料学院材料科学与工程专业研究生，研究方向包括半导体材料、PbS 胶体量子点和光电探测器。
 
 interests: 
-  - Semiconductor Material
-  - PbS CQD
-  - Photodetectors
+  - 半导体材料
+  - PbS 胶体量子点
+  - 光电探测器
 
 user_groups:
   - 学生
 
 ---
 
-Zhong Andong is a second-year postgraduate student majoring in materials science and engineering at the School of Physics and Materials at Nanchang University. He has achieved numerous accolades, including winning a Second Place in the 14th National 3D Digital Innovation Design Competition in Jiangxi Province, a Second Place in  the "Jiangling Group Easy to Car Cup" Jiangxi Province 10th College Student Automobile Innovation Design Competition , National Encouragement Scholarship, excellent student leader recognition, outstanding merit student award, outstanding graduate distinction, as well as receiving Second Place in the Jiangxi Province Graduate Mathematical Modeling Competition.
+钟安东为南昌大学物理与材料学院材料科学与工程专业研究生，曾获国家励志奖学金、优秀学生干部、优秀毕业生等荣誉，并在全国 3D 数字化创新设计大赛江西赛区、江西省研究生数学建模竞赛等竞赛中获奖。目前研究方向包括半导体材料、PbS 胶体量子点和光电探测器。

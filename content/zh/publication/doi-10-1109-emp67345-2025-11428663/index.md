@@ -1,5 +1,5 @@
 ---
-title: 'A Bilayer Lif/C60 Interfacial Strategy for Hight Carrir Mobility Inverted Pbs QD SWIR Photodetectors'
+title: 'A Bilayer LiF/C60 Interfacial Strategy for High Carrier Mobility Inverted PbS QD SWIR Photodetectors'
 authors:
 - 'Andong Zhong'
 - 'Tianjing Guo'

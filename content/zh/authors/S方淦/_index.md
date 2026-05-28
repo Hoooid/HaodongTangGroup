@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gan FANG
+title: 方淦
 
 # Full name (for SEO)
 first_name: Gan
@@ -21,20 +21,20 @@ order: B
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My current research interests include digital integrated circuit design and embedded systems.
+bio: 深圳技术大学微电子科学与工程专业本科生，研究方向包括数字集成电路、FPGA 和光电导器件。
 
 interests: 
-  - Digital Integrated Circuit 
+  - 数字集成电路
   - FPGA
-  - Photoconductors
+  - 光电导器件
 
 user_groups:
   - 学生
 
 ---
 
-Gan FANG is a senior student at Shenzhen Technology University, majoring in Microelectronics Science and Engineering. He has achieved notable awards, including a Third Prize in the South China Regional Finals of the China College IC Competition (National College Students’ IC Innovation and Entrepreneurship Competition) and an Honorable Mention in the Mathematical Contest In Modeling (National Level) in November 2024. He has independently presented a paper on circuit design at the International Conference on Information Technologies and Electrical Engineering (ICITEE) 2024 and is the third author of a paper currently under review for an SCI journal, the Chemical Engineering Journal. In addition, he has participated in the design and verification of three key chip tape-out projects and completed project work at the Southeast University FPGA Summer Camp. 
+方淦为深圳技术大学微电子科学与工程专业本科生，研究兴趣包括数字集成电路设计、FPGA 和光电导器件。曾获全国大学生集成电路创新创业大赛华南赛区三等奖、美国大学生数学建模竞赛 Honorable Mention，并参加电路设计相关国际会议论文展示、芯片设计验证项目和 FPGA 暑期项目训练。

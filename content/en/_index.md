@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Nano Photonics Research Group** is at the forefront of exploring and expanding the boundaries of light manipulation at the nanoscale, integrating disciplines such as optics, photonics, and phononics to address complex, real-world challenges.
+        The **Nano Photonics Research Group** at Shenzhen Technology University works across colloidal quantum dots, perovskite optoelectronics, short-wave infrared photodetectors, imaging arrays, and chip-compatible integration, connecting materials synthesis, device physics, and system-level validation.
         
   - block: markdown
     content:
@@ -26,17 +26,17 @@ sections:
           <div class="np-home-recruit-copy">
             <p class="np-home-kicker">Prospective Students</p>
             <h2>Join a materials-to-chip optoelectronics lab.</h2>
-            <p>We welcome students who want to work across quantum-dot materials, thin-film devices, short-wave infrared photodetectors, imaging systems, and chip-compatible integration.</p>
+            <p>We welcome students who want to work across colloidal quantum-dot materials, thin-film optoelectronic devices, short-wave infrared photodetectors, imaging systems, and CMOS-compatible integration.</p>
             <div class="np-home-recruit-actions">
               <a class="btn btn-primary" href="./join/">Join Us</a>
               <a class="btn btn-outline-primary" href="./publication/">See publications</a>
             </div>
           </div>
           <div class="np-home-stats" aria-label="Group highlights">
-            <div><strong>90+</strong><span>Publication Records</span></div>
+            <div><strong>90+</strong><span>Papers and Conference Records</span></div>
             <div><strong>5</strong><span>Research Directions</span></div>
-            <div><strong>16</strong><span>Team Profiles</span></div>
-            <div><strong>1</strong><span>Materials-to-Chips Path</span></div>
+            <div><strong>16</strong><span>Team and Collaborator Profiles</span></div>
+            <div><strong>1</strong><span>Materials-to-Chip Research Path</span></div>
           </div>
         </section>
     design:

@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include Photodetectors, colloidal quantum dots and electrophoretic deposition.
+bio: My research interests include photodetectors, colloidal quantum dots, and electrophoretic deposition.
 
 interests: 
   - Electrophoretic deposition
@@ -37,4 +37,4 @@ user_groups:
 
 ---
 
-Chenxi is a junior at Shenzhen Technology University. He is currently working on electrophoretic deposition of PbS QDs. He is trying to lower down the non-ohmic leacked current by making PbS QD film with superlattice stacking using various of film fabrication methods.
+Chen Xi is an undergraduate student at Shenzhen Technology University. His current work focuses on electrophoretic deposition of PbS quantum dots and the control of PbS QD film stacking, with the goal of reducing non-ohmic leakage current in photodetector devices.

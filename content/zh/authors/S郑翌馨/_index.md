@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yixin ZHENG
+title: 郑翌馨
 
 # Full name (for SEO)
 first_name: Yixin
@@ -21,20 +21,20 @@ order: C
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include readout circuit chip design, colloidal quantum dots and CMOS image sensors. 
+bio: 深圳技术大学微电子科学与工程专业本科生，研究方向包括读出电路芯片设计、胶体量子点和 CMOS 图像传感器。
 
 interests: 
-  - Chips Design 
-  - CMOS Image Sensor 
-  - Colloidal Quantum Dots
+  - 芯片设计
+  - CMOS 图像传感器
+  - 胶体量子点
 
 user_groups:
   - 学生
 
 ---
 
-Yixin Zheng is a student majoring in Microelectronics Science and Engineering at Shenzhen Technology University. She has won a provincial award in the "Challenge Cup" competition.
+郑翌馨为深圳技术大学微电子科学与工程专业本科生，研究方向包括读出电路芯片设计、胶体量子点和 CMOS 图像传感器。曾在“挑战杯”等竞赛中获省级奖项。

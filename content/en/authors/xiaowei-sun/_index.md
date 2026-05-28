@@ -27,7 +27,7 @@ interests:
 education:
   courses:
     - course: PhD
-      institution: Tianjing University
+      institution: Tianjin University
       year: 2020
     - course: MEng in Materials Science
       institution: Hubei University

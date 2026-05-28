@@ -1,14 +1,14 @@
 ---
-title: Lei Rao is Rewarded the Best Poster Award in OGC 2024!
+title: Lei Rao Receives Best Poster Award at IEEE OGC 2024
 date: 2024-09-27
 ---
 
-🎉 Congratulations to Lei Rao on Winning the Best Poster Award at IEEE OGC 2024! 🎉
+Congratulations to Lei Rao on receiving a Best Poster Award at IEEE OGC 2024.
 
 <!--more-->
 
-A huge congratulations to Lei Rao, an undergraduate from Professor Tang Haodong's team at the School of Integrated Circuits and Optoelectronic Chips, for winning the prestigious 2024 Best Poster Award at the 9th IEEE Optoelectronics Global Conference (IEEE OGC 2024) held in Shenzhen, China!
+Lei Rao, an undergraduate student in Professor Haodong Tang's group at the College of Integrated Circuits and Optoelectronic Chips, received a Best Poster Award at the 9th IEEE Optoelectronics Global Conference (IEEE OGC 2024) in Shenzhen, China.
 
-Lei’s poster, titled Efficient SWIR PbS QD Photodetector Based on A Hot Spin-coating Method, showcased groundbreaking advancements in photodetector technology. This innovative research uses a novel hot spin-coating method to develop high-performance shortwave infrared (SWIR) lead sulfide (PbS) quantum dot photodetectors, a major step forward in device fabrication and performance. By controlling the solvent evaporation rate during spin-coating through substrate heating, this technique yields remarkably uniform films and improved detector performance, setting new standards in dark current, photocurrent, and response time.
+Lei's poster, "Efficient SWIR PbS QD Photodetector Based on a Hot Spin-Coating Method," reported a process strategy for high-performance short-wave infrared (SWIR) PbS quantum-dot photodetectors. By controlling solvent evaporation during spin coating through substrate heating, the work aims to improve film uniformity and device performance.
 
-Special thanks to Assistant Professor Tang Haodong and Associate Professor Chen Wei, who guided this successful project, and congratulations once again to Lei for this outstanding achievement and well-deserved recognition at such a prominent international conference! Keep up the fantastic work! 🌟👏
+Congratulations to Lei and the project mentors for this recognition at an international optoelectronics conference.

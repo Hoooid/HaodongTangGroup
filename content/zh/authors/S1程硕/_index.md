@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shuo CHENG
+title: 程硕
 
 # Full name (for SEO)
 first_name: Shuo
@@ -21,18 +21,18 @@ order: A
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University 
+  - name: 深圳技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: Cheng Shuo is a first-year graduate student at Shenzhen Technology University, majoring in Optoelectronic Information Engineering. 
+bio: 深圳技术大学光电信息工程专业研究生，研究方向包括光电探测与成像、数字集成电路设计。
 
 interests: 
-  - Optoelectronic Detection and Imaging
-  - Digital Integrated Circuit Design
+  - 光电探测与成像
+  - 数字集成电路设计
 
 user_groups:
   - 学生
 
 ---
-Cheng Shuo is a first-year graduate student at Shenzhen Technology University, majoring in Optoelectronic Information Engineering. She graduated from China University of Petroleum with a bachelor's degree in Electronic Information Engineering, where she received the Comprehensive Merit Scholarship and the title of Excellent Student for three consecutive years. She also participated in the Innovation and Entrepreneurship Training Program for University Students and achieved excellent results, successfully completing the project. Additionally, she has won the Silver Award at the School Competition of the 7th China International "Internet +" College Students' Innovation and Entrepreneurship Competition and the Third Prize in Category B of the 13th Shandong Provincial College Students' Physics Competition.
+程硕为深圳技术大学光电信息工程专业研究生，本科毕业于中国石油大学电子信息工程专业。她在本科阶段连续获得综合优秀奖学金和优秀学生称号，参与大学生创新创业训练计划并完成相关项目，也曾在中国国际“互联网+”大学生创新创业大赛校赛和山东省大学生物理竞赛中获奖。

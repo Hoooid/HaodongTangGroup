@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kaijie LU
+title: 陆凯杰
 
 # Full name (for SEO)
 first_name: Kaijie
@@ -21,20 +21,20 @@ order: C
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include circuit design,CMOS image sensors and machining learning.
+bio: 深圳技术大学微电子科学与工程专业本科生，研究方向包括电路设计、CMOS 图像传感器和机器学习。
 
 interests: 
-  - Circuit Design
-  - Photodetectors
-  - Machining Learning 
+  - 电路设计
+  - 光电探测器
+  - 机器学习
 
 user_groups:
   - 学生
 
 ---
 
-Kaijie Lu is a student majoring in Microelectronics Science and Engineering at Shenzhen Technology University. 
+陆凯杰为深圳技术大学微电子科学与工程专业本科生，研究方向包括电路设计、CMOS 图像传感器和机器学习。

@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tanghaodong@sztu.edu.cn'
+    link: 'mailto:tanghaodong@sztu.edu.cn'
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0000-0002-5632-5096
@@ -70,4 +70,3 @@ user_groups:
 ---
 
 Haodong Tang earned his Ph.D from the University of Birmingham and subsequently assumed the position of Assistant Professor at Shenzhen Technology University in the College of Integrated Circuits and Optoelectronic Chips. His area of research centers on the development of solution processable semiconductors and their associated optoelectronic devices, such as LEDs, photodiodes, and photovoltaics.
-

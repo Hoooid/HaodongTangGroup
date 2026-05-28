@@ -1,13 +1,13 @@
 ---
-title: Jiankai Wang Gets Accepted for Poster Presentation in Display Week 2024!
+title: Jiankai Wang's Student Poster Accepted for Display Week 2024
 date: 2024-02-04
 ---
 
-Congratulations to Jiankai Wang, his paper been accepted for poster presentation as a student paper in Singal Infomation Display Week 2024.
+Congratulations to Jiankai Wang, whose student paper was accepted for poster presentation at SID Display Week 2024.
 
 <!--more-->
 
-The SID Display Week 2024 is an anticipated event in the field of electronic display technology, gathering industry professionals, researchers, and companies from around the globe. This premier international gathering is organized by the Society for Information Display (SID) and serves as a showcase for the latest advancements and innovations in display technologies.
+SID Display Week 2024 is a major international event in electronic display technology, organized by the Society for Information Display (SID). The conference brings together researchers, engineers, and industry professionals working on display materials, devices, systems, and applications.
 
 Display Week typically features a diverse array of sessions including symposiums, seminars, technical discussions, and exhibitions. These sessions cover a wide range of topics related to display technology, such as OLEDs, quantum dots, flexible displays, e-paper, touch technology, and the latest in high-resolution screen advancements.
 

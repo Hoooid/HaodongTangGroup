@@ -1,15 +1,15 @@
 ---
-title: Celebrating Ms. Zheng Yixing’s Accomplishment at IDW 2024!
+title: Yixing Zheng Presents at IDW 2024
 date: 2024-12-04
 ---
-🎉Celebrating Ms. Zheng Yixing’s Research Presented at the International Display Workshops (IDW) 2024!🎉
+Yixing Zheng presented research on electrical crosstalk in PbS quantum-dot CMOS image sensors at IDW 2024.
 
 
 <!--more-->
 
-We are delighted to share that Ms. Zheng Yixing successfully presented her poster at the International Display Workshops (IDW) 2024. Her research, titled “Characterization of Electrical Crosstalk in PbS Quantum Dot CMOS Image Sensors for Ultra-high-resolution Imaging,” offers exciting insights into cutting-edge sensor technology and its potential for next-generation displays and imaging application.
+Yixing Zheng presented her poster at the International Display Workshops (IDW) 2024. Her research, "Characterization of Electrical Crosstalk in PbS Quantum Dot CMOS Image Sensors for Ultra-high-resolution Imaging," focuses on sensor performance issues that are important for high-resolution imaging applications.
 
-About IDW (International Display Workshops)1
+## About IDW
 The International Display Workshops, commonly known as IDW, is an annual conference that brings together researchers, engineers, and industry professionals working on all aspects of display technology. Topics typically covered include:
 
 Display materials and components such as TFTs, quantum dots, OLEDs, and micro-LEDs
@@ -22,21 +22,23 @@ Human factors, ergonomics, and emerging applications of display technology
 
 Known for its highly technical focus and robust exchange of ideas, IDW provides a platform for both established experts and rising innovators to share their latest findings. It attracts participants from academia and industry worldwide, fostering collaborations that shape the future of display and imaging research.
 
-Ms. Zheng Yixing’s Poster Presentation
-Ms. Zheng’s poster presentation delved into:
+## Poster Presentation
 
-Electrical Crosstalk in Quantum Dot CMOS Image Sensors
+Zheng's poster focused on:
+
+Electrical crosstalk in quantum-dot CMOS image sensors
 She investigated how signals interfere with one another in densely packed pixel arrays, a major consideration for achieving ultra-high-resolution imaging.
 
-Novel Strategies to Mitigate Crosstalk
+Strategies to characterize and reduce crosstalk
 By characterizing the underlying mechanisms of crosstalk, her research helps pave the way for improved image quality and sensor performance.
 
-Implications for Next-Generation Imaging
+Implications for next-generation imaging
 This work has far-reaching potential for areas such as medical imaging, remote sensing, and consumer electronics, where ultra-high-resolution imaging is increasingly essential.
 
-Her work stands out as an important step toward enhancing the reliability and clarity of quantum dot imaging technology, aligning with the conference’s mission to advance the state of the art in display and imaging systems.
+Her work contributes to the group's effort to connect quantum-dot photodetector materials with practical image-sensor performance.
 
-Looking Ahead
-We extend our heartfelt congratulations to Ms. Zheng Yixing for her dedication and achievements. If you missed her poster at IDW 2024, we encourage you to reach out and learn more about her groundbreaking approach to quantum dot sensor design.
+## Looking Ahead
 
-For those interested in display technology, image sensors, and emerging research trends, IDW continues to be a must-attend event—an environment that nurtures innovation, collaboration, and the shaping of tomorrow’s imaging and display frontiers.
+Congratulations to Yixing Zheng for presenting this work at IDW 2024.
+
+IDW remains an important venue for display technology, image sensors, and emerging imaging systems.

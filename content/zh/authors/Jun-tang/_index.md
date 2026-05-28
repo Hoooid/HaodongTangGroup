@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jun TANG
+title: 唐俊
 
 # Full name (for SEO)
 first_name: 俊
@@ -21,29 +21,29 @@ order: D
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: 'https://nmne.sztu.edu.cn/info/1033/3012.htm'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focusing on novel energy storage materials and devices.
+bio: 主要研究方向包括新型储能材料与器件。
 
 interests:
-  - Two-dimensional Transition Metal Carbides/Nitrides (MXenes)
-  - Energy Storage Materials
+  - 二维过渡金属碳/氮化物 MXenes
+  - 储能材料
 
 education:
   courses:
-    - course: PhD in Advanced Materials and Mechanics
-      institution: Peking University
+    - course: 先进材料与力学博士
+      institution: 北京大学
       year: 2020
-    - course: Joint PhD Training
-      institution: Drexel University
+    - course: 联合培养博士
+      institution: 德雷塞尔大学
       year: 2019
-    - course: MEng in Condensed Matter Physics
-      institution: Lanzhou University
+    - course: 凝聚态物理硕士
+      institution: 兰州大学
       year: 2014
-    - course: BSc in Applied Physics
-      institution: Dalian University of Technology
+    - course: 应用物理学学士
+      institution: 大连理工大学
       year: 2011
 
 
@@ -73,4 +73,4 @@ user_groups:
 
 ---
 
-Jun Tang is an 助理教授 and a recipient of the "Peacock Plan" Category C talent in Shenzhen. He graduated with a PhD from Peking University in July 2020, where he focused on the research of novel energy storage materials and devices. During his PhD, he received the National CSC Scholarship for a joint training program at Drexel University, USA, to develop applications of new two-dimensional transition metal carbides/nitrides in energy storage. After his PhD, he joined the Department of Materials Science and Engineering at Southern University of Science and Technology as a postdoctoral researcher. He has published over ten papers as the first author in top-tier journals like Adv. Energy Mater., Angew. Chem. Int. Ed., Energy Storage Mater., and J. Mater. Chem. A, and holds three national patents (as of July 2022).
+唐俊博士现任深圳技术大学助理教授，入选深圳市“孔雀计划”C 类人才。其于 2020 年获得北京大学博士学位，博士期间主要开展新型储能材料与器件研究，并获得国家留学基金委资助赴美国德雷塞尔大学联合培养，研究二维过渡金属碳/氮化物材料在储能方向的应用。博士毕业后曾在南方科技大学材料科学与工程系从事博士后研究，已在 Adv. Energy Mater.、Angew. Chem. Int. Ed.、Energy Storage Mater.、J. Mater. Chem. A 等期刊发表多篇第一作者论文，并持有多项国家发明专利。

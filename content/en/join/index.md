@@ -94,6 +94,16 @@ sections:
             <p><a href="mailto:tanghaodong@sztu.edu.cn">tanghaodong@sztu.edu.cn</a></p>
           </div>
         </div>
+        <div class="np-join-faq">
+          <section>
+            <h3>What We Look For</h3>
+            <p>You do not need to arrive with complete experience in quantum dots or chip fabrication. What matters most is evidence that you can keep moving a concrete problem forward: reading papers, keeping records, reproducing experiments, analyzing data, and explaining results clearly.</p>
+          </section>
+          <section>
+            <h3>What New Students Do</h3>
+            <p>New students usually begin with literature reading, basic fabrication, device measurement, and data organization, then move toward independent projects linked to papers, conference presentations, graduation work, or future graduate study.</p>
+          </section>
+        </div>
     design:
       columns: '1'
       spacing:

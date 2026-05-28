@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lei RAO
+title: 饶磊
 
 # Full name (for SEO)
 first_name: Lei
@@ -21,20 +21,20 @@ order: C
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include readout circuit chip design, colloidal quantum dots and CMOS image sensors. 
+bio: 深圳技术大学微电子科学与工程专业本科生，研究方向包括光电探测器、PbS 胶体量子点和自由曲面光学。
 
 interests: 
-  - Photodetectors
-  - PbS CQD
-  - Freeform Optics
+  - 光电探测器
+  - PbS 胶体量子点
+  - 自由曲面光学
 
 user_groups:
   - 学生
 
 ---
 
-Rao Lei is a sophomore majoring in microelectronics science and engineering at Shenzhen University of Technology。He won the third prize at the provincial level in the 35th National Chemistry Olympiad (preliminary round).
+饶磊为深圳技术大学微电子科学与工程专业本科生，研究方向包括光电探测器、PbS 胶体量子点和自由曲面光学。曾获全国高中学生化学竞赛省级三等奖。

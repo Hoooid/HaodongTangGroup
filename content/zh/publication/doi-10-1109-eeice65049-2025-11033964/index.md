@@ -1,5 +1,5 @@
 ---
-title: 'Theoretically Analyses the Role of Microcavities in Adjusting the Light Extraction Efficiency of QLEDs'
+title: 'Theoretical Analysis of the Role of Microcavities in Adjusting the Light Extraction Efficiency of QLEDs'
 authors:
 - 'Weifeng Ouyang'
 - 'Guanding Mei'

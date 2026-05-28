@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junjie HAO 
+title: 郝俊杰
 
 # Full name (for SEO)
 first_name: 俊杰
@@ -21,24 +21,24 @@ order: C
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
 interests:
-  - Synthesis of Nano Particles
-  - Modification of Nano Materials
-  - Chiral Emission and Detection
+  - 纳米颗粒合成
+  - 纳米材料改性
+  - 手性发光与探测
 
 education:
   courses:
-    - course: PhD
-      institution: Technical University of Munich
+    - course: 博士
+      institution: 波尔多大学
       year: 2020
-    - course: MEng in Materials Science
-      institution: Hubei University
+    - course: 材料科学硕士
+      institution: 湖北大学
       year: 2013
-    - course: BSc in Physics
-      institution: Hubei Engineering University
+    - course: 物理学学士
+      institution: 湖北工程学院
       year: 2006
 
 social:
@@ -60,4 +60,4 @@ user_groups:
 
 ---
 
-Junjie Hao is an 副教授 and PhD supervisor at Shenzhen Technology University, where he graduated with a PhD from the University of Bordeaux, France. Recognized as a Category C talent under Shenzhen's "Peacock Plan" and awarded the National Excellent Self-Financed Student Scholarship, Hao specializes in the precise morphological control of novel colloidal quantum dot materials with applications in advanced displays and photoelectric chips. He has published 59 SCI papers, cited over 2,000 times, holds 40 granted patents, and developed the QLuMiS luminescent microsphere technology to enhance quantum dot stability. His collaborations with major companies support advancements in quantum dot technologies for Micro-LED and 3D displays.
+郝俊杰博士现任深圳技术大学副教授、博士生导师，博士毕业于法国波尔多大学，入选深圳市“孔雀计划”C 类人才，曾获国家优秀自费留学生奖学金。其研究聚焦新型胶体量子点材料的形貌精准调控及其在先进显示和光电芯片中的应用，已发表多篇 SCI 论文并获得多项授权专利，开发的 QLuMiS 发光微球技术可提升量子点稳定性，并与产业合作伙伴共同推动量子点技术在 Micro-LED 和 3D 显示等方向的应用。

@@ -25,12 +25,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include circuit design,CMOS image sensors and machining learning.
+bio: My research interests include circuit design, CMOS image sensors, and machine learning.
 
 interests: 
   - Circuit Design
   - Photodetectors
-  - Machining Learning 
+  - Machine Learning
 
 user_groups:
   - Students

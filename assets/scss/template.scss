@@ -314,6 +314,7 @@ a:hover,
 
 .np-join-grid section,
 .np-join-apply > div,
+.np-join-faq section,
 .np-join-links a {
   border: 1px solid rgba(46, 45, 41, 0.10);
   border-radius: 4px;
@@ -358,7 +359,8 @@ a:hover,
   gap: 1rem;
 }
 
-.np-join-apply > div {
+.np-join-apply > div,
+.np-join-faq section {
   padding: 1.45rem;
 }
 
@@ -376,6 +378,13 @@ a:hover,
   border-radius: 4px;
   padding: 0.72rem 0.82rem;
   font-size: 0.92rem;
+}
+
+.np-join-faq {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
 }
 
 .np-join-links {
@@ -822,9 +831,11 @@ body.dark .np-publication-placeholder {
 .dark .np-join-grid section,
 .dark .np-join-apply > div,
 .dark .np-join-links a,
+.dark .np-join-faq section,
 body.dark .np-join-grid section,
 body.dark .np-join-apply > div,
-body.dark .np-join-links a {
+body.dark .np-join-links a,
+body.dark .np-join-faq section {
   background: #282722;
   border-color: rgba(255, 255, 255, 0.14);
   box-shadow: 0 18px 44px rgba(0, 0, 0, 0.34);
@@ -834,10 +845,12 @@ body.dark .np-join-links a {
 .dark .np-join-story h3,
 .dark .np-join-apply h3,
 .dark .np-join-links a,
+.dark .np-join-faq h3,
 body.dark .np-join-grid h3,
 body.dark .np-join-story h3,
 body.dark .np-join-apply h3,
-body.dark .np-join-links a {
+body.dark .np-join-links a,
+body.dark .np-join-faq h3 {
   color: #f5efe6;
 }
 
@@ -845,10 +858,12 @@ body.dark .np-join-links a {
 .dark .np-join-story p,
 .dark .np-join-apply li,
 .dark .np-join-apply p,
+.dark .np-join-faq p,
 body.dark .np-join-grid p,
 body.dark .np-join-story p,
 body.dark .np-join-apply li,
-body.dark .np-join-apply p {
+body.dark .np-join-apply p,
+body.dark .np-join-faq p {
   color: #d5cdbf;
 }
 
@@ -922,6 +937,7 @@ body.dark .np-home-recruit-actions .btn-outline-primary:hover {
   .np-join-grid,
   .np-join-story,
   .np-join-apply,
+  .np-join-faq,
   .np-join-links {
     grid-template-columns: 1fr;
   }

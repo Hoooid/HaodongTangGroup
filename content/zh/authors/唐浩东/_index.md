@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tanghaodong@sztu.edu.cn'
+    link: 'mailto:tanghaodong@sztu.edu.cn'
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0000-0002-5632-5096

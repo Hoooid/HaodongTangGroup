@@ -1,5 +1,5 @@
 ---
-title: 'P‐14.2: Optimizing the Performance of Inkjet Printed Green QLED by Precisely Control of Shell Thickness'
+title: 'P‐14.2: Optimizing the Performance of Inkjet Printed Green QLED by Precisely Controlling Shell Thickness'
 authors:
 - 'Siqi Jia'
 - 'Jingrui Ma'

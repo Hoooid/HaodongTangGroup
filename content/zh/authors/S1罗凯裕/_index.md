@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kaiyu LUO
+title: 罗凯裕
 
 # Full name (for SEO)
 first_name: Kaiyu
@@ -21,16 +21,16 @@ order: A
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Technology University
+  - name: 深圳技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My current research interests include digital integrated circuit design and embedded systems.
+bio: 深圳技术大学光电信息工程专业研究生，研究方向包括 PbS 量子点光电器件、光电显示与图像处理。
 
 interests: 
-  - Optoelectronic devices and display technologies
-  - Machine vision and image processing
-  - Optical design
+  - 光电器件与显示技术
+  - 机器视觉与图像处理
+  - 光学设计
 
 
 user_groups:
@@ -38,4 +38,4 @@ user_groups:
 
 ---
 
-Kaiyu Luo is a graduate student in the Optical Information Engineering program at Shenzhen Technology University. He is currently conducting research in the Advanced Display Laboratory under the supervision of 教授 Haodong Tang. His work primarily focuses on inverted-structure optoelectronic devices based on PbS quantum dots, aiming to explore innovative materials and device architectures for enhanced optoelectronic performance. 
+罗凯裕为深圳技术大学光电信息工程专业研究生，目前在唐浩东老师指导下开展研究。其工作主要围绕 PbS 量子点反型光电器件，关注新型材料体系和器件结构对光电性能的提升作用。

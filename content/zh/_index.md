@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        **纳米光子器件集成课题组**隶属于深圳技术大学集成电路与光电芯片学院，面向量子点、钙钛矿、二维材料、光电探测器、显示与成像芯片等方向，探索纳米尺度光调控、光电转换和芯片集成中的关键科学与工程问题。
+        **纳米光子器件集成课题组**隶属于深圳技术大学集成电路与光电芯片学院，围绕胶体量子点、钙钛矿光电材料、短波红外探测、显示与成像芯片等方向，打通材料制备、器件物理、阵列集成和系统验证中的关键科学与工程问题。
         
   - block: markdown
     content:
@@ -26,17 +26,17 @@ sections:
           <div class="np-home-recruit-copy">
             <p class="np-home-kicker">Prospective Students</p>
             <h2>加入从材料到芯片的光电研究团队。</h2>
-            <p>我们欢迎希望在量子点材料、薄膜器件、短波红外探测、成像系统与芯片兼容集成方向持续深入的同学联系。</p>
+            <p>我们欢迎希望在胶体量子点材料、薄膜光电器件、短波红外探测、成像系统与 CMOS 兼容集成方向持续深入的同学联系。</p>
             <div class="np-home-recruit-actions">
               <a class="btn btn-primary" href="./join/">加入我们</a>
               <a class="btn btn-outline-primary" href="./publication/">查看论文</a>
             </div>
           </div>
           <div class="np-home-stats" aria-label="课题组数据">
-            <div><strong>90+</strong><span>科研论文记录</span></div>
-            <div><strong>5</strong><span>研究方向</span></div>
-            <div><strong>16</strong><span>团队主页</span></div>
-            <div><strong>1</strong><span>材料到芯片路径</span></div>
+            <div><strong>90+</strong><span>论文与会议记录</span></div>
+            <div><strong>5</strong><span>核心研究方向</span></div>
+            <div><strong>16</strong><span>团队与合作成员</span></div>
+            <div><strong>1</strong><span>材料到芯片主线</span></div>
           </div>
         </section>
     design:
