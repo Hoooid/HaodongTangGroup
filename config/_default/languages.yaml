@@ -22,7 +22,7 @@ zh:
     description: 深圳技术大学，集成电路与光电芯片学院，纳米光子器件集成课题组
   menu:
     main:
-    - name: 科研目标
+    - name: 科研方向
       url: vision
       weight: 10
     - name: 新闻推送
