@@ -16,9 +16,10 @@
       {{ if eq $image.MediaType.SubType "svg" }}
         <img class="np-publication-image np-publication-image-svg" src="{{ $image.RelPermalink }}" alt="" loading="lazy" decoding="async">
       {{ else }}
-        {{ $thumb := $image.Fit "220x160" }}
-        {{ $thumb2x := $image.Fit "440x320" }}
-        {{ $thumb3x := $image.Fit "660x480" }}
+        {{ $thumb := $image.Fit "220x160 webp q82" }}
+        {{ $thumb2x := $image.Fit "440x320 webp q82" }}
+        {{ $thumb3x := $image.Fit "660x480 webp q82" }}
+        {{ $thumb4x := $image.Fit "960x720 webp q82" }}
         {{ $srcset := slice (printf "%s %dw" $thumb.RelPermalink $thumb.Width) }}
         {{ $largest := $thumb.Width }}
         {{ if gt $thumb2x.Width $largest }}
@@ -27,12 +28,16 @@
         {{ end }}
         {{ if gt $thumb3x.Width $largest }}
           {{ $srcset = $srcset | append (printf "%s %dw" $thumb3x.RelPermalink $thumb3x.Width) }}
+          {{ $largest = $thumb3x.Width }}
+        {{ end }}
+        {{ if gt $thumb4x.Width $largest }}
+          {{ $srcset = $srcset | append (printf "%s %dw" $thumb4x.RelPermalink $thumb4x.Width) }}
         {{ end }}
         <img
           class="np-publication-image"
           src="{{ $thumb.RelPermalink }}"
           srcset="{{ delimit $srcset ", " }}"
-          sizes="(max-width: 575.98px) calc(100vw - 2rem), 128px"
+          sizes="(max-width: 575.98px) 176px, 128px"
           width="{{ $thumb.Width }}"
           height="{{ $thumb.Height }}"
           alt=""

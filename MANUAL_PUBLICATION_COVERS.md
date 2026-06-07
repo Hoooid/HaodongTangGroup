@@ -25,6 +25,15 @@ Preferred image source:
 - TOC image
 - one compact representative result figure
 
+Quality target:
+- Prefer source images with the shorter side at least 600 px.
+- Images below 320 px on the shorter side should be treated as temporary covers,
+  because the publication list now serves retina WebP thumbnails and cannot
+  recover detail that is missing from the original file.
+- Keep the original `cover.*` local; Hugo will generate compressed responsive
+  WebP thumbnails for the list page so domestic visitors do not download the
+  large source image.
+
 Avoid:
 - full PDF first page
 - journal cover pages
