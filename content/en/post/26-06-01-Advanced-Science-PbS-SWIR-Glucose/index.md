@@ -2,7 +2,7 @@
 title: Congratulations | Advanced Science Paper on QD SWIR Imaging and Non-Invasive Glucose Monitoring
 date: 2026-06-18T00:00:00+08:00
 draft: false
-summary: The teams of Haodong Tang, Wei Chen, Junjie Hao, Xiao Wei Sun, and collaborators report a thermally spin-coated PbS quantum-dot SWIR imaging array for dual-wavelength non-invasive glucose monitoring.
+summary: A new Advanced Science paper reports PbS quantum-dot SWIR imaging and non-invasive glucose monitoring.
 ---
 
 Congratulations to the research teams on the publication of *Thermal Spin Coated PbS QD SWIR Imager for Non-Invasive Glucose Monitoring* in *Advanced Science*.
