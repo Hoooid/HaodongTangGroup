@@ -37,7 +37,8 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 100
+  # 82 keeps figures visually sharp while substantially reducing WebP payloads.
+  quality: 82
   anchor: smart
 timeout: 600000
 taxonomies:
