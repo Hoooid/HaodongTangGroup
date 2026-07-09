@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: Alumnus
 
 #order
 order: C
@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include circuit design, CMOS image sensors, and machine learning.
+bio: Alumnus of Shenzhen Technology University. After graduation, Kaijie LU entered employment.
 
 interests: 
   - Circuit Design
@@ -33,8 +33,8 @@ interests:
   - Machine Learning
 
 user_groups:
-  - Students
+  - Alumni
 
 ---
 
-Kaijie Lu is a student majoring in Microelectronics Science and Engineering at Shenzhen Technology University. 
+Kaijie LU is an alumnus of the Microelectronics Science and Engineering program at Shenzhen Technology University. After graduation, he entered employment.

@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: 本科生
+role: 毕业生
 
 #order
-order: B
+order: D
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: 深圳技术大学微电子科学与工程专业本科生，研究方向包括数字集成电路、FPGA 和光电导器件。
+bio: 课题组毕业生，去向为香港理工大学；在组期间研究方向包括数字集成电路、FPGA 和光电导器件。
 
 interests: 
   - 数字集成电路
@@ -33,8 +33,8 @@ interests:
   - 光电导器件
 
 user_groups:
-  - 学生
+  - 毕业生
 
 ---
 
-方淦为深圳技术大学微电子科学与工程专业本科生，研究兴趣包括数字集成电路设计、FPGA 和光电导器件。曾获全国大学生集成电路创新创业大赛华南赛区三等奖、美国大学生数学建模竞赛 Honorable Mention，并参加电路设计相关国际会议论文展示、芯片设计验证项目和 FPGA 暑期项目训练。
+方淦为课题组毕业生，去向为香港理工大学。在组期间，他的研究兴趣包括数字集成电路设计、FPGA 和光电导器件。曾获全国大学生集成电路创新创业大赛华南赛区三等奖、美国大学生数学建模竞赛 Honorable Mention，并参加电路设计相关国际会议论文展示、芯片设计验证项目和 FPGA 暑期项目训练。

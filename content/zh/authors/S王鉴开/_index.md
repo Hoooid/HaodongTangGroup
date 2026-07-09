@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: 本科生
+role: 毕业生
 
 #order
-order: B
+order: D
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: 深圳技术大学本科生，研究方向包括机器学习、PbS 量子点和光电导器件。
+bio: 课题组毕业生，去向为斯坦福大学；在组期间研究方向包括机器学习、PbS 量子点和光电导器件。
 
 interests: 
   - 机器学习
@@ -33,8 +33,8 @@ interests:
   - 光电导器件
 
 user_groups:
-  - 学生
+  - 毕业生
 
 ---
 
-王鉴开为深圳技术大学本科生，研究方向包括机器学习、PbS 量子点和光电导器件。目前主要关注利用机器学习方法优化半导体薄膜工艺参数，包括退火和旋涂等制备过程；曾在数学建模等竞赛中获奖。
+王鉴开为课题组毕业生，去向为斯坦福大学。在组期间，他的研究方向包括机器学习、PbS 量子点和光电导器件，主要关注利用机器学习方法优化半导体薄膜工艺参数，包括退火和旋涂等制备过程；曾在数学建模等竞赛中获奖。

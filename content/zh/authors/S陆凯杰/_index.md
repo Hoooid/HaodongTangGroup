@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 本科生
+role: 毕业生
 
 #order
 order: C
@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: 深圳技术大学微电子科学与工程专业本科生，研究方向包括电路设计、CMOS 图像传感器和机器学习。
+bio: 深圳技术大学微电子科学与工程专业毕业生，毕业后就业。
 
 interests: 
   - 电路设计
@@ -33,8 +33,8 @@ interests:
   - 机器学习
 
 user_groups:
-  - 学生
+  - 毕业生
 
 ---
 
-陆凯杰为深圳技术大学微电子科学与工程专业本科生，研究方向包括电路设计、CMOS 图像传感器和机器学习。
+陆凯杰为深圳技术大学微电子科学与工程专业毕业生，研究方向包括电路设计、CMOS 图像传感器和机器学习，毕业后就业。

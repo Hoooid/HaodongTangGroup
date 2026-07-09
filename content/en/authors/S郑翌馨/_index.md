@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: Alumnus
 
 #order
-order: C
+order: D
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include readout circuit chip design, colloidal quantum dots and CMOS image sensors. 
+bio: Group alumna whose destination is Nanyang Technological University; her work in the group included readout circuit chip design, colloidal quantum dots, and CMOS image sensors.
 
 interests: 
   - Chips Design 
@@ -33,8 +33,8 @@ interests:
   - Colloidal Quantum Dots
 
 user_groups:
-  - Students
+  - Alumni
 
 ---
 
-Yixin Zheng is a student majoring in Microelectronics Science and Engineering at Shenzhen Technology University. She has won a provincial award in the "Challenge Cup" competition.
+Yixin Zheng is a group alumna whose destination is Nanyang Technological University. During her time in the group, her research interests included readout circuit chip design, colloidal quantum dots, and CMOS image sensors. She also received a provincial award in the Challenge Cup competition.

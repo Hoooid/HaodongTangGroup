@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: Alumnus / Research Assistant
 
 #order
-order: C
+order: D
 
 # Organizations/Affiliations
 organizations:
@@ -25,16 +25,17 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include optoelectronic devices, colloidal quantum dots and CMOS image sensors.
+bio: Group alumnus now working as a research assistant, focusing on high-performance blue quantum-dot light-emitting diodes.
 
 interests:
-  - Optical quantum chips
-  - Photodetectors
-  - Colloidal Quantum Dots
+  - Quantum-dot display technologies and device physics
+  - Solution-processed optoelectronic devices
+  - Quantum-dot light-emitting diodes
 
 user_groups:
   - Students
+  - Alumni
 
 ---
 
-Guang Hu won the second prize of the 8th National University Student Physics Experiment Contest and the third prize of the 16th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction in his freshman year, and won the National Encouragement Scholarship in his sophomore year.
+Guang Hu is an alumnus of the Advanced Display Laboratory. His current destination is a research assistant position. His work focuses on high-performance blue quantum-dot light-emitting diodes (QLEDs), with an emphasis on exploring material systems and device architectures for improved optoelectronic performance.

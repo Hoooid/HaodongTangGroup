@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: 本科生
+role: 研究生
 
 #order
-order: B
+order: A
 
 # Organizations/Affiliations
 organizations:
@@ -25,16 +25,16 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: 深圳技术大学本科生，研究方向包括光电探测器、胶体量子点和电泳沉积。
+bio: 深圳技术大学光电信息工程专业研究生，研究方向包括 PbS 量子点、电泳沉积和近红外光电探测器。
 
 interests: 
+  - PbS 量子点
   - 电泳沉积
   - 光电探测器
-  - 胶体量子点
 
 user_groups:
   - 学生
 
 ---
 
-陈曦为深圳技术大学本科生，目前围绕 PbS 量子点电泳沉积开展研究，关注通过薄膜制备方法调控 PbS 量子点堆叠结构，从而降低器件中的非欧姆漏电流。
+陈曦为深圳技术大学光电信息工程专业研究生，研究工作聚焦基于电泳沉积技术的 PbS 量子点近红外光电探测器制备。他在低电压、稀溶液条件下开展功能型光电导近红外探测器研究，关注材料沉积过程与器件光电响应之间的关系。

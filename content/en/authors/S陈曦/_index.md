@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xi Chen
+title: Xi CHEN
 
 # Full name (for SEO)
 first_name: Xi
@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: Graduate Student
 
 #order
-order: B
+order: A
 
 # Organizations/Affiliations
 organizations:
@@ -25,16 +25,16 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include photodetectors, colloidal quantum dots, and electrophoretic deposition.
+bio: Graduate student in Optical Information Engineering, working on PbS quantum-dot near-infrared photodetectors based on electrophoretic deposition.
 
 interests: 
+  - PbS quantum dots
   - Electrophoretic deposition
   - Photodetectors
-  - Colloidal Quantum Dots
 
 user_groups:
   - Students
 
 ---
 
-Chen Xi is an undergraduate student at Shenzhen Technology University. His current work focuses on electrophoretic deposition of PbS quantum dots and the control of PbS QD film stacking, with the goal of reducing non-ohmic leakage current in photodetector devices.
+Xi Chen is a graduate student in the Optical Information Engineering program at Shenzhen Technology University. His research focuses on the fabrication of lead sulfide (PbS) quantum-dot near-infrared photodetectors based on electrophoretic deposition. He works toward functional photoconductive near-infrared photodetectors prepared under low-voltage and dilute-solution conditions.

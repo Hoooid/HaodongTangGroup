@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: 本科生
+role: 毕业生
 
 #order
-order: C
+order: D
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: 深圳技术大学微电子科学与工程专业本科生，研究方向包括读出电路芯片设计、胶体量子点和 CMOS 图像传感器。
+bio: 课题组毕业生，去向为南洋理工大学；在组期间研究方向包括读出电路芯片设计、胶体量子点和 CMOS 图像传感器。
 
 interests: 
   - 芯片设计
@@ -33,8 +33,8 @@ interests:
   - 胶体量子点
 
 user_groups:
-  - 学生
+  - 毕业生
 
 ---
 
-郑翌馨为深圳技术大学微电子科学与工程专业本科生，研究方向包括读出电路芯片设计、胶体量子点和 CMOS 图像传感器。曾在“挑战杯”等竞赛中获省级奖项。
+郑翌馨为课题组毕业生，去向为南洋理工大学。在组期间，她的研究方向包括读出电路芯片设计、胶体量子点和 CMOS 图像传感器。曾在“挑战杯”等竞赛中获省级奖项。

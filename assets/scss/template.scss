@@ -219,6 +219,173 @@ a:hover,
   text-transform: uppercase;
 }
 
+.np-destination-grid {
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-auto-rows: clamp(170px, 20vw, 250px);
+  gap: 0.85rem;
+}
+
+.np-destination-card {
+  position: relative;
+  display: block;
+  min-height: 0;
+  overflow: hidden;
+  background: var(--np-charcoal);
+  border: 1px solid rgba(46, 45, 41, 0.14);
+  border-radius: 0;
+  clip-path: polygon(0 0, 100% 0, 100% 82%, 88% 100%, 0 100%);
+  box-shadow: 0 18px 38px rgba(46, 45, 41, 0.13);
+  text-decoration: none !important;
+  transition: transform 180ms ease, box-shadow 180ms ease, filter 180ms ease;
+}
+
+.np-destination-card::before {
+  content: "";
+  position: absolute;
+  inset: -18% -10%;
+  z-index: 1;
+  background:
+    linear-gradient(118deg, rgba(255, 255, 255, 0.72) 0 21%, transparent 21% 100%),
+    linear-gradient(302deg, transparent 0 58%, rgba(255, 255, 255, 0.16) 58% 72%, transparent 72% 100%),
+    linear-gradient(36deg, transparent 0 64%, rgba(140, 21, 21, 0.5) 64% 100%);
+  mix-blend-mode: screen;
+  opacity: 0.5;
+  pointer-events: none;
+  transform: rotate(-5deg);
+  transition: opacity 180ms ease, transform 220ms ease;
+}
+
+.np-destination-card-tall {
+  grid-row: span 2;
+}
+
+.np-destination-card-wide {
+  grid-column: span 2;
+}
+
+.np-destination-card img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  transform: scale(1.01);
+  transition: transform 220ms ease, filter 220ms ease;
+}
+
+.np-destination-card-logo {
+  background:
+    linear-gradient(125deg, rgba(9, 64, 104, 0.95), rgba(236, 127, 33, 0.78)),
+    var(--np-charcoal);
+}
+
+.np-destination-card-logo img {
+  object-fit: contain;
+  padding: clamp(1.4rem, 3vw, 2.3rem);
+  background:
+    linear-gradient(130deg, rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.78)),
+    rgba(255, 255, 255, 0.86);
+}
+
+.np-destination-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background:
+    linear-gradient(180deg, rgba(20, 20, 18, 0.03), rgba(20, 20, 18, 0.78)),
+    linear-gradient(110deg, rgba(140, 21, 21, 0.18), rgba(46, 45, 41, 0.12));
+  opacity: 0.7;
+  transition: opacity 180ms ease;
+}
+
+.np-destination-card span {
+  position: absolute;
+  left: 1.1rem;
+  right: 1.1rem;
+  bottom: 1.05rem;
+  z-index: 2;
+  color: #fff;
+  font-family: var(--np-heading-font);
+  transform: translateY(0.4rem);
+  transition: transform 180ms ease;
+}
+
+.np-destination-card strong,
+.np-destination-card em {
+  display: block;
+  font-style: normal;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.36);
+}
+
+.np-destination-card strong {
+  font-size: clamp(1.08rem, 2vw, 1.55rem);
+  font-weight: 800;
+  line-height: 1.12;
+}
+
+.np-destination-card em {
+  margin-top: 0.28rem;
+  color: rgba(255, 255, 255, 0.86);
+  font-size: clamp(0.82rem, 1.35vw, 1rem);
+  font-weight: 650;
+  line-height: 1.28;
+}
+
+.np-destination-card:hover,
+.np-destination-card:focus {
+  transform: translateY(-4px);
+  box-shadow: 0 24px 54px rgba(46, 45, 41, 0.19);
+  outline: none;
+}
+
+.np-destination-card:hover img,
+.np-destination-card:focus img {
+  transform: scale(1.06);
+  filter: saturate(1.08) contrast(1.05);
+}
+
+.np-destination-card:hover::before,
+.np-destination-card:focus::before {
+  opacity: 0.72;
+  transform: rotate(-2deg) translateX(0.35rem);
+}
+
+.np-destination-card:hover::after,
+.np-destination-card:focus::after {
+  opacity: 0.94;
+}
+
+.np-destination-card:hover span,
+.np-destination-card:focus span {
+  transform: translateY(0);
+}
+
+@media (max-width: 900px) {
+  .np-destination-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-auto-rows: 190px;
+  }
+
+  .np-destination-card-tall {
+    grid-row: span 1;
+  }
+}
+
+@media (max-width: 560px) {
+  .np-destination-grid {
+    grid-template-columns: 1fr;
+    grid-auto-rows: 190px;
+  }
+
+  .np-destination-card-wide {
+    grid-column: span 1;
+  }
+}
+
 .np-join-hero h1 {
   max-width: 900px;
   margin: 0 0 1.4rem;

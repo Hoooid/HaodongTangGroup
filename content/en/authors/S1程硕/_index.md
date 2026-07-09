@@ -25,14 +25,15 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: Cheng Shuo is a first-year graduate student at Shenzhen Technology University, majoring in Optoelectronic Information Engineering. 
+bio: Graduate student in Optical Information Engineering, working on intelligent human sensing with quantum-dot short-wave infrared photodetectors.
 
 interests: 
-  - Optoelectronic Detection and Imaging
-  - Digital Integrated Circuit Design
+  - Intelligent human sensing
+  - Optoelectronic imaging and image processing
+  - Short-wave infrared photodetection
 
 user_groups:
   - Students
 
 ---
-Cheng Shuo is a first-year graduate student at Shenzhen Technology University, majoring in Optoelectronic Information Engineering. She graduated from China University of Petroleum with a bachelor's degree in Electronic Information Engineering, where she received the Comprehensive Merit Scholarship and the title of Excellent Student for three consecutive years. She also participated in the Innovation and Entrepreneurship Training Program for University Students and achieved excellent results, successfully completing the project. Additionally, she has won the Silver Award at the School Competition of the 7th China International "Internet +" College Students' Innovation and Entrepreneurship Competition and the Third Prize in Category B of the 13th Shandong Provincial College Students' Physics Competition.
+Shuo Cheng is a graduate student in the Optical Information Engineering program at Shenzhen Technology University. She is currently pursuing her master's research in the Advanced Display Laboratory under the supervision of Professor Haodong Tang. Her research primarily focuses on constructing human physiological monitoring systems with quantum-dot short-wave infrared photodetectors. By leveraging the optoelectronic properties of these detectors to capture human sensing data, she aims to advance intelligent sensing technologies.

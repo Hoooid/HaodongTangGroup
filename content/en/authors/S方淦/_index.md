@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: Alumnus
 
 #order
-order: B
+order: D
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My current research interests include digital integrated circuit design and embedded systems.
+bio: Group alumnus whose destination is The Hong Kong Polytechnic University; his work in the group included digital integrated circuits, FPGA, and photoconductors.
 
 interests: 
   - Digital Integrated Circuit 
@@ -33,8 +33,8 @@ interests:
   - Photoconductors
 
 user_groups:
-  - Students
+  - Alumni
 
 ---
 
-Gan FANG is a senior student at Shenzhen Technology University, majoring in Microelectronics Science and Engineering. He has achieved notable awards, including a Third Prize in the South China Regional Finals of the China College IC Competition (National College Students’ IC Innovation and Entrepreneurship Competition) and an Honorable Mention in the Mathematical Contest In Modeling (National Level) in November 2024. He has independently presented a paper on circuit design at the International Conference on Information Technologies and Electrical Engineering (ICITEE) 2024 and is the third author of a paper currently under review for an SCI journal, the Chemical Engineering Journal. In addition, he has participated in the design and verification of three key chip tape-out projects and completed project work at the Southeast University FPGA Summer Camp. 
+Gan Fang is a group alumnus whose destination is The Hong Kong Polytechnic University. During his time in the group, his interests included digital integrated circuit design, FPGA, and photoconductors. He received a Third Prize in the South China Regional Finals of the China College IC Competition and an Honorable Mention in the Mathematical Contest in Modeling, and he participated in circuit-design conference presentation, chip design and verification projects, and FPGA project training.

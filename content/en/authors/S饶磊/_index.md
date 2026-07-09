@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: Alumnus
 
 #order
-order: C
+order: D
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts) 
-bio: My research interests include readout circuit chip design, colloidal quantum dots and CMOS image sensors. 
+bio: Group alumnus whose destination is Universite de Technologie de Troyes; his work in the group included photodetectors, PbS colloidal quantum dots, and freeform optics.
 
 interests: 
   - Photodetectors
@@ -33,8 +33,8 @@ interests:
   - Freeform Optics
 
 user_groups:
-  - Students
+  - Alumni
 
 ---
 
-Rao Lei is a sophomore majoring in microelectronics science and engineering at Shenzhen University of Technology。He won the third prize at the provincial level in the 35th National Chemistry Olympiad (preliminary round).
+Lei Rao is a group alumnus whose destination is Universite de Technologie de Troyes. During his time in the group, his research interests included photodetectors, PbS colloidal quantum dots, and freeform optics. He received a provincial third prize in the National High School Chemistry Competition.
