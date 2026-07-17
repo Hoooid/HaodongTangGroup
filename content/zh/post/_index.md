@@ -1,11 +1,7 @@
 ---
-title: 最新动态
+title: 新闻推送
+description: 课题组论文发表、学术交流、会议获奖与团队动态。
 
-# Listing view
-view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+design:
+  css_class: np-news-page
 ---

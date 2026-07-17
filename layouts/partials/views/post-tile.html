@@ -1,0 +1,44 @@
+{{ $item := .item }}
+{{ $index := .index }}
+{{ $is_zh := eq site.Language.Lang "zh" }}
+{{ $fallback_image := resources.Get "media/Probstation.jpg" }}
+{{ $featured := $item.Resources.GetMatch "featured.*" }}
+{{ $image := $featured | default $fallback_image }}
+{{ if and $image (ne $image.MediaType.SubType "svg") }}
+  {{ $image = $image.Fill "720x405 webp q82" }}
+{{ end }}
+{{ $summary := $item.Params.summary | default $item.Summary }}
+
+<article class="np-news-card">
+  <a class="np-news-card-media" href="{{ $item.RelPermalink }}" aria-label="{{ $item.Title }}">
+    {{ with $image }}
+      <img
+        src="{{ .RelPermalink }}"
+        width="{{ .Width }}"
+        height="{{ .Height }}"
+        alt=""
+        loading="lazy"
+        decoding="async"
+      >
+    {{ end }}
+    <span>{{ printf "%02d" (add $index 1) }}</span>
+  </a>
+
+  <div class="np-news-card-body">
+    <time datetime="{{ $item.Date.Format "2006-01-02" }}">
+      {{ if $is_zh }}
+        {{ $item.Date.Format "2006 年 1 月 2 日" }}
+      {{ else }}
+        {{ $item.Date.Format "Jan 2, 2006" }}
+      {{ end }}
+    </time>
+    <h3><a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a></h3>
+    {{ with $summary }}
+      <p>{{ . | plainify | htmlUnescape }}</p>
+    {{ end }}
+    <a class="np-news-card-read" href="{{ $item.RelPermalink }}">
+      {{ if $is_zh }}阅读动态{{ else }}Read story{{ end }}
+      <i class="fas fa-arrow-right" aria-hidden="true"></i>
+    </a>
+  </div>
+</article>

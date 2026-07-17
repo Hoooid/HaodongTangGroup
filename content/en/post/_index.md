@@ -1,11 +1,7 @@
 ---
-title: Latest News
+title: Newsroom
+description: Papers, academic exchanges, conference highlights, and updates from the research group.
 
-# Listing view
-view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+design:
+  css_class: np-news-page
 ---

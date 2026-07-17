@@ -1,0 +1,67 @@
+{{- define "main" -}}
+
+{{ $is_zh := eq site.Language.Lang "zh" }}
+{{ $all_posts := .Data.Pages.ByDate.Reverse }}
+{{ $featured_count := 7 }}
+{{ $archive_posts := after $featured_count $all_posts }}
+{{ $paginator := .Paginate $archive_posts 12 }}
+{{ $carousel_block := dict
+  "content" (dict
+    "count" $featured_count
+    "autoplay" 6500
+    "show_header" false
+    "show_archive" false
+  )
+}}
+
+<main class="np-news-hub">
+  <header class="np-news-hub-intro">
+    <div>
+      <h1>{{ if $is_zh }}新闻推送{{ else }}Newsroom{{ end }}</h1>
+      <p>
+        {{ if $is_zh }}
+          记录课题组的论文发表、学术交流、会议获奖与团队动态。
+        {{ else }}
+          Papers, academic exchanges, conference highlights, and updates from the research group.
+        {{ end }}
+      </p>
+    </div>
+  </header>
+
+  {{ if eq $paginator.PageNumber 1 }}
+    <section class="np-news-featured" aria-label="{{ if $is_zh }}重点推荐{{ else }}Featured stories{{ end }}">
+      <header class="np-news-featured-header">
+        <h2>{{ if $is_zh }}近期重点{{ else }}Recent Highlights{{ end }}</h2>
+        <p>
+          {{ if $is_zh }}
+            最近 {{ len (first $featured_count $all_posts) }} 篇 · 共 {{ len $all_posts }} 篇
+          {{ else }}
+            Latest {{ len (first $featured_count $all_posts) }} of {{ len $all_posts }}
+          {{ end }}
+        </p>
+      </header>
+      {{ partial "blocks/recent-post-carousel.html" (dict "wcPage" . "wcBlock" $carousel_block) }}
+    </section>
+  {{ end }}
+
+  {{ if gt (len $archive_posts) 0 }}
+    <section class="np-news-library" aria-labelledby="np-news-library-title">
+      <div class="np-news-library-inner">
+        <header class="np-news-library-header">
+          <h2 id="np-news-library-title">{{ if $is_zh }}更多动态{{ else }}More Updates{{ end }}</h2>
+          <span>{{ if $is_zh }}按时间排序{{ else }}In chronological order{{ end }}</span>
+        </header>
+
+        <div class="np-news-grid">
+          {{ range $index, $item := $paginator.Pages }}
+            {{ partial "views/post-tile.html" (dict "item" $item "index" $index) }}
+          {{ end }}
+        </div>
+
+        {{ partial "pagination" . }}
+      </div>
+    </section>
+  {{ end }}
+</main>
+
+{{- end -}}

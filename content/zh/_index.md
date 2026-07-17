@@ -46,24 +46,16 @@ sections:
       css_class: np-home-recruit-section
         
   
-  - block: collection
+  - block: recent-post-carousel
     content:
+      eyebrow: Latest from the Lab
       title: 最新动态
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+      archive_text: 查看全部动态
+      count: 7
+      autoplay: 6500
     design:
-      view: card
       columns: '1'
+      css_class: np-home-post-carousel-section
   
   - block: markdown
     content:

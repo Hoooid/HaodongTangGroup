@@ -1,0 +1,140 @@
+{{/* Recent post carousel: automatically shows the newest posts in the current language. */}}
+{{ $block := .wcBlock }}
+{{ $items_count := $block.content.count | default 7 }}
+{{ $posts := first $items_count ((where site.RegularPages "Type" "post").ByDate.Reverse) }}
+{{ $archive_page := site.GetPage "section" "post" }}
+{{ $fallback_image := resources.Get "media/Probstation.jpg" }}
+{{ $is_zh := eq site.Language.Lang "zh" }}
+
+{{ $eyebrow := $block.content.eyebrow | default (cond $is_zh "Latest from the Lab" "Latest from the Lab") }}
+{{ $title := $block.content.title | default (cond $is_zh "近期动态" "Latest News") }}
+{{ $archive_text := $block.content.archive_text | default (cond $is_zh "查看全部动态" "View all posts") }}
+{{ $show_header := ne $block.content.show_header false }}
+{{ $show_archive := ne $block.content.show_archive false }}
+{{ $carousel_label := cond $is_zh "近期动态轮播" "Recent posts carousel" }}
+{{ $previous_label := cond $is_zh "上一篇动态" "Previous post" }}
+{{ $next_label := cond $is_zh "下一篇动态" "Next post" }}
+{{ $pause_label := cond $is_zh "暂停自动播放" "Pause autoplay" }}
+{{ $play_label := cond $is_zh "继续自动播放" "Resume autoplay" }}
+
+<div
+  class="np-post-carousel"
+  data-np-post-carousel
+  data-autoplay="{{ $block.content.autoplay | default 6500 }}"
+  data-pause-label="{{ $pause_label }}"
+  data-play-label="{{ $play_label }}"
+>
+  {{ if $show_header }}
+    <div class="np-post-carousel-header">
+      <div>
+        <p class="np-post-carousel-kicker">{{ $eyebrow }}</p>
+        <h2>{{ $title }}</h2>
+      </div>
+      {{ if and $show_archive $archive_page }}
+        <a class="np-post-carousel-archive" href="{{ .RelPermalink }}">
+          <span>{{ $archive_text }}</span>
+          <i class="fas fa-arrow-right" aria-hidden="true"></i>
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  <div class="np-post-carousel-stage">
+    <div
+      class="np-post-carousel-viewport"
+      data-np-carousel-viewport
+      aria-label="{{ $carousel_label }}"
+      tabindex="0"
+    >
+      <div class="np-post-carousel-track">
+        {{ range $index, $item := $posts }}
+          {{ $featured := $item.Resources.GetMatch "featured.*" }}
+          {{ $image := $featured | default $fallback_image }}
+          {{ if and $image (ne $image.MediaType.SubType "svg") }}
+            {{ $image = $image.Fill "1600x760 webp q82" }}
+          {{ end }}
+          {{ $summary := $item.Params.summary | default $item.Summary }}
+          <article
+            id="np-post-slide-{{ $index }}"
+            class="np-post-carousel-slide"
+            data-np-carousel-slide
+            aria-hidden="{{ if eq $index 0 }}false{{ else }}true{{ end }}"
+          >
+            <a
+              href="{{ $item.RelPermalink }}"
+              aria-label="{{ $item.Title }}"
+              {{ if ne $index 0 }}tabindex="-1"{{ end }}
+            >
+              {{ with $image }}
+                <img
+                  src="{{ .RelPermalink }}"
+                  width="{{ .Width }}"
+                  height="{{ .Height }}"
+                  alt=""
+                  loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"
+                  decoding="async"
+                >
+              {{ end }}
+              <span class="np-post-carousel-shade" aria-hidden="true"></span>
+              <span class="np-post-carousel-copy">
+                <span class="np-post-carousel-meta">
+                  <span>{{ printf "%02d" (add $index 1) }}</span>
+                  <time datetime="{{ $item.Date.Format "2006-01-02" }}">
+                    {{ if $is_zh }}
+                      {{ $item.Date.Format "2006 年 1 月 2 日" }}
+                    {{ else }}
+                      {{ $item.Date.Format "Jan 2, 2006" }}
+                    {{ end }}
+                  </time>
+                </span>
+                <strong>{{ $item.Title }}</strong>
+                {{ with $summary }}
+                  <span class="np-post-carousel-summary">{{ . | plainify | htmlUnescape }}</span>
+                {{ end }}
+                <span class="np-post-carousel-read">
+                  {{ if $is_zh }}阅读详情{{ else }}Read story{{ end }}
+                  <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                </span>
+              </span>
+            </a>
+          </article>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="np-post-carousel-toolbar">
+      <div class="np-post-carousel-progress" aria-live="polite">
+        <span data-np-carousel-current>01</span>
+        <span aria-hidden="true">/</span>
+        <span>{{ printf "%02d" (len $posts) }}</span>
+      </div>
+
+      <div class="np-post-carousel-dots" aria-label="{{ if $is_zh }}选择动态{{ else }}Choose a post{{ end }}">
+        {{ range $index, $item := $posts }}
+          <button
+            type="button"
+            data-np-carousel-dot="{{ $index }}"
+            aria-label="{{ if $is_zh }}查看第 {{ add $index 1 }} 条动态{{ else }}Show post {{ add $index 1 }}{{ end }}"
+            aria-controls="np-post-slide-{{ $index }}"
+            aria-current="{{ if eq $index 0 }}true{{ else }}false{{ end }}"
+          ></button>
+        {{ end }}
+      </div>
+
+      <div class="np-post-carousel-actions">
+        <button type="button" data-np-carousel-previous aria-label="{{ $previous_label }}" title="{{ $previous_label }}">
+          <i class="fas fa-arrow-left" aria-hidden="true"></i>
+        </button>
+        <button type="button" data-np-carousel-toggle aria-label="{{ $pause_label }}" title="{{ $pause_label }}">
+          <i class="fas fa-pause" aria-hidden="true"></i>
+        </button>
+        <button type="button" data-np-carousel-next aria-label="{{ $next_label }}" title="{{ $next_label }}">
+          <i class="fas fa-arrow-right" aria-hidden="true"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ $carousel_script := resources.Get "js/post-carousel.js" | minify | fingerprint }}
+<script src="{{ $carousel_script.RelPermalink }}" integrity="{{ $carousel_script.Data.Integrity }}" defer></script>
