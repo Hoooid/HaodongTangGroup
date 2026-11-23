@@ -22,30 +22,27 @@ order: B
 # Organizations/Affiliations
 organizations:
   - name: 南方科技大学
-    url: https://eee.sustech.edu.cn/?view=%E7%8E%8B%E6%81%BA&jsid=18
+    url: https://www.sustech.edu.cn/zh/faculties/wangkai.html
 
 interests:
-  - 量子点发光二极管
-  - 光电仿真
+  - 半导体激光器
+  - 量子点发光器件
+  - 自旋发光二极管与微型发光二极管
 
-  
 education:
   courses:
-    - course: 博士
-      institution: 慕尼黑工业大学
-      year: 2020
-    - course: 材料科学硕士
-      institution: 湖北大学
-      year: 2013
-    - course: 物理学学士
-      institution: 湖北工程学院
+    - course: 光学工程博士
+      institution: 华中科技大学
+      year: 2011
+    - course: 光信息科学与技术学士
+      institution: 华中科技大学
       year: 2006
 
 
 social:
   - icon: link
     icon_pack: fas
-    link: https://eee.sustech.edu.cn/?view=%E7%8E%8B%E6%81%BA&jsid=18
+    link: https://www.sustech.edu.cn/zh/faculties/wangkai.html
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=GIFaWXMAAAAJ&hl=en
@@ -54,4 +51,4 @@ user_groups:
 - 合作者
 ---
 
-王恺教授现任南方科技大学电子与电气工程系教授、博士生导师，长期从事新型显示技术和量子点光电器件研究。其研究方向包括量子点发光二极管、光电器件设计与仿真、微纳尺度光热调控等，在相关领域发表多篇 SCI 论文并持有多项中国发明专利，也参与广东省量子点先进显示与照明重点实验室建设。
+王恺教授现任南方科技大学电子与电气工程系长聘教授、博士生导师，并任广东省普通高校量子点先进显示与照明重点实验室副主任。他主要研究半导体发光器件，包括面向光电融合芯片的量子点面发射激光器、面向新型显示的量子点发光器件和自旋发光二极管。

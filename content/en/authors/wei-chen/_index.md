@@ -25,24 +25,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum dots, transient spectropy and GIXS.
+bio: My research interests include quantum dots, transient spectroscopy, and grazing-incidence X-ray scattering.
 
 interests:
   - Quantum Dots and Their Structural-efficiency Relationship
   - Grazing-incidence Small-angle X-ray Scattering (GISAXS)
-  - Transient Absorption and Emission Spectropy
+  - Transient absorption and emission spectroscopy
 
 education:
   courses:
     - course: PhD
       institution: Technical University of Munich
       year: 2020
-    - course: MEng in Materials Science
+    - course: MSc in Materials Science
       institution: Hubei University
       year: 2013
     - course: BSc in Physics
       institution: Hubei Engineering University
-      year: 2006
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -74,4 +74,4 @@ user_groups:
 
 ---
 
-Dr. Wei Chen is an experimental physicist and the PI of the Energy & Photonics Lab (EPL) at SZTU. Wei received his B.Sc. degree in physics at Hubei Engineering University (2006), M.Sc. degree in materials science at Hubei University (2013), and Ph.D. degree (Dr.rer.nat.) at the Technical University of Munich (TUM, 2020). Before moving to Germany for the Ph.D. study, Wei spent three years (2013-2016) working on CQD optoelectronic applications as a research assistant in the joint Lab led by Prof. Kai Wang & Chair Prof. Xiao Wei Sun at SUSTech where Wei received valuable experience in developing high-quality CQD materials and advanced optoelectronic applications.
+Wei Chen is a tenured associate professor in the College of Engineering Physics at Shenzhen Technology University and leads the Energy & Photonics Lab. He earned his bachelor's degree in physics from Hubei Engineering University in 2010, his master's degree in materials science from Hubei University in 2013, and his doctorate from the Technical University of Munich in 2020. From 2013 to 2016 he worked as a research assistant at Southern University of Science and Technology, studying colloidal quantum dots for optoelectronic devices.

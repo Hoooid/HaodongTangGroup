@@ -14,27 +14,27 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting Graduate Student
+role: Former Visiting Graduate Student
 
 #order
 order: A
 
 # Organizations/Affiliations
 organizations:
-  - name: Nanchang University 
-    url: ''
+  - name: Xidian University
+    url: https://www.xidian.edu.cn/
 
 # Short bio (displayed in user profile at end of posts) 
-bio: Zhong Andong is a second-year postgraduate student majoring in materials science and engineering at the School of Physics and Materials at Nanchang University. He has achieved numerous accolades, including winning a Second Place in the 14th National 3D Digital Innovation Design Competition in Jiangxi Province, a Second Place in  the "Jiangling Group Easy to Car Cup" Jiangxi Province 10th College Student Automobile Innovation Design Competition , National Encouragement Scholarship, excellent student leader recognition, outstanding merit student award, outstanding graduate distinction, as well as receiving Second Place in the Jiangxi Province Graduate Mathematical Modeling Competition.
+bio: Former visiting graduate student in the group and doctoral student at Xidian University.
 
-interests: 
-  - Semiconductor Material
-  - PbS CQD
-  - Photodetectors
+interests:
+  - PbS colloidal quantum dots
+  - Near-infrared photodetection
+  - Single-pixel imaging
 
 user_groups:
-  - Students
+  - Alumni
 
 ---
 
-Zhong Andong is a second-year postgraduate student majoring in materials science and engineering at the School of Physics and Materials at Nanchang University. He has achieved numerous accolades, including winning a Second Place in the 14th National 3D Digital Innovation Design Competition in Jiangxi Province, a Second Place in  the "Jiangling Group Easy to Car Cup" Jiangxi Province 10th College Student Automobile Innovation Design Competition , National Encouragement Scholarship, excellent student leader recognition, outstanding merit student award, outstanding graduate distinction, as well as receiving Second Place in the Jiangxi Province Graduate Mathematical Modeling Competition.
+Andong Zhong studied materials science and engineering at Nanchang University and was a visiting graduate student in the group. He joined the 2026 doctoral cohort at Xidian University, where he studies photodetectors for near-infrared single-pixel imaging. See the [doctoral student roster](https://faculty.xidian.edu.cn/LIUYUJIN/zh_CN/index/442505/list/index.htm).

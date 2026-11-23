@@ -30,7 +30,7 @@ education:
     - course: Doctor of Philosophy
       institution: University of Birmingham
       year: 2021
-    - course: Bechalor of Engineering
+    - course: Bachelor of Engineering
       institution: Southern University of Science and Technology
       year: 2017
 
@@ -44,7 +44,7 @@ social:
     link: 'mailto:tanghaodong@sztu.edu.cn'
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/my-orcid?orcid=0000-0002-5632-5096
+    link: https://orcid.org/0000-0002-5632-5096
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=TUagQGQAAAAJ&hl=zh-CN

@@ -22,24 +22,24 @@ order: C
 # Organizations/Affiliations
 organizations:
   - name: Shenzhen Technology University
-    url: ''
+    url: https://icoc.sztu.edu.cn/info/1015/1168.htm
 
 interests:
-  - Synthesis of Nano Particles
-  - Modification of Nano Materials
-  - Chiral Emission and Detection
+  - Colloidal quantum dot synthesis
+  - Chiroptical materials and devices
+  - Quantum dot photoresists and optoelectronic chip integration
 
 education:
   courses:
-    - course: PhD
-      institution: Technical University of Munich
-      year: 2020
-    - course: MEng in Materials Science
-      institution: Hubei University
-      year: 2013
-    - course: BSc in Physics
-      institution: Hubei Engineering University
-      year: 2006
+    - course: PhD in Chemical Sciences
+      institution: University of Bordeaux
+      year: 2021
+    - course: Master's degree
+      institution: Lanzhou University
+      year: 2011
+    - course: Bachelor's degree
+      institution: Zhengzhou University
+      year: 2008
 
 social:
   - icon: link
@@ -60,4 +60,4 @@ user_groups:
 
 ---
 
-Junjie Hao is an Associate Professor and PhD supervisor at Shenzhen Technology University, where he graduated with a PhD from the University of Bordeaux, France. Recognized as a Category C talent under Shenzhen's "Peacock Plan" and awarded the National Excellent Self-Financed Students Scholarship, Hao specializes in the precise morphological control of novel colloidal quantum dot materials with applications in advanced displays and photoelectric chips. He has published 59 SCI papers, cited over 2,000 times, holds 40 granted patents, and developed the QLuMiS luminescent microsphere technology to enhance quantum dot stability. His collaborations with major companies support advancements in quantum dot technologies for Micro-LED and 3D displays.
+Junjie Hao is an associate professor and master's supervisor in the College of Integrated Circuits and Optoelectronic Chips at Shenzhen Technology University. He received his PhD in chemical sciences from the University of Bordeaux in 2021. His research includes AI-assisted synthesis of colloidal quantum dots, how nanostructure affects chiroptical properties, quantum dot photoresists, and optoelectronic chip integration.

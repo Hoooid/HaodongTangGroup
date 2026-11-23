@@ -10,7 +10,7 @@ last_name: 孙
 superuser: false
 
 # Role/position
-role: 讲席教授 
+role: 讲席教授
 
 #order
 order: A
@@ -18,23 +18,27 @@ order: A
 # Organizations/Affiliations
 organizations:
   - name: 南方科技大学
-    url: ''
+    url: https://www.sustech.edu.cn/zh/faculties/sunxiaowei.html
 
 interests:
-  - 裸眼 3D 显示
-  - 量子点发光二极管
+  - 宽禁带半导体材料与器件
+  - 纳米晶显示与照明
+  - 扩展现实与 3D 显示
 
 education:
   courses:
-    - course: 博士
+    - course: 电机及电子工程博士
+      institution: 香港科技大学
+      year: 1998
+    - course: 光学仪器博士
       institution: 天津大学
-      year: 2020
-    - course: 材料科学硕士
-      institution: 湖北大学
-      year: 2013
-    - course: 物理学学士
-      institution: 湖北工程学院
-      year: 2006
+      year: 1994
+    - course: 光学仪器硕士
+      institution: 天津大学
+      year: 1992
+    - course: 光电子技术学士
+      institution: 天津大学
+      year: 1990
 
 social:
   - icon: link
@@ -53,4 +57,4 @@ user_groups:
 
 ---
 
-孙小卫教授现任南方科技大学讲席教授、纳米科学与应用研究院执行院长，并为俄罗斯工程院外籍院士。其长期从事纳米晶显示与照明技术研究，曾任新加坡南洋理工大学教授，在量子点发光、显示器件和纳米光电材料方向具有重要影响，发表论文数百篇并获得广泛引用。
+孙小卫教授现任南方科技大学电子与电气工程系讲席教授、纳米科学与应用研究院执行院长，曾任新加坡南洋理工大学教授、微电子中心主任。他是俄罗斯科学院外籍院士，以及 IEEE、Optica、SPIE、SID 和英国物理学会会士。主要研究宽禁带半导体材料与器件、纳米晶显示与照明、扩展现实与 3D 显示。

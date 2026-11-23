@@ -42,7 +42,7 @@ education:
       year: 2013
     - course: 物理学学士
       institution: 湖北工程学院
-      year: 2006
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -74,4 +74,4 @@ user_groups:
 
 ---
 
-陈威博士是深圳技术大学 Energy & Photonics Lab (EPL) 负责人，长期从事实验光物理、胶体量子点、瞬态光谱和结构表征相关研究。陈威于 2006 年获得湖北工程学院物理学学士学位，2013 年获得湖北大学材料科学硕士学位，2020 年获得慕尼黑工业大学博士学位。赴德国攻读博士前，他曾在南方科技大学王恺教授和孙小卫讲席教授团队联合实验室从事胶体量子点光电应用研究。
+陈威博士现任深圳技术大学工程物理学院长聘副教授、Energy & Photonics Lab (EPL) 负责人，主要从事实验光物理、胶体量子点、瞬态光谱及结构表征研究。他于 2010 年获湖北工程学院物理学学士学位、2013 年获湖北大学材料科学硕士学位、2020 年获慕尼黑工业大学博士学位。2013 至 2016 年，他曾在南方科技大学从事胶体量子点光电器件研究。
