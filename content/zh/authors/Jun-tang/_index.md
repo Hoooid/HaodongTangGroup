@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 助理教授
+role: 副教授
 
 #order
 order: D
@@ -36,7 +36,7 @@ education:
     - course: 先进材料与力学博士
       institution: 北京大学
       year: 2020
-    - course: 联合培养博士
+    - course: 博士联合培养
       institution: 德雷塞尔大学
       year: 2019
     - course: 凝聚态物理硕士
@@ -73,4 +73,4 @@ user_groups:
 
 ---
 
-唐俊博士现任深圳技术大学助理教授，入选深圳市“孔雀计划”C 类人才。其于 2020 年获得北京大学博士学位，博士期间主要开展新型储能材料与器件研究，并获得国家留学基金委资助赴美国德雷塞尔大学联合培养，研究二维过渡金属碳/氮化物材料在储能方向的应用。博士毕业后曾在南方科技大学材料科学与工程系从事博士后研究，已在 Adv. Energy Mater.、Angew. Chem. Int. Ed.、Energy Storage Mater.、J. Mater. Chem. A 等期刊发表多篇第一作者论文，并持有多项国家发明专利。
+唐俊博士现任深圳技术大学副教授，入选深圳市“孔雀计划”C 类人才。他于 2020 年获北京大学博士学位，博士期间曾赴美国德雷塞尔大学联合培养，毕业后在南方科技大学从事博士后研究。主要研究新型储能材料与器件，以及二维过渡金属碳化物和氮化物（MXenes）在储能中的应用。

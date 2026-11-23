@@ -14,27 +14,27 @@ authors:
 superuser: false
 
 # Role/position
-role: 访问研究生
+role: 曾任访问研究生
 
 #order
 order: A
 
 # Organizations/Affiliations
 organizations:
-  - name: 南昌大学
-    url: ''
+  - name: 西安电子科技大学
+    url: https://www.xidian.edu.cn/
 
 # Short bio (displayed in user profile at end of posts) 
-bio: 南昌大学物理与材料学院材料科学与工程专业研究生，研究方向包括半导体材料、PbS 胶体量子点和光电探测器。
+bio: 曾在本课题组访问，现为西安电子科技大学博士研究生。
 
-interests: 
-  - 半导体材料
+interests:
   - PbS 胶体量子点
-  - 光电探测器
+  - 近红外光电探测
+  - 单像素成像
 
 user_groups:
-  - 学生
+  - 毕业生
 
 ---
 
-钟安东为南昌大学物理与材料学院材料科学与工程专业研究生，曾获国家励志奖学金、优秀学生干部、优秀毕业生等荣誉，并在全国 3D 数字化创新设计大赛江西赛区、江西省研究生数学建模竞赛等竞赛中获奖。目前研究方向包括半导体材料、PbS 胶体量子点和光电探测器。
+钟安东曾在南昌大学学习材料科学与工程，并在本课题组访问。2026 年进入西安电子科技大学攻读博士学位，研究近红外单像素成像探测器。参见[西安电子科技大学导师主页](https://faculty.xidian.edu.cn/LIUYUJIN/zh_CN/index/442505/list/index.htm)。

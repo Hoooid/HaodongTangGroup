@@ -50,6 +50,10 @@ sections:
             <img src="/media/join-collaboration.jpg" alt="Employment">
             <span><strong>Kaijie LU</strong><em>Employment</em></span>
           </a>
+          <a class="np-destination-card" href="https://faculty.xidian.edu.cn/LIUYUJIN/zh_CN/index/442505/list/index.htm" target="_blank" rel="noopener" aria-label="Andong ZHONG - Xidian University">
+            <img src="/media/join-collaboration.jpg" alt="">
+            <span><strong>Andong ZHONG</strong><em>Xidian University</em></span>
+          </a>
         </div>
     design:
       columns: '1'

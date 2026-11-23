@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 #order
 order: D
@@ -39,7 +39,7 @@ education:
     - course: Joint PhD Training
       institution: Drexel University
       year: 2019
-    - course: MEng in Condensed Matter Physics
+    - course: Master's in Condensed Matter Physics
       institution: Lanzhou University
       year: 2014
     - course: BSc in Applied Physics
@@ -73,4 +73,4 @@ user_groups:
 
 ---
 
-Jun Tang is an Assistant Professor and a recipient of the "Peacock Plan" Category C talent in Shenzhen. He graduated with a PhD from Peking University in July 2020, where he focused on the research of novel energy storage materials and devices. During his PhD, he received the National CSC Scholarship for a joint training program at Drexel University, USA, to develop applications of new two-dimensional transition metal carbides/nitrides in energy storage. After his PhD, he joined the Department of Materials Science and Engineering at Southern University of Science and Technology as a postdoctoral researcher. He has published over ten papers as the first author in top-tier journals like Adv. Energy Mater., Angew. Chem. Int. Ed., Energy Storage Mater., and J. Mater. Chem. A, and holds three national patents (as of July 2022).
+Jun Tang is an associate professor at Shenzhen Technology University and a recipient of Shenzhen's Category C Peacock Plan award. He earned his PhD from Peking University in 2020, completed a visiting doctoral research placement at Drexel University, and then worked as a postdoctoral researcher at Southern University of Science and Technology. His research focuses on energy-storage materials and devices, including applications of two-dimensional transition metal carbides and nitrides (MXenes).

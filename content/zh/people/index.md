@@ -48,6 +48,10 @@ sections:
             <img src="/media/join-collaboration.jpg" alt="Employment">
             <span><strong>陆凯杰</strong><em>就业</em></span>
           </a>
+          <a class="np-destination-card" href="https://faculty.xidian.edu.cn/LIUYUJIN/zh_CN/index/442505/list/index.htm" target="_blank" rel="noopener" aria-label="钟安东 - 西安电子科技大学">
+            <img src="/media/join-collaboration.jpg" alt="">
+            <span><strong>钟安东</strong><em>西安电子科技大学</em></span>
+          </a>
         </div>
     design:
       columns: '1'

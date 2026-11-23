@@ -21,31 +21,28 @@ order: B
 
 # Organizations/Affiliations
 organizations:
-- name: Southern University of Science and Technology
-- url: xxx
+  - name: Southern University of Science and Technology
+    url: https://www.sustech.edu.cn/en/faculties/wangkai.html
 
 interests:
-  - Quantum Dot Light-emitting Diodes
-  - Optical and Electrical Simulation
+  - Semiconductor lasers
+  - Quantum-dot light-emitting devices
+  - Spin-LEDs and micro-LEDs
 
-  
 education:
   courses:
-    - course: PhD
-      institution: Technical University of Munich
-      year: 2020
-    - course: MEng in Materials Science
-      institution: Hubei University
-      year: 2013
-    - course: BSc in Physics
-      institution: Hubei Engineering University
+    - course: PhD in Optical Engineering
+      institution: Huazhong University of Science and Technology
+      year: 2011
+    - course: BSc in Opto-information Science and Technology
+      institution: Huazhong University of Science and Technology
       year: 2006
 
 
 social:
   - icon: link
     icon_pack: fas
-    link: https://eee.sustech.edu.cn/?view=%E7%8E%8B%E6%81%BA&jsid=18
+    link: https://www.sustech.edu.cn/en/faculties/wangkai.html
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=GIFaWXMAAAAJ&hl=en
@@ -54,4 +51,4 @@ user_groups:
 - Collaborators
 ---
 
-Kai Wang is a tenured Professor and PhD supervisor at the Department of Electronics, Southern University of Science and Technology. He's distinguished by the National Science Fund for Distinguished Young Scholars and holds prestigious awards from Guangdong Province. Specializing in novel display technologies and quantum dot photoelectric devices, Wang has published over 200 SCI papers with an H-index of 52 and holds more than 40 Chinese invention patents. His notable contributions include advancements in photon generation from quantum dots and heat dissipation at micro-nano scales. Wang's research accolades include national and provincial science awards, and he's recognized globally, consistently ranking among the top 2% of scientists listed by Stanford University. He also serves as Vice Director of the Guangdong Provincial Key Laboratory of Quantum Dot Advanced Displays and Lighting.
+Kai Wang is a tenured professor and PhD supervisor in the Department of Electrical and Electronic Engineering at Southern University of Science and Technology. He serves as deputy director of the Guangdong Provincial Key Laboratory of Quantum Dot Advanced Display and Lighting. His research focuses on semiconductor light-emitting devices, including quantum-dot surface-emitting lasers, quantum-dot light-emitting devices for displays, and spin-LEDs.

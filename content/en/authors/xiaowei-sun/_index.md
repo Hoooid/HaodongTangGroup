@@ -10,7 +10,7 @@ last_name: 孙
 superuser: false
 
 # Role/position
-role: Chair Professor 
+role: Chair Professor
 
 #order
 order: A
@@ -18,28 +18,32 @@ order: A
 # Organizations/Affiliations
 organizations:
   - name: Southern University of Science and Technology
-    url: ''
+    url: https://www.sustech.edu.cn/en/faculties/sunxiaowei.html
 
 interests:
-  - Naked-eye 3D Display
-  - Quantum Dot Light-emitting Diodes
+  - Wide-bandgap semiconductor materials and devices
+  - Nanocrystal-based displays and lighting
+  - Extended reality and 3D displays
 
 education:
   courses:
-    - course: PhD
+    - course: PhD in Electrical and Electronic Engineering
+      institution: The Hong Kong University of Science and Technology
+      year: 1998
+    - course: PhD in Optical Instruments
       institution: Tianjin University
-      year: 2020
-    - course: MEng in Materials Science
-      institution: Hubei University
-      year: 2013
-    - course: BSc in Physics
-      institution: Hubei Engineering University
-      year: 2006
+      year: 1994
+    - course: MSc in Optical Instruments
+      institution: Tianjin University
+      year: 1992
+    - course: BSc in Optoelectronics
+      institution: Tianjin University
+      year: 1990
 
 social:
   - icon: link
     icon_pack: fas
-    link: https://www.sustech.edu.cn/zh/faculties/sunxiaowei.html
+    link: https://www.sustech.edu.cn/en/faculties/sunxiaowei.html
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=XSt5wesAAAAJ&hl=zh-CN
@@ -53,4 +57,4 @@ user_groups:
 
 ---
 
-Xiaowei Sun is a Chair Professor and Executive Dean of the Institute for Nanoscience and Applications at Southern University of Science and Technology (SUSTech), and a foreign member of the Russian Academy of Engineering. Previously a professor at Nanyang Technological University, Sun has significant contributions to nanocrystal-based display and lighting technologies, with over 700 publications, more than 30,000 citations, and an H-index of 96. He is a Fellow of several prestigious societies, including OSA, SPIE, SID, and IoP, and a recognized Elsevier Highly Cited Researcher and a Stanford top 2% global scientist.
+Xiao Wei Sun is a Chair Professor in the Department of Electrical and Electronic Engineering at Southern University of Science and Technology (SUSTech) and serves as Executive Dean of its Institute of Nanoscience and Applications. He previously served as a professor and directed the Microelectronics Center at Nanyang Technological University. He is a foreign member of the Russian Academy of Sciences and a Fellow of IEEE, Optica, SPIE, SID, and the Institute of Physics. His research spans wide-bandgap semiconductors, nanocrystal-based display and lighting technologies, and extended reality and 3D displays.
